@@ -1,0 +1,836 @@
+/* ============================================================
+   THE GATHERING DARK — Symbaroum Campaign Chronicle
+   Stylesheet: Japanese ink-wash meets dark European fantasy
+   ============================================================ */
+
+/* --- Google Fonts --- */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
+
+/* --- Custom Properties --- */
+:root {
+  --bg:          #0c0a08;
+  --bg-surface:  #131109;
+  --bg-elevated: #1a1712;
+  --gold:        #c9a84c;
+  --gold-dim:    #7a6330;
+  --ink:         #e8e0d0;
+  --ink-dim:     #8a7f6e;
+  --accent:      #3d2b1f;
+
+  --font-heading: 'Cinzel', 'Georgia', serif;
+  --font-body:    'EB Garamond', 'Georgia', serif;
+
+  --nav-height:   64px;
+  --readable-col: 65ch;
+  --detail-col:   720px;
+}
+
+/* --- Reset & Base --- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 18px;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.75;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* --- Grain Texture Overlay --- */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.04;
+  background-image: url("../images/texture-washi.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* --- Page Fade-in --- */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.page-fade {
+  animation: fadeIn 0.7s ease both;
+}
+
+/* --- Navigation --- */
+.site-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  height: var(--nav-height);
+  background: rgba(12, 10, 8, 0.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--accent);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2.5rem;
+}
+
+.nav-title {
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  text-decoration: none;
+  transition: color 0.25s ease;
+}
+
+.nav-title:hover {
+  color: var(--gold);
+}
+
+.nav-back {
+  font-family: var(--font-heading);
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: color 0.25s ease;
+}
+
+.nav-back:hover {
+  color: var(--gold);
+}
+
+.nav-back::before {
+  content: '←';
+  font-style: normal;
+}
+
+/* ============================================================
+   INDEX PAGE
+   ============================================================ */
+
+/* --- Hero Section --- */
+.hero {
+  position: relative;
+  width: 100%;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: calc(var(--nav-height) + 2rem) 2rem 4rem;
+  overflow: hidden;
+}
+
+/* Vignette base */
+.hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at center, transparent 30%, rgba(12, 10, 8, 0.6) 70%, var(--bg) 100%);
+  pointer-events: none;
+}
+
+/* Slow ink-wash drift animation */
+@keyframes inkDrift {
+  0%   { transform: scale(1)    translate(0, 0); }
+  33%  { transform: scale(1.04) translate(-1%, 0.8%); }
+  66%  { transform: scale(1.02) translate(1%, -0.5%); }
+  100% { transform: scale(1)    translate(0, 0); }
+}
+
+.hero-bg {
+  position: absolute;
+  inset: -5%;
+  background:
+    radial-gradient(ellipse 80% 60% at 50% 30%, rgba(201, 168, 76, 0.05) 0%, transparent 70%),
+    radial-gradient(ellipse 60% 80% at 20% 70%, rgba(61, 43, 31, 0.4) 0%, transparent 60%),
+    radial-gradient(ellipse 70% 50% at 80% 60%, rgba(12, 10, 8, 0.8) 0%, transparent 70%);
+  animation: inkDrift 20s ease-in-out infinite;
+  pointer-events: none;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  max-width: 700px;
+}
+
+.hero-eyebrow {
+  font-family: var(--font-heading);
+  font-size: 0.7rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  margin-bottom: 1.5rem;
+}
+
+.hero-title {
+  font-family: var(--font-heading);
+  font-size: clamp(2.8rem, 7vw, 5.5rem);
+  font-weight: 700;
+  line-height: 1.05;
+  color: var(--ink);
+  letter-spacing: 0.04em;
+  margin-bottom: 0.75rem;
+}
+
+.hero-title span {
+  color: var(--gold);
+}
+
+.hero-subtitle {
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  margin-bottom: 2.5rem;
+}
+
+.hero-tagline {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 1.25rem;
+  color: var(--ink-dim);
+  line-height: 1.6;
+  margin-bottom: 3.5rem;
+}
+
+.hero-scroll-cue {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--gold-dim);
+  font-family: var(--font-heading);
+  font-size: 0.65rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.hero-scroll-cue:hover {
+  color: var(--gold);
+}
+
+@keyframes scrollBounce {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(6px); }
+}
+
+.hero-scroll-cue .arrow {
+  display: block;
+  font-size: 1.2rem;
+  animation: scrollBounce 2.5s ease-in-out infinite;
+}
+
+/* --- Campaign Introduction --- */
+.campaign-intro {
+  padding: 6rem 2rem 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section-ornament {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin-bottom: 3rem;
+}
+
+.section-ornament .rule {
+  width: 80px;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--gold-dim));
+}
+
+.section-ornament .rule.right {
+  background: linear-gradient(to left, transparent, var(--gold-dim));
+}
+
+.section-ornament .glyph {
+  color: var(--gold-dim);
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.section-heading {
+  font-family: var(--font-heading);
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  color: var(--ink);
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.intro-text {
+  max-width: var(--readable-col);
+  font-size: 1.1rem;
+  line-height: 1.85;
+  color: var(--ink);
+}
+
+.intro-text p {
+  margin-bottom: 1.4rem;
+}
+
+.intro-text p:last-child {
+  margin-bottom: 0;
+}
+
+.intro-text p:first-child::first-letter {
+  float: left;
+  font-family: var(--font-heading);
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 0.85;
+  color: var(--gold);
+  margin-right: 0.08em;
+  margin-top: 0.06em;
+}
+
+/* --- Gallery Section --- */
+.gallery-section {
+  padding: 4rem 2rem 6rem;
+}
+
+.gallery-section-header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.gallery-section-header .section-heading {
+  margin-bottom: 0;
+}
+
+/* Character Group */
+.character-group {
+  margin-bottom: 5rem;
+}
+
+.character-group:last-child {
+  margin-bottom: 0;
+}
+
+.group-label {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--accent);
+}
+
+.group-label-name {
+  font-family: var(--font-heading);
+  font-size: 0.75rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  white-space: nowrap;
+}
+
+.group-label-line {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(to right, var(--accent), transparent);
+}
+
+/* Scene Grid */
+.scene-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+/* Scene Card */
+.scene-card {
+  display: block;
+  text-decoration: none;
+  background: var(--bg-surface);
+  border: 1px solid var(--gold-dim);
+  overflow: hidden;
+  position: relative;
+  transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.scene-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--gold);
+  box-shadow: 0 0 24px rgba(201, 168, 76, 0.15), 0 8px 32px rgba(0, 0, 0, 0.6);
+}
+
+.scene-card-thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 11;
+  object-fit: cover;
+  object-position: center top;
+  filter: brightness(0.9) contrast(1.05);
+  transition: filter 0.3s ease;
+}
+
+.scene-card:hover .scene-card-thumb {
+  filter: brightness(1.0) contrast(1.05);
+}
+
+.scene-card-body {
+  padding: 0.85rem 1rem 1rem;
+}
+
+.scene-card-title {
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  color: var(--ink);
+  font-weight: 400;
+  margin-bottom: 0.3rem;
+  line-height: 1.3;
+}
+
+.scene-card-character {
+  font-family: var(--font-heading);
+  font-size: 0.62rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+}
+
+/* ============================================================
+   SCENE DETAIL PAGE
+   ============================================================ */
+
+.scene-page {
+  padding-top: var(--nav-height);
+}
+
+/* Full-bleed hero image */
+.scene-hero {
+  position: relative;
+  width: 100%;
+  background: #000;
+  line-height: 0;
+}
+
+/* Single image */
+.scene-hero-single img {
+  display: block;
+  width: 100%;
+  max-height: 85vh;
+  object-fit: cover;
+  object-position: center top;
+}
+
+/* Dual images side by side */
+.scene-hero-dual {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px;
+}
+
+.scene-hero-dual img {
+  display: block;
+  width: 100%;
+  max-height: 85vh;
+  object-fit: cover;
+  object-position: center top;
+}
+
+/* Title overlay at bottom of hero */
+.scene-hero-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 3.5rem 2.5rem 1.75rem;
+  background: linear-gradient(to top, rgba(12,10,8,0.95) 0%, rgba(12,10,8,0.6) 60%, transparent 100%);
+  line-height: 1;
+}
+
+.scene-hero-character {
+  font-family: var(--font-heading);
+  font-size: 0.7rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  margin-bottom: 0.6rem;
+  display: block;
+}
+
+.scene-hero-title {
+  font-family: var(--font-heading);
+  font-size: clamp(1.6rem, 4vw, 2.8rem);
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: 0.04em;
+  line-height: 1.1;
+}
+
+/* Divider between image and text */
+.scene-divider {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2.5rem 0;
+  overflow: visible;
+}
+
+.scene-divider::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 1px;
+  background: var(--gold-dim);
+  transform: translateY(-50%);
+}
+
+.scene-divider-glyph {
+  position: relative;
+  z-index: 1;
+  background: var(--bg);
+  padding: 0 1.25rem;
+  line-height: 0;
+}
+
+/* Sun / Prios glyph SVG */
+.divider-sun {
+  display: block;
+  width: 28px;
+  height: 28px;
+  opacity: 0.7;
+}
+
+/* Narrative text block */
+.scene-narrative {
+  padding: 0 2rem 6rem;
+  display: flex;
+  justify-content: center;
+}
+
+.scene-narrative-inner {
+  max-width: var(--detail-col);
+  width: 100%;
+}
+
+.scene-description {
+  font-family: var(--font-body);
+  font-size: 1.2rem;
+  line-height: 1.85;
+  color: var(--ink);
+  font-style: italic;
+}
+
+/* Drop-cap */
+.scene-description::first-letter {
+  float: left;
+  font-family: var(--font-heading);
+  font-size: 4.2rem;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 0.82;
+  color: var(--gold);
+  margin-right: 0.06em;
+  margin-top: 0.08em;
+  padding-bottom: 0.05em;
+}
+
+/* --- 404 / Not Found --- */
+.not-found {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: calc(var(--nav-height) + 2rem) 2rem 4rem;
+  gap: 1.5rem;
+}
+
+.not-found-code {
+  font-family: var(--font-heading);
+  font-size: 5rem;
+  font-weight: 700;
+  color: var(--accent);
+  line-height: 1;
+}
+
+.not-found h2 {
+  font-family: var(--font-heading);
+  font-size: 1.3rem;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  color: var(--ink-dim);
+}
+
+.not-found p {
+  color: var(--ink-dim);
+  font-size: 1rem;
+  max-width: 40ch;
+}
+
+.btn-ghost {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.65rem 1.75rem;
+  border: 1px solid var(--gold-dim);
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  text-decoration: none;
+  transition: border-color 0.25s ease, color 0.25s ease, background 0.25s ease;
+}
+
+.btn-ghost:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+  background: rgba(201, 168, 76, 0.05);
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+
+.site-footer {
+  border-top: 1px solid var(--accent);
+  padding: 2.5rem 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.footer-text {
+  font-family: var(--font-heading);
+  font-size: 0.65rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+
+/* Tablet */
+@media (max-width: 900px) {
+  .scene-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .scene-hero-dual {
+    grid-template-columns: 1fr 1fr;
+    gap: 3px;
+  }
+
+  .site-nav {
+    padding: 0 1.5rem;
+  }
+
+  .scene-hero-overlay {
+    padding: 2.5rem 1.5rem 1.25rem;
+  }
+}
+
+/* Mobile */
+@media (max-width: 580px) {
+  html {
+    font-size: 16px;
+  }
+
+  .scene-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .scene-hero-dual {
+    grid-template-columns: 1fr;
+    gap: 3px;
+  }
+
+  .scene-hero-dual img {
+    max-height: 55vw;
+  }
+
+  .hero-title {
+    font-size: clamp(2.2rem, 10vw, 3rem);
+  }
+
+  .campaign-intro,
+  .gallery-section {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+
+  .scene-narrative {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+
+  .site-nav {
+    padding: 0 1rem;
+  }
+
+  .site-footer {
+    padding: 2rem 1.25rem;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .scene-hero-overlay {
+    padding: 2rem 1rem 1rem;
+  }
+}
+
+/* Wide screens */
+@media (min-width: 1400px) {
+  .scene-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Loading state */
+.loading-state {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ink-dim);
+  font-family: var(--font-heading);
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.4; }
+  50%       { opacity: 1; }
+}
+
+.loading-state {
+  animation: pulse 1.8s ease-in-out infinite;
+}
+
+/* ============================================================
+   IMAGE MODAL (LIGHTBOX)
+   ============================================================ */
+
+/* Prevent body scroll when modal is open */
+body.modal-open {
+  overflow: hidden;
+}
+
+/* Cursor hint on zoomable images */
+.scene-zoomable {
+  cursor: zoom-in;
+}
+
+/* Modal shell — hidden by default */
+#image-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+#image-modal.is-open {
+  opacity: 1;
+  pointer-events: all;
+}
+
+/* Dark backdrop */
+.modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(6, 5, 4, 0.94);
+  cursor: zoom-out;
+}
+
+/* Close button */
+.modal-close {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.5rem;
+  z-index: 1;
+  background: none;
+  border: 1px solid var(--gold-dim);
+  color: var(--ink-dim);
+  font-size: 1.5rem;
+  line-height: 1;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 2px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.modal-close:hover {
+  color: var(--gold);
+  border-color: var(--gold);
+}
+
+/* Image container — fills viewport with padding so image has breathing room */
+.modal-img-wrap {
+  position: relative;
+  z-index: 1;
+  max-width: 95vw;
+  max-height: 92vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-img {
+  display: block;
+  max-width: 95vw;
+  max-height: 92vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  box-shadow: 0 0 80px rgba(0, 0, 0, 0.8);
+  /* Subtle gold border to frame the art */
+  outline: 1px solid var(--gold-dim);
+}

@@ -1,0 +1,3 @@
+# No build artifacts — pure static HTML
+*.DS_Store
+.env

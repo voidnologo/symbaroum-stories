@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Gathering Dark — A Symbaroum Campaign Chronicle</title>
+  <meta name="description" content="A chronicle of The Gathering Dark, a long-running Symbaroum campaign. Illustrated moments from Agathara Silvershade, Karano, Reginald, and Aro Sunspear." />
+  <meta property="og:title" content="The Gathering Dark — A Symbaroum Campaign Chronicle" />
+  <meta property="og:description" content="Into the forest. Into the dark. Into what we become." />
+  <meta property="og:type" content="website" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body data-page="index">
+
+  <!-- Navigation -->
+  <nav class="site-nav" aria-label="Site navigation">
+    <a class="nav-title" href="index.html">The Gathering Dark</a>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="hero-bg" aria-hidden="true"></div>
+    <div class="hero-content">
+      <p class="hero-eyebrow">A Symbaroum Campaign Chronicle</p>
+      <h1 class="hero-title" id="hero-title">
+        The <span>Gathering</span> Dark
+      </h1>
+      <p class="hero-subtitle">Illustrated Moments from the Chronicle</p>
+      <p class="hero-tagline">
+        Into the forest.&ensp;Into the dark.&ensp;Into what we become.
+      </p>
+      <a class="hero-scroll-cue" href="#chronicle" aria-label="Scroll to the chronicle">
+        <span class="arrow">↓</span>
+        Enter
+      </a>
+    </div>
+  </section>
+
+  <!-- Campaign Introduction -->
+  <section class="campaign-intro page-fade" id="chronicle" aria-labelledby="intro-heading">
+    <div class="section-ornament" aria-hidden="true">
+      <span class="rule"></span>
+      <span class="glyph">☀</span>
+      <span class="rule right"></span>
+    </div>
+    <h2 class="section-heading" id="intro-heading">The Chronicle</h2>
+    <div class="intro-text">
+      <p>North of Ambria — north of the refugee camps and the rebuilt cities, north of the Queen's new roads and the Church of Prios with its ordered hymns and its careful silences — the forest of Davokar begins. It does not ease you in. One moment the world is broken but comprehensible: politics, poverty, survival. The next, the canopy closes and the light changes quality, and something behind the leaves has noticed you. Davokar is not wilderness. It is memory — ancient, corrupted, and very much alive.</p>
+
+      <p>Corruption is the toll the forest levies on those who touch its power. A theurg channels divine fire and her skin darkens where the blessings burn through her. A scholar reads a forbidden text and feels something shift behind his eyes, a door opening that will not close again. The more you reach for what Davokar offers — and it offers much — the more it reaches back. There are those who have taken too much, and they no longer pass for human. They are called abominations. Once, they were people with names.</p>
+
+      <p>This is the story of four who walked into the dark and have not yet stopped walking. <strong>Agathara Silvershade</strong>, Confessor of Prios, burns with holy light she cannot always control. Every miracle she works carves another mark into her — but she works them anyway, because the alternative is to let the dark have what it wants. <strong>Karano</strong>, an Ironsworn hunter of singular calm, carries nothing that Davokar can corrupt. He has walked through storms that crippled his companions and emerged without a mark, not because he is protected, but because he has nothing in him that the forest knows how to take. <strong>Reginald</strong> is a scholar who opened a door in his mind in a library he was not meant to enter, and now sees the world laid over itself in amber and silver light — Witch Sight, they call it. He is still deciding if it was worth it. And then there is <strong>Aro Sunspear</strong>, a patron saint who should be dead and is not, flickering at the edges of rooms like a candle someone forgot to extinguish, still fighting, still illuminating the path ahead.</p>
+
+      <p>These pages hold moments from their years together — illustrated in the tradition of Japanese ink-wash painting, dark and precise, each image a still point in a story that has not ended. Click any scene to read what happened there.</p>
+    </div>
+  </section>
+
+  <!-- Gallery Section -->
+  <section class="gallery-section page-fade" aria-labelledby="gallery-heading">
+    <div class="gallery-section-header">
+      <div class="section-ornament" aria-hidden="true">
+        <span class="rule"></span>
+        <span class="glyph">✦</span>
+        <span class="rule right"></span>
+      </div>
+      <h2 class="section-heading" id="gallery-heading">Moments from the Chronicle</h2>
+    </div>
+
+    <!-- Gallery root: populated by main.js -->
+    <div id="gallery-root" aria-live="polite">
+      <div class="loading-state" aria-label="Loading scenes">Loading scenes&hellip;</div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer" role="contentinfo">
+    <span class="footer-text">The Gathering Dark &mdash; A Symbaroum Campaign</span>
+    <span class="footer-text">Symbaroum &copy; Järnringen AB &middot; Artwork generated with AI assistance</span>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

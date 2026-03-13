@@ -1,0 +1,148 @@
+[
+  {
+    "id": "agathara-crown-ship",
+    "title": "Sole Defender",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "Inside a narrow crack in the Mother Tree's massive trunk in Davokar, Agathara makes her third and final attempt to unleash Prios Burning Glass against the Manogal swarm — the only party member to resist all four enthrallment checks while her companions lie paralyzed around her. Kneeling in the cramped passage, golden radiance finally erupts from her hands toward the rearing bat-creatures.",
+    "images": [
+      "scene-agathara-crown-ship_v01_678056744595008.png",
+      "scene-agathara-crown-ship_v02_4510663692155288.png"
+    ],
+    "source": "outputs/extractions/2024-11-13_extraction.md",
+    "searchHint": "\"Burning Glass\" or \"enthrall\" or \"Mother Tree\" or \"Manogal\""
+  },
+  {
+    "id": "agathara-bridge-horde",
+    "title": "The Bridge at Yonderos",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "During the desperate rear-guard defense at Yonderos bridge, Agathara activates Holy Aura and Prios Burning Glass simultaneously — golden aura rings pulse outward across the crumbling stone as waves of blight-born creatures dissolve into light.",
+    "images": ["scene-agathara-bridge-horde_v01_8586466393576651.png"],
+    "source": "outputs/extractions/2025-11-05_extraction.md",
+    "searchHint": "\"Holy Aura\" or \"bridge\" or \"blight-born\""
+  },
+  {
+    "id": "agathara-death-prince",
+    "title": "Audience with the Death Prince",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "Inside the Crown Ship throne room, Agathara stands alone before the ancient undead Death Prince Cantor Anoreal — seated on the ship's throne — and offers an otherworldly medallion in her bare hand to purchase the freedom of two Ambrian prisoners from a sunrise sacrifice ritual.",
+    "images": ["scene-agathara-death-prince_v01_8898186889872238.png"],
+    "source": "outputs/extractions/2024-10-16_extraction.md",
+    "searchHint": "\"Cantor Anoreal\" or \"Death Prince\" or \"medallion\""
+  },
+  {
+    "id": "aro-flickering-nighthome",
+    "title": "Flickering Return",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "After fighting abominations alone throughout the city while the party was separated, Aro returns to Nighthome's entrance hall — his divine light sputtering and phasing, an impaled goblin hanging from a broken window behind him. The cost of sustained solo combat made visible in unstable golden light.",
+    "images": ["scene-aro-flickering-nighthome_v01_5265524913328310.png"],
+    "source": "outputs/extractions/2026-01-21_extraction.md",
+    "searchHint": "\"Aro\" or \"flickering\" or \"Nighthome\""
+  },
+  {
+    "id": "aro-danger-sense",
+    "title": "Danger Sense",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "Outside a tunnel exit in Davokar, Aro Sunspear begins glowing increasingly brighter — his danger sense triggering as something large approaches the camp from an unexpected direction. Golden form at the edge of the forest, light intensifying against the vast dark of Davokar. The warning before the threat arrives.",
+    "images": ["scene-aro-danger-sense_v01_7740082599398344.png"],
+    "source": "outputs/extractions/2026-01-28_extraction.md",
+    "searchHint": "\"Aro\" or \"glowing\" or \"danger\""
+  },
+  {
+    "id": "karano-opal-storm",
+    "title": "The Opal Storm",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "Crossing the Opal Storm surrounding Othelius Arboretum Island — a corruption-destroying phenomenon that nearly kills the more corrupted party members — Karano walks through it completely unaffected. He carries zero corruption at that moment. The swirling opalescent storm churns around him and cannot touch him.",
+    "images": ["scene-karano-opal-storm_v02_4703526949279550.png"],
+    "source": "outputs/extractions/2025-08-20_extraction.md",
+    "searchHint": "\"Opal Storm\" or \"Karano\" or \"corruption\""
+  },
+  {
+    "id": "karano-davokar-lost",
+    "title": "The Impossible City",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "After critically failing a Bushcraft check in Davokar, Karano climbs a tree to orient himself and sees something impossible: Thistle Hold — which supposedly exploded — standing intact on the horizon, its beacon lit and city lights glowing. Hunter in the high forest canopy, through branches: a city that should not exist.",
+    "images": ["scene-karano-davokar-lost_v02_6167642033172883.png"],
+    "source": "outputs/extractions/2026-01-28_extraction.md",
+    "searchHint": "\"Karano\" or \"Bushcraft\" or \"Thistle Hold\" or \"beacon\""
+  },
+  {
+    "id": "karano-fata-morgana",
+    "title": "Fata Morgana",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "At an illusory oasis in the Alberetor wasteland, mind-controlled by the Fata Morgana lake creature, Karano walks toward the deadly water in a trance — saved at the last moment by Lamerra's secret undead soldiers emerging from the darkness behind him and grabbing him two steps from the edge.",
+    "images": ["scene-karano-fata-morgana_v01_8534134873456630.png"],
+    "source": "outputs/extractions/2025-06-04_extraction.md",
+    "searchHint": "\"Fata Morgana\" or \"mind-control\" or \"lake\" or \"undead soldiers\""
+  },
+  {
+    "id": "karano-ricochet-shot",
+    "title": "The Impossible Shot",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "On a ridgeline above the Veiled Library, using Master Trick Archery on a critical success — a natural 1 on the die — Karano kills a sorcerer hiding behind rocks with an arrow that bends impossibly around the obstacle. The calligraphic arrow-path curves around cover to reach the sorcerer on the other side.",
+    "images": ["scene-karano-ricochet-shot_v01_5215444410095610.png"],
+    "source": "outputs/extractions/2025-07-23_extraction.md",
+    "searchHint": "\"ricochet\" or \"trick shot\" or \"sorcerer\" or \"cover\""
+  },
+  {
+    "id": "reginald-thistle-beasts",
+    "title": "Thistle Beast Ambush",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "At a street intersection in the corrupted ruins of Thistle Hold, Reginald engages four massive acidic-blooded thistle beasts largely solo, landing a 14-damage Master Backstab followed by a second 14-damage hit with hypnotic poison. Acid gore soaks his scholar's robe throughout the fight.",
+    "images": ["scene-reginald-thistle-beasts_v02_6445944310933306.png"],
+    "source": "outputs/extractions/2026-01-07_extraction.md",
+    "searchHint": "\"thistle beast\" or \"Backstab\" or \"acid\""
+  },
+  {
+    "id": "reginald-critical-manigal",
+    "title": "Critical Strike",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "In a cave structure near the Ziggurat in Davokar, using the Omalkin pendant to emerge from near-invisibility, Reginald rolls a natural 1 — critical success — on a Feint attack, knocking the first Manigal unconscious before it can use its enthralling song. Emerging from stealth shimmer, rapier extended in killing thrust, bat-creature crumpling.",
+    "images": ["scene-reginald-critical-manigal_v01_2022801076140472.png"],
+    "source": "outputs/extractions/2024-11-20_extraction.md",
+    "searchHint": "\"Omalkin\" or \"Manigal\" or \"critical\" or \"Feint\""
+  },
+  {
+    "id": "reginald-rescuing-agathara",
+    "title": "The Rescue",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "In the same Ziggurat cave, while Agathara is pinned prone by a Manigal after a critical defense failure, Reginald counter-attacks and skewers the creature through the heart with his rapier — throwing it backward off her. Rapier arriving from frame-right through the creature's chest.",
+    "images": ["scene-reginald-rescuing-agathara_v01_2345594742803856.png"],
+    "source": "outputs/extractions/2024-11-20_extraction.md",
+    "searchHint": "\"prone\" or \"pinned\" or \"skewer\""
+  },
+  {
+    "id": "reginald-library-cipher",
+    "title": "The Coded Library",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "In the third-floor library of Mayor Nightpitch's manor in Nighthome — every book spine-coded in a 5-letter cipher — Reginald searches exhaustively and arrives at an unwelcome conclusion: the cipher key was never written down. Nightpitch memorized it. Scholar at candlelit desk surrounded by coded books, corruption marks vivid, the specific frustration of locked knowledge.",
+    "images": ["scene-reginald-library-cipher_v01_7229864220604598.png"],
+    "source": "outputs/extractions/2026-01-21_extraction.md",
+    "searchHint": "\"cipher\" or \"library\" or \"Nightpitch\""
+  },
+  {
+    "id": "reginald-witch-sight",
+    "title": "Witch Sight Awakens",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "In the Veiled Library, Reginald's Witch Sight opens for the first time — a wall crumbling within him — and he sits down and weeps as the library springs to life around him in layered glowing knowledge-light. Amber, silver, and violet light bloom from the stacks as the world reshapes itself around his new perception.",
+    "images": [
+      "scene-reginald-witch-sight_v01_782333427088492.png",
+      "scene-reginald-witch-sight_v02_31071282600977.png"
+    ],
+    "source": "outputs/extractions/2025-07-16_extraction.md",
+    "searchHint": "\"Witch Sight\" or \"Veiled Library\" or \"weeping\""
+  }
+]
