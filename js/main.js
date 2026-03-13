@@ -148,6 +148,25 @@ function renderScene(container, scene) {
       <line x1="8.59" y1="19.41" x2="5.76" y2="22.24" stroke="#c9a84c" stroke-width="1.2" stroke-linecap="round"/>
     </svg>`;
 
+  // Build narrative excerpt markup
+  let excerptHtml = '';
+  if (scene.narrative && scene.narrative.length > 0) {
+    const paragraphs = scene.narrative.map((p, i) =>
+      `<p class="scene-excerpt-para${i === 0 ? ' scene-excerpt-first' : ''}">${escapeHtml(p)}</p>`
+    ).join('\n');
+    const source = scene.narrativeSource
+      ? `<div class="scene-excerpt-source">${escapeHtml(scene.narrativeSource)}</div>`
+      : '';
+    excerptHtml = `
+      <div class="scene-excerpt-divider"></div>
+      <div class="scene-excerpt">
+        ${source}
+        <div class="scene-excerpt-body">
+          ${paragraphs}
+        </div>
+      </div>`;
+  }
+
   container.innerHTML = `
     <div class="scene-hero page-fade">
       ${imageHtml}
@@ -166,6 +185,7 @@ function renderScene(container, scene) {
         <p class="scene-description">${escapeHtml(scene.description || '')}</p>
       </div>
     </div>
+    ${excerptHtml}
   `;
 
   // Wire up zoom modal on rendered images

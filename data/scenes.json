@@ -4,13 +4,35 @@
     "title": "Sole Defender",
     "character": "Agathara Silvershade",
     "characterSlug": "agathara",
-    "description": "Inside a narrow crack in the Mother Tree's massive trunk in Davokar, Agathara makes her third and final attempt to unleash Prios Burning Glass against the Manogal swarm — the only party member to resist all four enthrallment checks while her companions lie paralyzed around her. Kneeling in the cramped passage, golden radiance finally erupts from her hands toward the rearing bat-creatures.",
+    "description": "Inside a narrow crack in the Mother Tree’s massive trunk in Davokar, Agathara makes her third and final attempt to unleash Prios Burning Glass against the Manogal swarm — the only party member to resist all four enthrallment checks while her companions lie paralyzed around her. Kneeling in the cramped passage, golden radiance finally erupts from her hands toward the rearing bat-creatures.",
     "images": [
       "scene-agathara-crown-ship_v01_678056744595008.png",
       "scene-agathara-crown-ship_v02_4510663692155288.png"
     ],
     "source": "outputs/extractions/2024-11-13_extraction.md",
-    "searchHint": "\"Burning Glass\" or \"enthrall\" or \"Mother Tree\" or \"Manogal\""
+    "searchHint": "\"Burning Glass\" or \"enthrall\" or \"Mother Tree\" or \"Manogal\"",
+    "narrativeSource": "Book One, Chapter 19 — The Mother Tree",
+    "narrative": [
+      "She was the only one.",
+      "Chikubi Henkei froze. The warrior’s body locked in mid-motion, his warhammer arrested at the apex of a swing that would never fall, his eyes wide and glassy and seeing nothing. The keening had found the gap in his mental defenses and poured through it, and the man who could shatter armor with a single blow stood motionless as a statue while the things that had frozen him closed the distance.",
+      "Reginald went rigid beside her. The scholar’s rapier hung in the air, suspended by a hand that had forgotten how to grip, and his face was blank — the sharp, animated intelligence that normally lit his features extinguished as thoroughly as a candle pinched between thumb and forefinger.",
+      "Coriol swayed. The changeling’s eyes went wide, went unfocused, and a sound came from his throat that was not a word but a moan — the sound of a mind being invaded, this time by something that wanted nothing from him except his stillness.",
+      "Three of four, paralyzed. Only Agathara standing.",
+      "She raised her hands. The Burning Glass formed behind her eyes — the door in the soul, the invitation to the light. She spoke the words. She opened the door.",
+      "Nothing happened.",
+      "The light that had been building in her palms sputtered, flickered, and died. The words had been right, the intent had been right, but the corruption in the air, the pressure of the keening, the sheer weight of the situation had disrupted the channel, and the Burning Glass had not fired.",
+      "The Mangonals surged forward.",
+      "Two pushed past the front line. They came for Agathara.",
+      "She tried again. The prayer, the door in the soul. She spoke the words with desperate precision, reaching for the light with everything she had — and fumbled again.",
+      "The prayer died in her hands for the second time. Agathara went down — not from the failure, but from the physical manifestation of it. The backlash sent her sprawling, her body striking the bark floor with an impact that drove the breath from her lungs. She lay on her back, staring up at the ceiling of the tree crack, and the Mangonals loomed above her, their claws raised, their tongues flickering.",
+      "Coriol cast the Thorncloak on Agathara. The magic settled over her like a mantle of invisible barbs — a defensive enchantment that did not merely protect but punished, turning the body of the wearer into a weapon that struck back at anything that dared to touch it. The first Mangonal struck. Its claws raked across her prone body — across the layers of armor, the Blessed Shield, and the Thorncloak. The damage was soaked. Steel and faith and thorns absorbed the blow that should have torn her open.",
+      "She would not fail a third time.",
+      "She closed her eyes. She reached deeper — past the training, past the seminary, past the careful architecture of Theurgic invocation that she had spent her life learning. She reached for the thing beneath all of that. The reason she had become a Theurg in the first place. The conviction, absolute and unshakable, that the light of Prios was not a tool to be wielded but a truth to be lived, and that truth did not fail. Could not fail. Not here. Not now.",
+      "She opened her eyes. She opened the door. She did not speak the words.",
+      "The words were unnecessary. The Burning Glass erupted from her body like a star being born.",
+      "The radiance filled the corridor. It struck everything corrupt, everything profane, everything that had no right to exist in a world where the sun still rose. The Mangonals screamed — not the keening, not the hunting cry, but the high, thin sound of things that had encountered something they could not enthrall, could not drain, could not endure.",
+      "The enthrallment shattered."
+    ]
   },
   {
     "id": "agathara-bridge-horde",
@@ -18,29 +40,95 @@
     "character": "Agathara Silvershade",
     "characterSlug": "agathara",
     "description": "During the desperate rear-guard defense at Yonderos bridge, Agathara activates Holy Aura and Prios Burning Glass simultaneously — golden aura rings pulse outward across the crumbling stone as waves of blight-born creatures dissolve into light.",
-    "images": ["scene-agathara-bridge-horde_v01_8586466393576651.png"],
+    "images": [
+      "scene-agathara-bridge-horde_v01_8586466393576651.png"
+    ],
     "source": "outputs/extractions/2025-11-05_extraction.md",
-    "searchHint": "\"Holy Aura\" or \"bridge\" or \"blight-born\""
+    "searchHint": "\"Holy Aura\" or \"bridge\" or \"blight-born\"",
+    "narrativeSource": "Book Two, Chapter 12 — The World Unravels",
+    "narrative": [
+      "The bridge was six hundred metres long and twenty-five wide — a temporary construction of lashed logs and rope, built across the Dewdram where the old ferry routes had been. Runners with torches lit the braziers along its length, and the firelight revealed the horde.",
+      "They came in a mass so dense that the bridge sagged under their weight. The front rank was blight-born humans — corrupted beyond recognition, their acidic blood spraying across anything it touched. Behind them came the clan fiends — flesh-crafted abominations with massive bone spikes erupting from their bodies, carrying two-handed weapons with the mechanical efficiency of things that did not tire.",
+      "The defenders formed up. Sappers with grenades, pikemen bracing, archers behind. The party chose the rear guard.",
+      "“We’ve got the Agathara of Mass Destruction,” Karano observed, and the dry delivery was so perfectly timed that even Agathara allowed herself the ghost of a smile.",
+      "Agathara raised her hands and spoke the words of the Blessed Shield, settling its golden protection over herself, Reginald, and Karava. The troll blinked as the radiance sank into his stone-bark armour — an expression of simple wonder, as though he had not expected grace to feel like warmth.",
+      "The horde struck the front line. For fifteen minutes the organised crash of shield and pike held. Then the blight-born overwhelmed the line by sheer numbers, climbing over their own dead. The horns sounded retreat, and the rearguard became the front line.",
+      "Then Agathara raised her hands.",
+      "The Burning Glass at its fullest power — unleashed without restraint — was not fire. It was judgement made visible. The radiance erupted from her outstretched palms and struck the horde not as a beam but as a wave, rolling across the bridge with the inevitability of dawn. The front row simply ceased to exist — blight-born humans dissolving, vaporising, becoming dust and a cascading ripple of screaming agony that traveled back through the ranks.",
+      "Behind the stunned and burning front line, the horde kept coming.",
+      "Karava laughed. A low, rumbling chuckle that sounded like gravel and stone knocking together in the belly of the earth. He stepped forward and swung Anthem upward in a rising arc that struck the nearest staggering clan fiend with a force that ignored its armour entirely.",
+      "Agathara cast Holy Aura, and the sustained golden emanation rolled outward — burning every abomination in sight, healing every ally. The radiance held — sustained, relentless — searing corruption with each heartbeat and knitting wounded flesh in the same breath.",
+      "Then Karava swung. The bridge pitched beneath him at the worst possible moment. Anthem’s blade glanced off his own knee guard, slammed into the bridge planking, and the troll went down on his back in the knee-deep water with a crash that sent spray twenty feet in every direction.",
+      "His first battle. His first song. And he had hit himself with his own axe.",
+      "But the song did not stop. Lying on his back in the river water, Anthem half-buried in the bridge beside him, Karava kept singing. The vibration continued — through the bridge, through the water, through the stone beneath — because the song was not about the singer. It was about the earth."
+    ]
   },
   {
     "id": "agathara-death-prince",
     "title": "Audience with the Death Prince",
     "character": "Agathara Silvershade",
     "characterSlug": "agathara",
-    "description": "Inside the Crown Ship throne room, Agathara stands alone before the ancient undead Death Prince Cantor Anoreal — seated on the ship's throne — and offers an otherworldly medallion in her bare hand to purchase the freedom of two Ambrian prisoners from a sunrise sacrifice ritual.",
-    "images": ["scene-agathara-death-prince_v01_8898186889872238.png"],
+    "description": "Inside the Crown Ship throne room, Agathara stands before the ancient undead Death Prince Cantor Anoreal — seated on the ship’s throne — and offers an otherworldly medallion in her bare hand to purchase the freedom of two Ambrian prisoners from a sunrise sacrifice ritual.",
+    "images": [
+      "scene-agathara-death-prince_v01_8898186889872238.png"
+    ],
     "source": "outputs/extractions/2024-10-16_extraction.md",
-    "searchHint": "\"Cantor Anoreal\" or \"Death Prince\" or \"medallion\""
+    "searchHint": "\"Cantor Anoreal\" or \"Death Prince\" or \"medallion\"",
+    "narrativeSource": "Book One, Chapter 17 — The Crown Ship",
+    "narrative": [
+      "Agathara sat with her back against the wall and felt the otherworldly medallion cold against her chest and looked at her companions.",
+      "“Can we really let this happen?” she said.",
+      "Coriol’s expression was carefully neutral. He would defer to her on this. He always deferred to her on this. Not because he lacked principles, but because his principles were practical and hers were absolute, and when those two frameworks collided, he trusted hers more than his own.",
+      "“Whatever you decide,” he said.",
+      "“If it doesn’t compromise what we came here to do,” Chikubi Henkei said slowly, “I won’t stand in the way. But I need you to understand that this is a risk.”",
+      "“Some things are simply wrong,” Agathara said. “Watching them happen when you have the power to stop them — that is also wrong. These are our countrymen. They are going to be butchered for the entertainment of dead men who have no right to still be walking, and I will not sit in this room and listen to it happen.”",
+      "The words settled into the silence like stones dropped into still water.",
+      "“The medallion,” Coriol said after a moment. “We trade the medallion for the prisoners.”",
+      "Cantor Anoreal was in his throne room when they found him, seated with the Wraithmark of the Eternity Legion resting on his gauntleted palm. He looked up with the faintly irritated expression of someone interrupted in the act of remembering.",
+      "Agathara stepped forward. She held the medallion in both hands, the yellowish-green metal catching the dim light of the ever-burning lamps. It looked alien in her palms — too heavy, too strange, an object that belonged to a sky with three moons and buildings that stretched for hundreds of meters under a deep blue horizon.",
+      "“We found this on your ship,” she said. “In the room of the Dacthonic priest. We wondered if it belonged to you — or to the ship, at least. If it once lived here, perhaps it should return.”",
+      "Cantor Anoreal looked at the medallion. His gauntleted hand extended, and Agathara placed it on his palm. He turned it over. Examined it. The red light in his eyes shifted, deepened — not nostalgia but recognition.",
+      "“Fine,” he said. “They’re your responsibility. Anything they take, anything they do, is now on you and your heads.”",
+      "The cages opened with a sound like old bones cracking, and the two Ambrians stumbled out with the bewildered, fragile movements of people who had been preparing to die and were not yet certain they had stopped.",
+      "The taller of the two moved immediately to a pile of confiscated belongings and retrieved, with the particular possessiveness of a man reuniting with a piece of his own identity, a rapier. He checked the edge, tested the grip, and slid it into the scabbard at his hip with a motion so practiced it looked involuntary.",
+      "“Thank you,” he said. “I am Reginald. My companion is Frank — my manservant, and the only loyal man in that doomed expedition.”",
+      "He paused, and something moved behind his eyes — not anger, exactly, but the cold, analytical assessment of a man filing information for future use.",
+      "“We would very much like to join your group,” he said. “If you will have us.”",
+      "“Welcome,” Agathara said."
+    ]
   },
   {
     "id": "aro-flickering-nighthome",
     "title": "Flickering Return",
     "character": "Aro Sunspear",
     "characterSlug": "aro",
-    "description": "After fighting abominations alone throughout the city while the party was separated, Aro returns to Nighthome's entrance hall — his divine light sputtering and phasing, an impaled goblin hanging from a broken window behind him. The cost of sustained solo combat made visible in unstable golden light.",
-    "images": ["scene-aro-flickering-nighthome_v01_5265524913328310.png"],
+    "description": "After fighting abominations alone throughout the city while the party was separated, Aro returns to Nighthome’s entrance hall — his divine light sputtering and phasing, an impaled goblin hanging from a broken window behind him. The cost of sustained solo combat made visible in unstable golden light.",
+    "images": [
+      "scene-aro-flickering-nighthome_v01_5265524913328310.png"
+    ],
     "source": "outputs/extractions/2026-01-21_extraction.md",
-    "searchHint": "\"Aro\" or \"flickering\" or \"Nighthome\""
+    "searchHint": "\"Aro\" or \"flickering\" or \"Nighthome\"",
+    "narrativeSource": "Book Two, Chapter 15 — Nighthome",
+    "narrative": [
+      "They were descending the stairs when the window shattered.",
+      "The sound came from the ground floor — the crash of breaking glass, followed by a gurgling screech that cut off abruptly, followed by silence. The party froze on the staircase, weapons drawn, eyes straining in the dim light of the entrance hall below.",
+      "A faint golden glow, emanating from somewhere near the front of the building.",
+      "Aro Sunspear was in the entrance hall. The spirit templar — Agathara’s patron saint, the golden warrior who had been their distraction and decoy for the crossing of the corrupted city — was crouched near a front window, and through the window, impaled on a jutting shard of glass, was the broken body of a goblin abomination. Aro had driven the creature through the window with enough force to pin it on the glass like an entomologist’s specimen.",
+      "Aro himself looked bad. His golden luminescence was flickering, the light stuttering and pulsing in a way that Agathara had never seen. He was damaged — not in the way that living things were damaged, with blood and bruising, but in the way that spiritual manifestations suffered when the forces sustaining them were strained beyond their limits. He had been fighting alone, in a city of abominations, for hours, with nothing but his fists and his faith and the iron resilience of a man who had already died once and was not particularly impressed by the concept.",
+      "“Aro,” Agathara said, and the relief in her voice was sharp enough to cut.",
+      "The spirit templar looked at her. His expression — insofar as a glowing spirit manifestation could be said to have expressions — was tired.",
+      "“I found you,” he said.",
+      "“Are you —”",
+      "“I will manage. We should leave.”",
+      "They descended to the basement, through the storerooms, down the spiral staircase, through the hidden door in the south wall. The center tunnel — earthen, rough-hewn, barely wide enough for Karava’s shoulders — stretched ahead of them into darkness.",
+      "They ran.",
+      "The air changed. The smell of earth gave way to the smell of growing things — leaf mold and moss and the indefinable green scent that was Davokar, the forest that watched and breathed and remembered.",
+      "They emerged into twilight. Beyond the tree line, the forest stretched in every direction — dark, ancient, and alive in a way that the ruined city behind them was not.",
+      "Aro flickered beside her, his golden light dimming and brightening in an irregular rhythm that spoke of damage, of strain, of a spirit pushed to the edges of its capacity. She wanted to reach for him — to touch his arm, to offer comfort the way she offered it to the living. But he was not living, and her hand would pass through him, and the gesture would only remind them both of what he had lost.",
+      "Aro said nothing, but his light steadied.",
+      "They walked into the forest. Behind them, the pillar of darkness still rose from the grave of Thistle Hold, and the cloud spread slowly across the sky like a bruise.",
+      "Ahead, Davokar waited. It always waited."
+    ]
   },
   {
     "id": "aro-danger-sense",
@@ -48,9 +136,28 @@
     "character": "Aro Sunspear",
     "characterSlug": "aro",
     "description": "Outside a tunnel exit in Davokar, Aro Sunspear begins glowing increasingly brighter — his danger sense triggering as something large approaches the camp from an unexpected direction. Golden form at the edge of the forest, light intensifying against the vast dark of Davokar. The warning before the threat arrives.",
-    "images": ["scene-aro-danger-sense_v01_7740082599398344.png"],
+    "images": [
+      "scene-aro-danger-sense_v01_7740082599398344.png"
+    ],
     "source": "outputs/extractions/2026-01-28_extraction.md",
-    "searchHint": "\"Aro\" or \"glowing\" or \"danger\""
+    "searchHint": "\"Aro\" or \"glowing\" or \"danger\"",
+    "narrativeSource": "Book Two, Chapter 16 — The Edge of Davokar",
+    "narrative": [
+      "Karano fell in behind Karava as they moved through the forest, and for a few moments the simple act of walking with companions — of hearing footsteps other than his own, of seeing light that he had not made — was enough to push back the memory of the forest’s patient, shifting attention.",
+      "Then Aro began to glow brighter.",
+      "Not the steady warmth of the patron saint’s ordinary luminescence — this was something else. The glow intensified in pulses, each pulse throwing longer shadows, each pulse accompanied by a faint trail of mist that streamed behind the spirit like the wake of a ship cutting through still water. Aro stopped walking. His hand went to his sword.",
+      "“There is danger ahead,” he said. “Near the camp. Something is approaching from the other direction.”",
+      "Karava did not hesitate. He broke into a run — if it could be called running, what a troll did when urgency overcame the careful placement of feet that defined his normal movement. It was more like a controlled avalanche, brush and branches shattering against his shoulders.",
+      "Karano ran with him. Aro streaked ahead, his spectral form covering ground in long, floating strides, trailing light like a comet.",
+      "They smelled the smoke first. Then they saw the fire — the signal fire, its smoke column visible against the dark sky. The clearing appeared through the trees, and in it, two figures: Agathara with her pike, Reginald with his sword drawn, both facing the direction from which the crashing had come.",
+      "Not Karava’s direction. The other direction.",
+      "Agathara turned and saw them, and the relief on her face lasted exactly long enough for the sound from the opposite treeline to register — the snapping of branches, the heavy displacement of something large pushing through the undergrowth with the same disregard for silence that Karava showed but with none of his familiarity.",
+      "Something else was coming. And Aro’s glow was brighter than Karano had ever seen it.",
+      "They stumbled out of the darkness and into the firelight, and they were not monsters.",
+      "There were two of them. Tall, gaunt, wearing tattered clothes and bandanas over their faces, their hands empty of weapons though blades hung sheathed at their belts. They moved with the desperate, lurching gait of people who had been running for a long time and had found, at last, something to run toward.",
+      "“Help,” one of them said, in a voice thick with something between an accent and a physiology. “We need help.”",
+      "Karava had placed himself between the newcomers and the camp with the immovable certainty of a man who had made a promise to cut the next threatening thing in half and intended to keep it. He held Anthem across his body, his dark eyes measuring the strangers with an intensity that suggested he was calculating trajectories."
+    ]
   },
   {
     "id": "karano-opal-storm",
@@ -58,9 +165,22 @@
     "character": "Karano",
     "characterSlug": "karano",
     "description": "Crossing the Opal Storm surrounding Othelius Arboretum Island — a corruption-destroying phenomenon that nearly kills the more corrupted party members — Karano walks through it completely unaffected. He carries zero corruption at that moment. The swirling opalescent storm churns around him and cannot touch him.",
-    "images": ["scene-karano-opal-storm_v02_4703526949279550.png"],
+    "images": [
+      "scene-karano-opal-storm_v02_4703526949279550.png"
+    ],
     "source": "outputs/extractions/2025-08-20_extraction.md",
-    "searchHint": "\"Opal Storm\" or \"Karano\" or \"corruption\""
+    "searchHint": "\"Opal Storm\" or \"Karano\" or \"corruption\"",
+    "narrativeSource": "Book Two, Chapter 11 — The Garden at the End of the World",
+    "narrative": [
+      "The Opal Storm raged at the island’s edge — a wall of screaming light and shattered magic that punished everything tainted, corruption reading the damage in a body and finding its cracks.",
+      "Through that wall, without haste or apparent effort, a figure emerged.",
+      "He was young, with the unfinished quality of someone whose body had outpaced whatever lived inside it. The storm churned around him — opalescent tendrils of corrupted energy that shredded anything impure — and where it touched him it found nothing to grip. He carried no corruption. He was clean, in the way that only those who had made the Iron Pact and kept it were ever truly clean: not through innocence, but through an act of will so thorough that the forest had agreed to recognize it.",
+      "The sword in his right hand burned in the spectral register like a second sun — a resonance that belonged to the bedrock of the world, older than corruption or holiness, forged when the powers that moved through creation were not yet divided into light and dark. He carried it the way a child carries a stick found in a field — loosely, without ceremony, as though its weight were an afterthought.",
+      "The storm parted around him. Not blown aside, not overcome — simply parted, the way water parts around a stone that has always been there.",
+      "Later, when the island cratered inward and the Opal Storm closed over it like a mouth, the party ran. The crossing was agony — corruption reading their damage, finding their cracks. They survived. They always survived — not through strength or luck but through the stubborn, irrational refusal to die that was the party’s single most consistent trait.",
+      "But for Karano, the crossing had been something else entirely. He had walked through the storm untouched. Zero corruption, in a place designed to punish corruption. The Opal Storm found him and found nothing to take.",
+      "He never mentioned it. He never spoke of the things the forest did not do to him, only of the things he had done for it."
+    ]
   },
   {
     "id": "karano-davokar-lost",
@@ -68,19 +188,60 @@
     "character": "Karano",
     "characterSlug": "karano",
     "description": "After critically failing a Bushcraft check in Davokar, Karano climbs a tree to orient himself and sees something impossible: Thistle Hold — which supposedly exploded — standing intact on the horizon, its beacon lit and city lights glowing. Hunter in the high forest canopy, through branches: a city that should not exist.",
-    "images": ["scene-karano-davokar-lost_v02_6167642033172883.png"],
+    "images": [
+      "scene-karano-davokar-lost_v02_6167642033172883.png"
+    ],
     "source": "outputs/extractions/2026-01-28_extraction.md",
-    "searchHint": "\"Karano\" or \"Bushcraft\" or \"Thistle Hold\" or \"beacon\""
+    "searchHint": "\"Karano\" or \"Bushcraft\" or \"Thistle Hold\" or \"beacon\"",
+    "narrativeSource": "Book Two, Chapter 16 — The Edge of Davokar",
+    "narrative": [
+      "The forest ate his trail.",
+      "He had gone carefully, the way he always went — weight on the balls of his feet, shoulders turned to slip between branches, eyes tracking the ground for spoor and scat and the small signs of life that meant prey nearby. He found no squirrels. He found no rabbits. He found no sign that anything warm-blooded had moved through this stretch of forest in days, and that absence was itself a warning that he registered but could not afford to heed.",
+      "He walked deeper. And the forest shifted around him.",
+      "He noticed it first as a wrongness in his backtrail. The tree he had passed — the one with the split trunk and the fungal shelf at eye height — should have been behind him and to the left. He turned to check. It was not there. The trail of bent grass and scuffed earth that should have marked his passage had vanished, as though the forest had healed itself behind him the way skin closes over a wound.",
+      "He stopped. He breathed. He reached for the calm that a hunter cultivates the way a priest cultivates faith — the still centre from which observation flows.",
+      "He was lost.",
+      "The knowledge settled in his stomach like cold water. Karano, Ironsworn hunter, tracker and bowman, the man who read terrain the way Reginald read ancient texts — lost in the woods. The forest had taken him, and the taking had been so gentle and so total that he had not felt it happening.",
+      "He found a tall tree and climbed. The bark was slick and oddly warm. The branches held his weight but bent in ways he did not expect, as though the wood were not quite solid, not quite convinced of its own rigidity. He climbed past the lower canopy and emerged into the upper reaches where the view opened.",
+      "He heard it first: the faint, rhythmic thock of an axe on wood. Distant but real — a sound with source and direction. That was left. That was the direction of camp. He filed the information and turned his head.",
+      "And there, to the east, was Thistle Hold.",
+      "The beacon burned first in his vision — a column of flame atop the tower, throwing its light against the dusk in the way it had thrown its light for years. Below it, the city spread in the familiar dark outline of walls and rooftops, and as he watched, the evening lights came on. One by one, then in clusters, then in sweeping lines — the warm amber glow of oil lanterns spreading across the streets of a city that was going about the ordinary business of nightfall.",
+      "A city that should not have existed. A city they had watched explode.",
+      "Karano stared. He tried to marshal the facts: they had seen the corruption blast. They had felt the shockwave in the tunnel. They had emerged to find themselves in a forest that should have bordered a ruin, not a functioning city.",
+      "Something was wrong with what he was seeing. He knew this the way he knew the wrongness of the forest — not through logic but through the animal instinct that kept a man alive in places where logic failed.",
+      "He climbed down. He filed the information. And he walked toward the sound of chopping, because the sound of chopping was real and the city might not be, and a hunter chose the evidence of his ears over the evidence of his eyes when the eyes had been given reason to lie."
+    ]
   },
   {
     "id": "karano-fata-morgana",
     "title": "Fata Morgana",
     "character": "Karano",
     "characterSlug": "karano",
-    "description": "At an illusory oasis in the Alberetor wasteland, mind-controlled by the Fata Morgana lake creature, Karano walks toward the deadly water in a trance — saved at the last moment by Lamerra's secret undead soldiers emerging from the darkness behind him and grabbing him two steps from the edge.",
-    "images": ["scene-karano-fata-morgana_v01_8534134873456630.png"],
+    "description": "At an illusory oasis in the Alberetor wasteland, mind-controlled by the Fata Morgana lake creature, Karano walks toward the deadly water in a trance — saved at the last moment by Lamerra’s secret undead soldiers emerging from the darkness behind him and grabbing him two steps from the edge.",
+    "images": [
+      "scene-karano-fata-morgana_v01_8534134873456630.png"
+    ],
     "source": "outputs/extractions/2025-06-04_extraction.md",
-    "searchHint": "\"Fata Morgana\" or \"mind-control\" or \"lake\" or \"undead soldiers\""
+    "searchHint": "\"Fata Morgana\" or \"mind-control\" or \"lake\" or \"undead soldiers\"",
+    "narrativeSource": "Book Two, Chapter 7 — The World That Was",
+    "narrative": [
+      "It appeared without warning — one moment the landscape was the same grey desolation it had been for miles, and the next the trail curved around a low rise and there it was: a pocket of autumn. A small lake, sixty or seventy yards across, glittering in light that seemed to come from nowhere in particular. Trees ringed its banks, their leaves turned to gold and amber and deep rust. The grass was green. The air smelled of earth and water and growing things.",
+      "Karano stopped first. His bow was in his hand before the beauty of the scene fully registered, because beauty, in this place, was a warning sign.",
+      "They stayed anyway. The water skins were empty. Two days without water in the wasteland of Alberetor was not something even faith could remedy, and the alternative to drinking from this lake was dying of thirst within sight of the one thing in this dead country that still resembled life.",
+      "The lake was clean. The berries were clean. Lamerra’s witch sight confirmed it. And so they ate, and drank, and rested in the false autumn that someone had planted here in the grey waste like a hook baited for the starving.",
+      "The soldier walked into the lake. He did not hesitate, did not flinch at the cold, did not look back. He waded until the water reached his chest, and then he went under, and the surface closed over his bucket helm without a ripple.",
+      "Agathara opened her mouth to shout — and Karano walked past her toward the lake.",
+      "He was asleep. His eyes were open but empty, reflecting the false moonlight with a glassy sheen that was not quite consciousness, and his feet moved with the unhurried certainty of a man who knew exactly where he was going. As he walked, his outline began to blur, to soften at the edges — not his own trick, but something else choosing it for him, wrapping him in concealment the way a spider wraps a fly.",
+      "“Karano!” Reginald was out of his hammock, rapier drawn. “Karano, stop —”",
+      "The two undead soldiers intercepted Karano six feet from the waterline. They tackled him with the graceless efficiency of things that understood force but not restraint, bearing him down into the grass and pinning him there. Karano thrashed. The hunter was strong — Iron Pact strong — and the soldiers struggled to keep him down. His invisibility flickered, failed, returned, failed again.",
+      "From the lake came a scream.",
+      "Karano went limp. Whatever had been pulling him forward released its grip with the abruptness of a cut wire, and the hunter was suddenly and entirely himself again — pinned to the ground by two walking corpses, staring up at the false sky of a false night in a false valley.",
+      "“The lake tried to eat you. My soldiers stopped it.”",
+      "Karano looked at the soldiers. Looked at the lake. Looked at his own hands, which were still reaching toward the water, fingers extended, as though some remnant of the compulsion lingered in his muscles.",
+      "“They’re sitting on my chest.”",
+      "They ran until the oasis was a smudge of false colour behind them. Until the silence was the honest silence of the wasteland rather than the predatory silence of the trap.",
+      "“There was no water,” Lamerra said, and his voice was flat. “There was never any water. A sorcerer of extraordinary skill created that entire oasis as a feeding ground. The lake, the trees, the berries. All of it. A trap for anyone desperate enough to drink.”"
+    ]
   },
   {
     "id": "karano-ricochet-shot",
@@ -88,61 +249,163 @@
     "character": "Karano",
     "characterSlug": "karano",
     "description": "On a ridgeline above the Veiled Library, using Master Trick Archery on a critical success — a natural 1 on the die — Karano kills a sorcerer hiding behind rocks with an arrow that bends impossibly around the obstacle. The calligraphic arrow-path curves around cover to reach the sorcerer on the other side.",
-    "images": ["scene-karano-ricochet-shot_v01_5215444410095610.png"],
+    "images": [
+      "scene-karano-ricochet-shot_v01_5215444410095610.png"
+    ],
     "source": "outputs/extractions/2025-07-23_extraction.md",
-    "searchHint": "\"ricochet\" or \"trick shot\" or \"sorcerer\" or \"cover\""
+    "searchHint": "\"ricochet\" or \"trick shot\" or \"sorcerer\" or \"cover\"",
+    "narrativeSource": "Book Two, Chapter 9 — The Library That Remembers",
+    "narrative": [
+      "From the ridgeline, sorcery.",
+      "The black bolt struck Karano in the chest — a lance of dark energy that ignored his armour entirely and drove him flat against the copper dome. Pain lit every nerve. His muscles locked. He felt the bolt pinning him to the metal surface like a specimen on a board, and the sorcerer on the ridgeline was already preparing a second.",
+      "Karano focused. The agony was absolute, the paralysis complete. He focused harder. The world narrowed to a single point of will — not against the magic, but through it — and something inside him turned, and the binding shattered.",
+      "He rolled. Drew. His arrow found the sorcerer not through the conventional path — the ridgeline offered excellent cover, natural stone formations that would have stopped a direct shot — but through the improbable path, the one that required the shaft to ricochet off a rock face and change direction mid-flight.",
+      "The arrow struck stone, sang, and buried itself in the sorcerer’s throat.",
+      "Below, the battle had reached its crisis. Lamerra called on the Subjugator’s deepest power, and a pressure descended on the battlefield, invisible and absolute. Every enemy within the hall simply stopped — weapons frozen mid-swing, feet locked to the floor, eyes wide with the particular terror of men who found their bodies no longer obeyed them.",
+      "Agathara cast Lifegiver. The golden radiance erupted from her in a wave, rolling outward, touching every ally. Corruption bled away. Wounds closed. Those on the edge of death drew breath and found, somehow, that they were not yet done.",
+      "The shackles broke. The enemies moved. And the battle resumed.",
+      "It ended with Agathara stepping into Frederick Ocel’s path. The Burning Glass struck him in the chest — holy light, concentrated to a point, carrying the weight of every prayer she had spoken. The light punched through his armour and found the corruption deep and structural, woven into the fabric of his being like rot through timber.",
+      "Frederick Ocel looked down at the light burning in his chest. He looked up at the woman who had put it there.",
+      "Then he disintegrated. The dust hung in the air for a long moment, catching the light from the dome above, and then settled like grey snow on the barricade stones.",
+      "The remaining enemies broke."
+    ]
   },
   {
     "id": "reginald-thistle-beasts",
     "title": "Thistle Beast Ambush",
     "character": "Reginald",
     "characterSlug": "reginald",
-    "description": "At a street intersection in the corrupted ruins of Thistle Hold, Reginald engages four massive acidic-blooded thistle beasts largely solo, landing a 14-damage Master Backstab followed by a second 14-damage hit with hypnotic poison. Acid gore soaks his scholar's robe throughout the fight.",
-    "images": ["scene-reginald-thistle-beasts_v02_6445944310933306.png"],
+    "description": "At a street intersection in the corrupted ruins of Thistle Hold, Reginald engages four massive acidic-blooded thistle beasts largely solo, landing a 14-damage Master Backstab followed by a second 14-damage hit with hypnotic poison. Acid gore soaks his scholar’s robe throughout the fight.",
+    "images": [
+      "scene-reginald-thistle-beasts_v02_6445944310933306.png"
+    ],
     "source": "outputs/extractions/2026-01-07_extraction.md",
-    "searchHint": "\"thistle beast\" or \"Backstab\" or \"acid\""
+    "searchHint": "\"thistle beast\" or \"Backstab\" or \"acid\"",
+    "narrativeSource": "Book Two, Chapter 14 — Thistle Hold",
+    "narrative": [
+      "Reginald was already among them, and what he did in the next thirty seconds was something Agathara had not seen from him before. Perhaps it was the acid eating through his armor. Perhaps it was simply that Reginald, stripped of his pendant’s invisibility by the corruption that would kill him if he used it, had decided that if he could not hide, he would be the most dangerous thing in the intersection instead.",
+      "His rapier opened the first beast’s face from jaw to brow in a single rising cut. The blade reversed, stabbed deep into the shoulder of the second creature as it lunged, and something in the strike — some instinct for the places where flesh was weakest — sent a shudder through the abomination’s body that locked its muscles for a critical, frozen heartbeat. The knife in his off hand was already moving, finding gaps, punishing hesitation.",
+      "The second beast lunged with both foreclaws, and Reginald — with the fluid, acrobatic grace that had earned him his reputation — simply stepped aside, redirecting the creature’s momentum so that its claws tore not into him but into its packmate. Corrupted blood sprayed. The disemboweled beast collapsed in a heap of ruptured intestine and acid.",
+      "Karano’s arrow took the downed beast through the eye. The hallowed shaft punched clean through bone and brain, delivered with the cool accuracy of a man shooting targets at a festival.",
+      "Karava arrived at the fight like weather.",
+      "Anthem sang — there was no other word for it, the thundering enchantment on the axe’s head producing a deep, resonant harmonic as it cut the air — and the blade caught the third beast across the ribs with a force that bounced the creature off the cobblestones like a thrown ball. Bones cracked. Limbs snapped at angles that should not have existed.",
+      "The fourth beast bit him. A lunging, open-jawed strike that caught him across the shoulder and drove its teeth deep enough to exceed his threshold for pain. Karava staggered. Went to one knee. The beast’s jaws were locked on his shoulder, shaking, the way a dog shakes a rat.",
+      "It bled out before it could do more. Reginald’s knife had found its throat from behind, and the creature’s grip slackened as its blood joined the acid-etched ruin of the intersection.",
+      "Four thistle beasts. Dead. Agathara stood over the cowering civilians with her thundering pike in a defensive stance, and the noise of the fight was already drawing fresh howls from deeper in the city.",
+      "Reginald was soaked. Civilian blood. Beast blood. Acid. He looked down at himself with an expression of weary distaste.",
+      "“We need to run,” Agathara said.",
+      "They ran."
+    ]
   },
   {
     "id": "reginald-critical-manigal",
     "title": "Critical Strike",
     "character": "Reginald",
     "characterSlug": "reginald",
-    "description": "In a cave structure near the Ziggurat in Davokar, using the Omalkin pendant to emerge from near-invisibility, Reginald rolls a natural 1 — critical success — on a Feint attack, knocking the first Manigal unconscious before it can use its enthralling song. Emerging from stealth shimmer, rapier extended in killing thrust, bat-creature crumpling.",
-    "images": ["scene-reginald-critical-manigal_v01_2022801076140472.png"],
+    "description": "In a cave structure near the Ziggurat in Davokar, using the Omalkin pendant to emerge from near-invisibility, Reginald rolls a natural 1 — critical success — on a Feint attack, killing the first Manigal before it can use its enthralling song. Emerging from stealth shimmer, rapier extended in killing thrust, bat-creature crumpling.",
+    "images": [
+      "scene-reginald-critical-manigal_v01_2022801076140472.png"
+    ],
     "source": "outputs/extractions/2024-11-20_extraction.md",
-    "searchHint": "\"Omalkin\" or \"Manigal\" or \"critical\" or \"Feint\""
+    "searchHint": "\"Omalkin\" or \"Manigal\" or \"critical\" or \"Feint\"",
+    "narrativeSource": "Book One, Chapter 19 — The Mother Tree",
+    "narrative": [
+      "Agathara held. Her faith was her armor, and the keening broke against it the way every assault on her convictions had broken before — not easily, not painlessly, but completely.",
+      "“Go,” she said, and her voice was the voice of command. “I will handle the prayers. You handle the killing.”",
+      "Reginald moved first. His hand went to the pendant at his throat — Omalkin’s Pendant, the artifact of concealment that had served him in a dozen infiltrations and would serve him now in the most desperate one yet. He pressed the hidden catch, spoke the word of activation, and felt the familiar chill of the enchantment settle over him like a second skin.",
+      "He was invisible. Not truly — a careful observer might have caught the distortion in the air where his body displaced space. But the Mangonals were not careful observers. They were hunting by corruption sense and psychic resonance, and Reginald, wrapped in the pendant’s concealment, was none of those things. He was a ghost with a rapier.",
+      "He charged.",
+      "Thirty feet of rubble-strewn courtyard. Reginald covered it in a run that was closer to a controlled fall, his feet finding purchase on the shattered flagstones with the sure instinct of a man whose acrobatic training had become indistinguishable from reflex. The Mangonal did not see him. Did not hear him. Did not feel him until the rapier found the gap between its folded wing and the corded muscle of its neck.",
+      "The feint was textbook. A ghost of motion to the left, the dagger flickering, and in the fractional instant of confusion the rapier punched home — through the neck, through whatever served the creature for a spine, and out the other side in a spray of dark ichor. The Mangonal convulsed once and folded sideways across the rubble, its keening cut off mid-frequency with the abruptness of a snapped string.",
+      "One down.",
+      "The others turned. The keening intensified — deeper, shifting into registers that could not be blocked. Agathara felt it press against her and pushed back with everything she had.",
+      "Coriol stood at the threshold of the tree’s crack, his hands raised, and the magic gathering around his fingers was something far more destructive than thorncraft. Fire bloomed in his palms — not the clean, golden fire of Prios but something older, earthier, born of the witch’s compact with the green world and all its terrible chemistry.",
+      "He spoke the word of release, and Brimstone Cascade poured from his outstretched hands like a river breaking through a dam.",
+      "The fire hit four of the five remaining Mangonals simultaneously — a rolling front of alchemical flame washing across the courtyard with the indiscriminate fury of a natural disaster. Their leathery wings caught fire. Two dropped where they stood, bodies curling inward like paper touched by a match. The other two staggered, burning, claws raking at their own bodies."
+    ]
   },
   {
     "id": "reginald-rescuing-agathara",
     "title": "The Rescue",
     "character": "Reginald",
     "characterSlug": "reginald",
-    "description": "In the same Ziggurat cave, while Agathara is pinned prone by a Manigal after a critical defense failure, Reginald counter-attacks and skewers the creature through the heart with his rapier — throwing it backward off her. Rapier arriving from frame-right through the creature's chest.",
-    "images": ["scene-reginald-rescuing-agathara_v01_2345594742803856.png"],
+    "description": "In the same cave near the Ziggurat, while Agathara is pinned prone by a Manigal after a critical defense failure, Reginald counter-attacks and skewers the creature through the heart with his rapier — throwing it backward off her. Rapier arriving from frame-right through the creature’s chest.",
+    "images": [
+      "scene-reginald-rescuing-agathara_v01_2345594742803856.png"
+    ],
     "source": "outputs/extractions/2024-11-20_extraction.md",
-    "searchHint": "\"prone\" or \"pinned\" or \"skewer\""
+    "searchHint": "\"prone\" or \"pinned\" or \"skewer\"",
+    "narrativeSource": "Book One, Chapter 19 — The Mother Tree",
+    "narrative": [
+      "The enthrallment shattered.",
+      "Chikubi Henkei’s eyes cleared. The glassiness left them, replaced by something that was not confusion but pure, concentrated fury — the rage of a warrior who had been held motionless while his companions were mauled, whose body had been stolen from him by a sound, and who now had it back.",
+      "He swung.",
+      "The warhammer came around in an arc that started at his hip and ended in the skull of the nearest Mangonal. The blow was everything the weapon was designed to deliver — devastating, absolute, armor-ignoring. The Mangonal’s head ceased to exist as a recognizable structure.",
+      "Reginald came back to himself with a gasp. The first thing his cleared eyes saw was the Mangonal that had been draining his blood — still attached, still feeding, its tongue embedded in his neck. He feinted left and drove the rapier home beneath the Mangonal’s jaw. The parrying dagger followed, punching through the creature’s throat. It dropped without a sound.",
+      "And then he saw Agathara.",
+      "She was on her back. One of the Mangonals had pinned her — her polearm gone, her hands up, her armor holding but the creature above her raising a claw for a strike she could not deflect. There was no time to think. There was no thought required.",
+      "The rapier arrived from his right hand, through the air, through the gap between the Mangonal’s wing and ribs, through the creature’s heart. Reginald put his full weight behind it — a running thrust, every inch of his reach committed — and the Mangonal lurched forward under the impact, was lifted, was thrown back off Agathara in a spray of dark blood, and lay still.",
+      "Reginald stood over her, rapier dripping, breathing hard.",
+      "Agathara looked up at him from the floor. Her face was grey with exhaustion, bright with something that was not quite gratitude — something deeper, a recognition between people who have survived the unsurvivable together and understand that survival is never free.",
+      "Reginald wiped his neck with the back of his hand. His expression was composed. His eyes were not."
+    ]
   },
   {
     "id": "reginald-library-cipher",
     "title": "The Coded Library",
     "character": "Reginald",
     "characterSlug": "reginald",
-    "description": "In the third-floor library of Mayor Nightpitch's manor in Nighthome — every book spine-coded in a 5-letter cipher — Reginald searches exhaustively and arrives at an unwelcome conclusion: the cipher key was never written down. Nightpitch memorized it. Scholar at candlelit desk surrounded by coded books, corruption marks vivid, the specific frustration of locked knowledge.",
-    "images": ["scene-reginald-library-cipher_v01_7229864220604598.png"],
+    "description": "In the third-floor library of Mayor Nightpitch’s manor in Nighthome — every book spine-coded in a 5-letter cipher — Reginald searches exhaustively and arrives at an unwelcome conclusion: the cipher key was never written down. Nightpitch memorized it.",
+    "images": [
+      "scene-reginald-library-cipher_v01_7229864220604598.png"
+    ],
     "source": "outputs/extractions/2026-01-21_extraction.md",
-    "searchHint": "\"cipher\" or \"library\" or \"Nightpitch\""
+    "searchHint": "\"cipher\" or \"library\" or \"Nightpitch\"",
+    "narrativeSource": "Book Two, Chapter 15 — Nighthome",
+    "narrative": [
+      "The library was behind the third door, and Reginald’s eyes brightened at the sight of it despite everything. A research library with a card catalog, a writing desk, shelves of volumes arranged with the careful organization of a man who valued knowledge the way others valued gold.",
+      "The index cards were everywhere. Scattered across the floor, the desk, the shelves — hundreds of small rectangles of stiff paper, each one bearing a sequence of five letters at the top and, beneath that, rows of numbers and symbols. Triangles. Diamonds. Colored-in squares. A system that was clearly organized, clearly comprehensive, and clearly incomprehensible to anyone who did not possess its cipher.",
+      "Reginald gathered a handful and studied them with the focused intensity that characterized his best scholarly work. His memory was absolute — once he read a thing, he possessed it forever, every stroke of every glyph committed to a mental archive that never faded and never erred. But memory was useless without context, and the cards offered none.",
+      "He searched for the key. Methodically, thoroughly, with the patience of a man who had once spent three weeks reconstructing a burned manuscript from its ash patterns. He searched the desk drawers, the false bottom he found in the second drawer, the hollow book on the third shelf, the locked cabinet whose lock he picked in under a minute. He searched with the specific, practiced desperation of someone who knows the answer must be here — it always is, the key is always somewhere — and who cannot afford to be wrong.",
+      "“He coded everything,” Reginald said at last. “The entire library. Every book, every reference, every piece of knowledge in this room is filed under a personal cipher that exists nowhere on paper.”",
+      "“You are certain?” Agathara asked.",
+      "Reginald looked at her with the flat certainty of a man who had just conducted the most thorough search of his career. “I have looked. Thoroughly. The cipher key is not in this room. It is not written down anywhere. Mayor Nightpitch memorized his entire cataloging system.” He paused, allowing the implication to settle. “If we want to know what is in this library — what might help us understand what is happening to this world — we need to find him. In person. Alive.”",
+      "The building shuddered. Glass fell and shattered from the room next door. The tremors were coming faster now, each one stronger than the last.",
+      "Reginald looked at the shelves one last time. At the hundreds of volumes whose spines bore five-letter codes that meant nothing without the key locked inside a man’s head. At the knowledge that was here and was not here — present in every fiber of every page, inaccessible as a dream.",
+      "He turned away. He did not look back."
+    ]
   },
   {
     "id": "reginald-witch-sight",
     "title": "Witch Sight Awakens",
     "character": "Reginald",
     "characterSlug": "reginald",
-    "description": "In the Veiled Library, Reginald's Witch Sight opens for the first time — a wall crumbling within him — and he sits down and weeps as the library springs to life around him in layered glowing knowledge-light. Amber, silver, and violet light bloom from the stacks as the world reshapes itself around his new perception.",
+    "description": "In the Veiled Library, Reginald’s Witch Sight opens for the first time — a wall crumbling within him — and he sits down and weeps as the library springs to life around him in layered glowing knowledge-light. Amber, silver, and violet light bloom from the stacks as the world reshapes itself around his new perception.",
     "images": [
       "scene-reginald-witch-sight_v01_782333427088492.png",
       "scene-reginald-witch-sight_v02_31071282600977.png"
     ],
     "source": "outputs/extractions/2025-07-16_extraction.md",
-    "searchHint": "\"Witch Sight\" or \"Veiled Library\" or \"weeping\""
+    "searchHint": "\"Witch Sight\" or \"Veiled Library\" or \"weeping\"",
+    "narrativeSource": "Book Two, Chapter 9 — The Library That Remembers",
+    "narrative": [
+      "The Veiled Library opened beneath them like a flower.",
+      "Rooms. Halls. Corridors. Shelves stretching floor to ceiling, loaded with books and scrolls and artifacts arranged with a librarian’s obsessive geometry. Weapons mounted on walls. Jewellery in glass cases. And all of it invisible — hidden behind a mystical veil that turned the air to opacity, so that without witch sight the rooms were simply darkness, and the shelves were simply walls, and the treasures of an empire were simply absence.",
+      "Lamerra let go of Agathara’s wrist and stepped fully into the room. The others lost him.",
+      "For Agathara, the world became darkness and silence and the terrible sensation of standing in a space she could not perceive. No walls. No floor she could trust. No light, no shadow, no reference point. She reached for the stair railing and found nothing. Her breath came fast.",
+      "Then Lamerra was back, and the world returned in a rush of sensation.",
+      "“The library is here,” Lamerra said. There was wonder in his voice, and the wonder was more unsettling than any danger would have been, because Lamerra did not wonder at things. “All of it. Perfectly preserved. We just need eyes to see it.”",
+      "He looked at each of them in turn. His gaze settled on Reginald.",
+      "Reginald moved through the library with the careful, reverent pace of a man in a museum. He stopped before a label that read DEATH OF UNATOR CORONAR.",
+      "“The king’s death,” he said. His voice was very quiet. “There is no record of how Coronar died. It’s one of the great mysteries of the last century.”",
+      "“Don’t,” Agathara said.",
+      "He touched the skull.",
+      "The memory took him completely. A throne room — grander, older. A man on the throne: old, tired, wearing a crown that sat on his brow like a migraine. Before him, a figure in a dark cloak, moving with the unhurried pace of someone who had already won. The figure spoke a word. The king’s body seized. Shadows poured from his mouth and nose and eyes, and the king did not scream. He stared at the cloaked figure with an expression of such weary recognition that it was clear he had expected this.",
+      "The memory ended. Reginald staggered. Corruption flooded through him — the price of touching a preserved moment — and Agathara was there, her hands on his shoulders, the warm light of her power washing the worst of it away.",
+      "“Someone killed him,” Reginald said. His face was grey. “I saw it. A figure in a cloak. He didn’t even fight back.”",
+      "Then Lamerra found the sword. His hand closed on the grip. The trap detonated — not fire, not light, but corruption, pure and weaponised, erupting from the blade in a wave that struck everything in the room. Reginald screamed. The blight marks on his hands blazed dark. His face distorted — jaw extending, veins blackening, something pushing outward from beneath his skin that was not him and was not human and was very, very close to breaking through.",
+      "Agathara’s light reached him, poured into him, pulled him back from the threshold.",
+      "His face reformed. The veins faded. The jaw receded. He was himself again — shaking, sweating, his hands blistered with shadow — but himself."
+    ]
   }
 ]

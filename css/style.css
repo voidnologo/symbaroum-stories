@@ -259,6 +259,7 @@ body::before {
 .section-ornament {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 1.25rem;
   margin-bottom: 3rem;
 }
@@ -833,4 +834,69 @@ body.modal-open {
   box-shadow: 0 0 80px rgba(0, 0, 0, 0.8);
   /* Subtle gold border to frame the art */
   outline: 1px solid var(--gold-dim);
+}
+
+/* ============================================================
+   SCENE EXCERPT — Narrative passage below the scene summary
+   ============================================================ */
+
+/* Thin rule separating summary from excerpt */
+.scene-excerpt-divider {
+  width: 100%;
+  border-top: 1px solid var(--gold-dim);
+  margin: 0;
+  opacity: 0.5;
+}
+
+.scene-excerpt {
+  max-width: var(--detail-col);
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+/* Source attribution — "Book Two, Chapter 15 — Nighthome" */
+.scene-excerpt-source {
+  font-family: var(--font-heading);
+  font-size: 0.65rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold-dim);
+  margin-bottom: 2rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid rgba(122, 99, 48, 0.3);
+}
+
+.scene-excerpt-body {
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  line-height: 1.85;
+  color: var(--ink);
+}
+
+.scene-excerpt-para {
+  margin: 0 0 1.25em;
+}
+
+/* Drop-cap on first paragraph of excerpt */
+.scene-excerpt-first::first-letter {
+  font-family: var(--font-heading);
+  font-size: 3.4em;
+  font-weight: 700;
+  color: var(--gold);
+  float: left;
+  line-height: 0.82;
+  margin: 0.05em 0.1em 0 0;
+  padding: 0;
+}
+
+@media (max-width: 600px) {
+  .scene-excerpt {
+    padding: 2rem 1rem 3rem;
+  }
+  .scene-excerpt-body {
+    font-size: 1rem;
+  }
+  .scene-excerpt-first::first-letter {
+    font-size: 2.8em;
+  }
 }
