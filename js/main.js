@@ -464,10 +464,39 @@ function buildSceneCard(scene) {
    INIT — Detect which page we are on and run appropriate logic
    ============================================================ */
 
+/* ============================================================
+   HERO BACKGROUND CROSSFADE
+   ============================================================ */
+
+/**
+ * Slowly cycles through .hero-bg-img elements with crossfade.
+ * Each image stays visible for HOLD_MS, then transitions over FADE_MS.
+ */
+function initHeroCycle() {
+  const imgs = Array.from(document.querySelectorAll('.hero-bg-img'));
+  if (imgs.length === 0) return;
+
+  const HOLD_MS  = 7000;   // how long each image is fully visible
+  const FADE_MS  = 2500;   // matches the CSS transition duration
+
+  let current = 0;
+  imgs[0].classList.add('is-active');
+
+  setInterval(() => {
+    const next = (current + 1) % imgs.length;
+    imgs[next].classList.add('is-active');
+    // Remove the outgoing after the fade completes
+    const outgoing = current;
+    setTimeout(() => imgs[outgoing].classList.remove('is-active'), FADE_MS);
+    current = next;
+  }, HOLD_MS + FADE_MS);
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   const body = document.body;
 
   if (body.dataset.page === 'index') {
+    initHeroCycle();
     initGallery();
   } else if (body.dataset.page === 'scene') {
     initScenePage();
