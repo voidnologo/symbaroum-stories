@@ -1,0 +1,1 @@
+../../../../transcribe/.claude/commands/illustrate-scene.md
