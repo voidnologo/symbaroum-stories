@@ -407,5 +407,363 @@
       "Agathara’s light reached him, poured into him, pulled him back from the threshold.",
       "His face reformed. The veins faded. The jaw receded. He was himself again — shaking, sweating, his hands blistered with shadow — but himself."
     ]
+  },
+  {
+    "id": "agathara-the-chrysalis",
+    "title": "The Chrysalis",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "Agathara erupts from a hollowed Kotkas bear-construct in Brighthaven's fortress atrium, tearing free of the dead flesh and unleashing divine light against the undead guards in a moment of violent liberation.",
+    "images": [
+      "scene-agathara-the-chrysalis_v01_00002_.png"
+    ],
+    "source": "outputs/narrative/chapter_10_brighthaven.md",
+    "narrativeSource": "Book Two, Chapter 10 — Brighthaven",
+    "narrative": [
+      "Then Lamerra hollowed out the Kotkas.",
+      "He did it with his hands and his knife and a kind of grim, surgical focus that none of them wanted to watch but none of them could look away from. The bear-constructs stood motionless while he worked, obedient even as he gutted them, and the cavity he carved in each was just large enough for a person to curl inside. It was warm in there. It was wet. The smell was beyond description.",
+      "\"No,\" Agathara said.",
+      "\"It is the only way past the gates. The undead will not question two Kotkas accompanying an emissary. They will question a living Theurg of Prios walking through their front door.\"",
+      "\"Lamerra, I refuse to --\"",
+      "\"Agathara.\" His voice was gentle, which was worse. \"I have been inside worse things. This is a body. A dead one. It will not hurt you. It will carry you.\"",
+      "She looked at the hollowed-out Kotkas. She looked at Lamerra. She looked at the fortress on the ridge, and the army between them and it, and the tower where the map waited.",
+      "She climbed inside.",
+      "The Kotkas closed around her. The darkness was total. The stench was absolute. She pressed her face into the crook of her arm and breathed through her sleeve and felt the creature begin to move, each step a rolling, lurching gait that pressed its dead flesh against her from every side, and she thought: I have survived blight storms and blood elves and the revelation that my scripture is a lie. I can survive this.",
+      "Karano, in the other Kotkas, said nothing. He endured it the way he endured everything -- with silence and the particular patience of a hunter who understood that discomfort was a temporary state and death was not.",
+      "The atrium was tall and dim, lit by torches that burned without smoke -- corruption-fed flames that cast shadows in directions no natural fire would produce. Five guards stood at the base of a spiral staircase. They turned at the sound of the door.",
+      "\"Inspection,\" Lamerra said. \"Apostle Keen's orders.\"",
+      "It was a terrible lie. The guards were not fooled. But Lamerra was already drawing his sword, and the black flames were already licking along its edge, and the first guard fell before the others understood that diplomacy had ended.",
+      "Agathara burst from the Kotkas like a chrysalis shattering. The dead flesh parted around her -- she tore it, clawing through the cavity walls with a strength born of equal parts desperation and fury -- and she emerged covered in gore, her battle robes slicked with undead ichor, and her hands were already raised, and the light of Prios erupted from her palms in a wave that filled the atrium.",
+      "\"THE ANCIENT ENEMY IS HERE!\" one of the guards screamed, and the cry echoed upward through the tower, floor after floor. \"THE QUEEN AND HER GUARDS HAVE RETURNED!\"",
+      "They thought she was Korinthia. Of course they did. A living woman emerging inside their fortress, wreathed in holy light -- who else could it be?",
+      "The aura hit the undead guards like a physical force, searing through armour, through binding, through bone. Two dropped immediately. The others staggered, the binding that held their bones together fraying under the assault of divine light.",
+      "Karano emerged from his Kotkas with considerably more composure than Agathara, rolling free of the dead flesh and coming up with an arrow nocked before his feet touched the ground. The shaft took a guard in the eye socket and punched through the back of the skull, and the undead soldier disassembled with the clatter of a puppet whose strings had been cut."
+    ]
+  },
+  {
+    "id": "agathara-the-gargoyles-prayer",
+    "title": "The Gargoyle’s Prayer",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "Agathara comes back to herself crouched over Chikubi Henkei's dying body, blood on her hands and fangs still visible, and stretches out trembling hands to pray over the man she has harmed -- the vampathera arc.",
+    "images": [
+      "scene-agathara-the-gargoyles-prayer_v03_00001_.png"
+    ],
+    "source": "outputs/narrative/book1_chapter_13_dawn_of_the_black_sun.md",
+    "narrativeSource": "Book One, Chapter 13 — Dawn of the Black Sun",
+    "narrative": [
+      "She was crouching over a body. There was blood in her mouth -- warm, salt-copper, still fresh -- and the body beneath her was Chikubi Henkei's, and he was not moving, and his face was the color of old wax, and his blood was everywhere, on her hands, on her chin, pooling on the flagstones in a spreading dark mirror that reflected the hellish red light of the spell building above the cathedral.",
+      "Her companion. Her friend. The man who had carried her through this nightmare, who had borne her weight and her violence and her hunger without complaint, who had positioned himself between her and a demon from the Yonder World because that was what he did, because that was who he was. He lay on the ground at her feet, and he was dying, and she had done this.",
+      "The nightmare bane -- the deep-rooted, marrow-level fear that she carried like a splinter in her soul, the terror of watching a companion fall and being unable to stop it -- cracked through the blood-fog in her mind like sunlight through stained glass. For one impossible, crystalline moment, the hunger retreated entirely, and Agathara Silvershade was wholly, completely herself.",
+      "She stretched out her hands.",
+      "They were shaking. They were covered in Chikubi Henkei's blood. And she did not know, in that moment, whether Prios would answer. She had been made into something with fangs. She had drunk the blood of the man she was trying to heal. She had been a monster. What god would answer the prayer of a monster?",
+      "Prios answered.",
+      "The light came as it always came -- warm, golden, an absolute counter to the corruption-saturated darkness of the compound. It flowed through her shaking, blood-covered hands and into the body of the man beneath her, and she felt his wounds close, felt the color return to his flesh, felt his heart strengthen from a faltering stutter to a steady rhythm. Every drop of grace she had left, poured out in a single desperate act of faith and contrition.",
+      "Chikubi Henkei's eyes opened. He looked up at her -- at the blood on her face, at the fangs still visible behind her lips, at the luminous eyes that were, for this one moment, also Agathara's eyes -- and he reached for her hand.",
+      "\"Can you run?\" he asked.",
+      "\"I don't know for how long.\"",
+      "\"Then we run until you can't.\""
+    ]
+  },
+  {
+    "id": "agathara-the-living-sun",
+    "title": "The Living Sun",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "At Castle Thorn, Agathara opens herself fully to Prios and the Burning Glass erupts from her hands as a column of absolute sunlight, striking down twelve corrupt soldiers in a single breath.",
+    "images": [
+      "scene-agathara-the-living-sun_v03_00001_.png"
+    ],
+    "source": "outputs/narrative/chapter_01_the_throne_without_thorns.md",
+    "narrativeSource": "Book Two, Chapter 1 — The Throne Without Thorns",
+    "narrative": [
+      "Agathara knelt again. She closed her eyes against the firelight, against the chaos, against the sick wrongness of corruption that had been seeping into her bones since they entered this dead fortress. She did not try a small prayer this time. She did not ask for a shield or a ward or a gentle light.",
+      "She opened herself to the sun.",
+      "Not commanding -- asking. The way she had been taught, in the seminary in Yndaros, before she had learned that faith was not a weapon but a door. She placed her hands flat on the corrupted stone of Castle Thorn and she asked, and the silence inside her was the silence of a woman who had walked into the heart of darkness and still believed that light existed.",
+      "It answered.",
+      "The Burning Glass manifested as a column of radiance that had nothing to do with fire. It was sunlight -- concentrated, absolute, the kind of light that left no shadow and brooked no argument. It erupted from Agathara's outstretched hands and filled the dome, and everything it touched that carried corruption in its blood burned.",
+      "It was not flame. It was judgment.",
+      "A Ranger facing Reginald threw his hands over his eyes as his skin cracked and peeled, the corruption hidden in his blood igniting from within. On the dais, three of the mages toppled sideways, their defensive wards shattering like glass against light that was older than wards and stronger than glass. The rebel soldiers -- those who had drunk from dark wells, who had bargained for power in the places where corruption pooled like standing water -- simply fell.",
+      "Twelve of them. Perhaps more. Gone in a breath."
+    ]
+  },
+  {
+    "id": "agathara-two-faiths-at-the-fire",
+    "title": "Two Faiths at the Fire",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "Agathara and the undead knight Nightblade stand facing each other with the anti-corruption aura burning between them -- two women who served the same god and were each abandoned by the same church.",
+    "images": [
+      "scene-agathara-two-faiths-at-the-fire_v01_00001_.png"
+    ],
+    "source": "outputs/narrative/chapter_10_brighthaven.md",
+    "narrativeSource": "Book Two, Chapter 10 — Brighthaven",
+    "narrative": [
+      "Nightblade dismounted. She was taller than Lamerra, taller than Karano -- an imposing figure in scarred plate armour, moving with the deliberate economy of the undead who retained their martial skill. Her visor was raised. Beneath it, her face was what undeath had made of it: preserved but wrong, the skin too tight, the eyes too deep, the expression fixed in a calm that was not peace but its opposite.",
+      "She looked at Agathara.",
+      "Agathara looked at her.",
+      "The light of the anti-corruption aura burned between them -- Agathara's faith, a living sun, and Nightblade's existence, a thing made of the very corruption that sun existed to destroy. The aura pressed against Nightblade like a physical force. She endured it. She did not step back.",
+      "\"You are the Theurg,\" Nightblade said. Her voice was dry, uninflected, the voice of a woman speaking through a throat that no longer needed air. \"Lamerra writes of you. He says you are the finest servant of Prios he has known.\"",
+      "\"And you,\" Agathara said. Her voice shook. \"You are the knight.\"",
+      "\"I was a knight.\" Nightblade's hand rested on the pommel of her greatsword. \"What I am now has no name the church would recognize.\"",
+      "\"He told us. What happened to you. What the church did.\" Agathara stopped. Started again. \"Was it true? That they abandoned you? That you wrote for help, and no one came?\"",
+      "\"I wrote seventeen letters,\" Nightblade said. \"Three were answered. The answers said to pray harder.\"",
+      "Something in Agathara's face broke and reformed into a different shape. Not forgiveness -- she was not ready for that, might never be -- but recognition. The recognition of a woman who served the same god and who understood, in her bones, what it meant to cry out to heaven and hear nothing but the echo of your own voice.",
+      "\"Peace was stolen from me,\" Nightblade said. \"The Dark Lords left nothing to rest for. If this form lets me strike them down, I will bear its curse.\""
+    ]
+  },
+  {
+    "id": "aro-beacon-in-the-dead-city",
+    "title": "Beacon in the Dead City",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "Aro materializes at the base of Thistle Hold's beacon tower in the dead city, strobing gold like a lantern in a hurricane and drawing every creature in Toad Square toward him.",
+    "images": [
+      "scene-aro-beacon-in-the-dead-city_v02_00001_.png"
+    ],
+    "source": "outputs/narrative/chapter_14_thistle_hold.md",
+    "narrativeSource": "Book Two, Chapter 14 — Thistle Hold",
+    "narrative": [
+      "They circled the city to the north gate, near the beacon. Aro was sent ahead -- the closest thing to a perfect scout that Agathara's faith had ever produced. He was to reach the beacon, determine if survivors remained, and report back.",
+      "He did not execute this plan with distinction.",
+      "The patron saint materialized at the base of the tower, blinking in and out of visibility to catch the attention of anyone watching from above. Rather than a subtle signal, Aro strobed like a lantern in a hurricane -- flashing gold, then gone, then gold again, a beacon beneath the beacon that every creature in Toad Square could see.",
+      "A roar split the silence. From around the corner of the tower, a massive figure in the tattered remnants of sun-yellow theurge's robes came charging -- a blight beast, but unlike the mindless horrors that prowled the streets. This one moved with purpose. Its eyes held intelligence.",
+      "\"Fresh food,\" it said, in a voice that still remembered human speech. \"Substance.\"",
+      "Aro climbed. The rope ladder caught and swung wildly as the creature slammed into its base, but the patron saint's spirit-born strength held, and he hauled himself up hand over hand with the desperate speed of a man outrunning death. Below, the blight beast seized the ladder and began to climb.",
+      "The survivors cut the rope."
+    ]
+  },
+  {
+    "id": "aro-tearing-the-wraith-apart",
+    "title": "Tearing the Wraith Apart",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "As Karava's troll battle-chant breaks the wraith's terror and Karano puts a hallowed arrow through her face, Aro catches her with a backhand strike that rips her torso apart in a spray of spectral light.",
+    "images": [
+      "scene-aro-tearing-the-wraith-apart_v02_00001_.png"
+    ],
+    "source": "outputs/narrative/chapter_14_thistle_hold.md",
+    "narrativeSource": "Book Two, Chapter 14 — Thistle Hold",
+    "narrative": [
+      "Karava stood in the wraith's presence with his eyes clear and his heart pounding and his axe in his hands, and the room trembled with the sound of his voice.",
+      "He swung. The axe should have split the wraith from crown to sternum. Instead the stroke went wide at the worst possible moment, and Karava buried it in his own foot.",
+      "Green ichor erupted across the floorboards. The troll staggered, looked down at the severed extremity, and roared -- not in fear, but in sheer disbelieving outrage.",
+      "Karano, shaking free of his terror at the sound of the troll chant, put a hallowed arrow through the wraith's face. The enchanted shaft punched through her vaporous skull and tore a hole in the flickering substance of her form. She screamed in anger, her head reforming around the wound, but the damage was real -- she was thinning, losing coherence. Aro, golden and furious, caught her with a backhand strike that ripped her torso apart in a spray of spectral light.",
+      "Through all of this, Karava's foot was regrowing.",
+      "The regeneration was grotesque and wonderful in equal measure. The severed foot, retrieved and pressed against the stump of the ankle, began to knit. There was a grinding, squelching crunch as bone found bone and flesh reached for flesh, and then the troll was flexing his toes experimentally, grunting in satisfaction. He picked up his axe.",
+      "\"There we go,\" he said. \"Good as new.\""
+    ]
+  },
+  {
+    "id": "coriol-thorn-cloak-rising",
+    "title": "Thorn Cloak Rising",
+    "character": "Coriol",
+    "characterSlug": "coriol",
+    "description": "As Agathara's Holy Aura floods the camp with light that heals friend and foe alike, Coriol activates his thorn cloak to full strength -- a shimmer of green-tinged energy that turns his body into a weapon against any creature that dares to touch him.",
+    "images": [
+      "scene-coriol-thorn-cloak-rising_v02_00001_.png"
+    ],
+    "source": "outputs/narrative/book1_chapter_05_thistlehold.md",
+    "narrativeSource": "Book One, Chapter 5 — Thistlehold",
+    "narrative": [
+      "Holy Aura was light and life together -- a radiance that spilled from Agathara's outstretched hands and filled the clearing with a warm, golden glow that drove the shadows back to the treeline. The camp became visible: bedrolls strewn, weapons drawn, mare cats frozen in the sudden illumination with their pupils constricted to slits and their bodies taut with the instinct to flee from the thing they most feared.",
+      "But the Aura was a double gift, and its second edge cut both ways. The healing radiance mended torn flesh and soothed damaged muscle -- in friend and foe alike. The mare cats that had taken wounds felt their injuries close, their confidence return.",
+      "\"That's healing them too,\" Coriol observed, his sword and parrying dagger already in hand, his thorn cloak manifesting around him as a shimmer of green-tinged energy that made the air around his body ripple. He had activated the enchantment at its full strength; any creature that struck him would find its own flesh torn by phantom thorns.",
+      "\"I know,\" Agathara said. \"But now you can see.\"",
+      "The mare cats were learning. They were pack hunters -- intelligent, adaptive, accustomed to bringing down prey through coordinated assault. But the prey before them would not go down. The armored ones shrugged off their attacks. The glowing one healed herself even as she healed them. The one wrapped in phantom thorns punished every touch. And the short one with the enormous sword fought like something that had been killing things since before the cats' grandmothers were kittens.",
+      "One by one, the cats peeled away. First the wounded, slinking into the undergrowth to nurse their injuries. Then the cautious, those whose instincts told them that the cost of this hunt exceeded its reward.",
+      "Vyegar met the last cat's gaze. He did not brandish his weapon. He simply stood there, bleeding from a shallow scratch on his forearm, his sword dark with blood that was not his own, and waited."
+    ]
+  },
+  {
+    "id": "coriol-we-may-be-surrounded",
+    "title": "We May Be Surrounded",
+    "character": "Coriol",
+    "characterSlug": "coriol",
+    "description": "On the road to Ravenia, Coriol notices that eight of the snow drifts around a dead courier are wrong -- they sit in places where no natural drift would form -- and quietly signals the party before the first one stands up.",
+    "images": [
+      "scene-coriol-we-may-be-surrounded_v01_00001_.png"
+    ],
+    "source": "outputs/narrative/book1_chapter_01_the_road_to_ravenia.md",
+    "narrativeSource": "Book One, Chapter 1 — The Road to Ravenia",
+    "narrative": [
+      "It was midafternoon when they heard the scream.",
+      "A man's voice -- ragged, desperate, the kind of sound that came from the throat of someone in genuine extremity. It cut through the still winter air from somewhere ahead, perhaps two hundred yards, where the road curved through a grove of bare-branched oaks.",
+      "Chikubi Henkei was moving before the echo died. Gibraltar surged forward at a touch of his knees, the warhorse responding to urgency the way a blade responds to the hand that draws it. The rest of the party tightened formation instinctively -- Flare moving up from the rear, Coriol and Igni closing in on the priests, Agathara reaching for the sun medallion at her throat.",
+      "A horse lay sprawled across the road, its legs at wrong angles, a deep gash across its neck and shoulder crusted with dark blood. Beside it, crumpled face-down in the churned snow, a man. A courier, from the look of his riding clothes. Chikubi Henkei reined Gibraltar to a halt and scanned the treeline. Nothing moved. Nothing made a sound. The silence was total -- not the comfortable silence of a winter forest, but the held-breath silence of a place where something was watching.",
+      "Coriol said nothing. He was looking at the snow.",
+      "The road here passed through a stretch of woodland, oaks and birches bare of leaves, the ground covered in a smooth white blanket broken only by the usual drifts and hollows. But some of the drifts were wrong. They sat in places where no natural drift would form -- on flat ground, in the lee of nothing, spaced at irregular intervals on both sides of the road in a rough ring around the dead courier and his horse.",
+      "He counted them. Eight.",
+      "\"We may be surrounded,\" Coriol said, very quietly. \"The snow. Those lumps that should not be there.\"",
+      "He made a hand signal -- danger, circle, many -- and saw understanding flash across Chikubi Henkei's face. The warrior rose from his crouch, slowly, his sword loose in his grip, his eyes tracking the perimeter.",
+      "Behind them, Liturge Boreal gasped.",
+      "One of the snow lumps was standing up."
+    ]
+  },
+  {
+    "id": "coriol-what-the-corruption-knows",
+    "title": "What the Corruption Knows",
+    "character": "Coriol",
+    "characterSlug": "coriol",
+    "description": "When two wraiths exhale dark breath toward Coriol, the corruption already saturating his blood resonates with theirs -- the darkness finds kinship, and instead of harm, Coriol feels his wounds ease.",
+    "images": [
+      "scene-coriol-what-the-corruption-knows_v01_00002_.png"
+    ],
+    "source": "outputs/narrative/book1_chapter_01_the_road_to_ravenia.md",
+    "narrativeSource": "Book One, Chapter 1 — The Road to Ravenia",
+    "narrative": [
+      "Two of the entangled wraiths raised their hands toward Coriol and exhaled -- not air, but a reeking blast of something cold and dark and ancient, a wind that carried corruption like a plague carries fever. It struck him full in the chest. He braced for agony.",
+      "Instead, he felt warmth.",
+      "The corruption in his blood -- the accumulated weight of weeks of witch-magic and desperate spellcasting, so much taint that it had become as familiar as his own heartbeat -- resonated with the wraiths' darkness. Instead of adding to his burden, the black breath found kinship with what was already there, and the collision produced not damage but a strange, discordant healing. He felt his bruises ease. Felt the ache in his joints recede.",
+      "The wraiths seemed confused. They tried again. Again, Coriol was healed.",
+      "Igni was not so fortunate. The same black breath struck the pyromancer like a wall of ice, and because his corruption was low -- barely a trace, the residue of a single misfired spell -- the darkness had nothing to bond with. It piled corruption onto him instead, a flood of taint that rushed through his veins like ice water, and he staggered, gasping, as the shadows bloomed beneath his skin like ink dropped in water.",
+      "\"Crossbow,\" he said, through teeth that would not stop chattering. \"I'm using the crossbow from now on.\""
+    ]
+  },
+  {
+    "id": "karano-pain-is-negotiable",
+    "title": "Pain Is Negotiable",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "In Nighthome, Karano wakes with broken ribs, takes his bow without a word, and goes forward into the dark -- leading the party through a dead city with the stubbornness of a man who knows pain is negotiable and death is not.",
+    "images": [
+      "scene-karano-pain-is-negotiable_v03_00001_.png"
+    ],
+    "source": "outputs/narrative/chapter_15_nighthome.md",
+    "narrativeSource": "Book Two, Chapter 15 — Nighthome",
+    "narrative": [
+      "The party was pressed into the mouth of an alley in the back streets -- Agathara at the rear with the surviving civilians huddled between her and the others, Karano somewhere ahead in the murky half-light with his bow drawn, Reginald a shadow among shadows, and Karava's enormous shape filling the alley's far end like a cork in a bottle. They had been moving for hours through a city that had become an abattoir. Blood on every surface. Buildings smashed, windows shattered, doors ripped from their hinges with a violence that spoke of strength beyond reason.",
+      "The corruption pressed against Agathara's skin like ice water that would not drain. In any normal circumstance, the taint would have dissipated within minutes, bleeding off like heat from cooling metal. Here, in this saturated ruin, it clung. It accumulated. And every spell she cast would add not just its normal cost but an additional surge of corruption that could push any of them across the threshold from which there was no return.",
+      "Magic was a weapon she could not afford to draw.",
+      "\"Clear,\" Karano murmured from the next intersection, his voice barely a breath. He had woken an hour into their flight through the alleys, draped over Karava's shoulder like a sack of grain, his ribs grinding and his vision doubled. Agathara had set the shoulder and bound the ribs with strips torn from a dead man's shirt -- field medicus, no magic, because the corruption cost of healing in this place was a price none of them could pay. The hunter had said nothing. He had taken his bow from Karava's hand, nocked an arrow, and gone forward into the dark with the particular stubbornness of a man who understood that pain was negotiable and death was not. He had been extraordinary since -- rolling forward through the maze of back streets with the focused precision of a man who understood that a single misstep meant death for five civilians who had no other protector. His vigilance had kept them alive. His restraint had kept them silent."
+    ]
+  },
+  {
+    "id": "karano-the-wraiths-face",
+    "title": "The Wraith’s Face",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "Karano breaks free of the wraith's terror at the sound of Karava's battle chant and puts a hallowed arrow through the wraith's face, tearing a hole in her flickering form.",
+    "images": [
+      "scene-karano-the-wraiths-face_v02_00001_.png"
+    ],
+    "source": "outputs/narrative/chapter_14_thistle_hold.md",
+    "narrativeSource": "Book Two, Chapter 14 — Thistle Hold",
+    "narrative": [
+      "Karava stood in the wraith's presence with his eyes clear and his heart pounding and his axe in his hands, and the room trembled with the sound of his voice.",
+      "He swung. The axe should have split the wraith from crown to sternum. Instead the stroke went wide at the worst possible moment, and Karava buried it in his own foot.",
+      "Green ichor erupted across the floorboards. The troll staggered, looked down at the severed extremity, and roared -- not in fear, but in sheer disbelieving outrage.",
+      "Karano, shaking free of his terror at the sound of the troll chant, put a hallowed arrow through the wraith's face. The enchanted shaft punched through her vaporous skull and tore a hole in the flickering substance of her form. She screamed in anger, her head reforming around the wound, but the damage was real -- she was thinning, losing coherence.",
+      "It was only afterward, huddled in a cold thicket with no fire and no roof, that Karano made the observation that would haunt them.",
+      "\"The wraith didn't actually hurt anyone,\" he said. \"The only damage was self-inflicted.\""
+    ]
+  },
+  {
+    "id": "karano-three-arrows",
+    "title": "Three Arrows, One Draw",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "When a blood elf uses an oak pew as a shield to advance on the party, Karano draws and fires three arrows simultaneously -- striking hand, chest, and throat in a single volley of hallowed golden light.",
+    "images": [
+      "scene-karano-three-arrows_v01_00001_.png"
+    ],
+    "source": "outputs/narrative/chapter_04_eternal_night.md",
+    "narrativeSource": "Book Two, Chapter 4 — Eternal Night",
+    "narrative": [
+      "Three blood elves burst from behind the altar, sprinting down the central aisle. But as they passed the first row of pews, the lead elf seized an entire oak pew -- two hundred pounds of carved mountain timber -- and ripped it from its floor bolts with one hand. It held the pew vertically like a shield, and the other two fell in behind it, and they charged.",
+      "The pew blocked the light.",
+      "Agathara's Holy Aura filled the chapel with golden radiance that burned everything corrupt within its reach. But the blood elves had watched the party fight the Dragon. They knew what Agathara could do. Behind the pew, they spider-crawled low to the ground, staying below the rays of light that streamed over the pew's upper edge, moving with a fluidity that belonged to the dark between the trees.",
+      "\"That's devious,\" Karano said, and drew.",
+      "Three arrows. One draw. Karano's volley struck the pew-holding elf in hand, chest, and throat simultaneously. Three bursts of hallowed golden light tore through the corrupted body. The blood elf fell. The pew-shield clattered to the flagstones."
+    ]
+  },
+  {
+    "id": "reginald-becoming-the-abyss",
+    "title": "Becoming the Abyss",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "A blood elf's fifth corrupting touch drives Reginald past his threshold -- his jaw distends, black veins rise through his skin like roots through soil, and the corruption crosses the boundary from accumulation to transformation.",
+    "images": [
+      "scene-reginald-becoming-the-abyss_v01_00001_.png"
+    ],
+    "source": "outputs/narrative/chapter_04_eternal_night.md",
+    "narrativeSource": "Book Two, Chapter 4 — Eternal Night",
+    "narrative": [
+      "Each time a blood elf's hand touched his skin -- not the blade, the hand, pale elongated fingers reaching past his guard to press against the gaps in his armour -- he felt it. Not pain. Worse than pain. A coldness that entered through the skin and sank into the marrow, a wrongness that settled in his blood like silt settling in still water. The blood elves' touch carried corruption the way a plague carrier carries disease, and each contact pushed a little more of that freezing darkness into his body.",
+      "The first touch added a whisper. The second added a word. The third added a sentence.",
+      "By the fourth touch, Reginald could feel the corruption pooling inside him like black water filling a well. He carried five permanent marks already, from the pendant's use and the accumulated exposure of months in corrupted lands. His threshold was ten -- not generous, but it had not needed to be. Until now.",
+      "A fifth touch. He felt it breach.",
+      "The corruption crossed the threshold and the world changed.",
+      "It was not gradual. It was a switch -- a boundary between what he had been and what he was becoming, and the crossing of that boundary was accompanied by a sound that existed only inside his head: a roaring, rushing noise, like a river breaking through a dam, like something vast and dark and hungry finally given permission to feed.",
+      "His bones ached. Not the ache of injury but the ache of change -- of things shifting inside him, rearranging, making room for something that had not been there before. His jaw clenched and then opened too wide, the muscles of his face pulling in directions they had never pulled, and he felt his canine teeth push outward -- not growing but protruding, the gums receding, the enamel lengthening as though his skull were reshaping itself around a mouth that needed to hold more teeth, that needed to open wider.",
+      "Black veins appeared on his hands. They rose to the surface of his skin like roots pushing through soil, dark and tarry and pulsing with a rhythm that was not his heartbeat but something else, something that had its own cadence, its own intentions. The veins spread up his forearms, branching and multiplying, a network of dark rivulets tracking through his flesh like ink through water.",
+      "His face was the worst. He could feel it changing -- the skin pulling back from his mouth, the jaw distending, the cheekbones sharpening into ridges that pressed outward against skin that was no longer thick enough to contain them.",
+      "Reginald screamed."
+    ]
+  },
+  {
+    "id": "reginald-four-beasts",
+    "title": "Four Beasts",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "Reginald engages four thistle beasts in Nighthome with nothing but his rapier and knife, redirecting one creature's momentum into its packmate and fighting with lethal precision.",
+    "images": [
+      "scene-reginald-four-beasts_v02_00001_.png"
+    ],
+    "source": "outputs/narrative/chapter_15_nighthome.md",
+    "narrativeSource": "Book Two, Chapter 15 — Nighthome",
+    "narrative": [
+      "Reginald crashed into its flank before it completed the turn. His rapier found the junction of head and neck on the nearest skull, and the blade went in with the particular sound of steel entering dense, corrupted flesh.",
+      "The creature's blood sprayed in an arc. It hissed where it struck stone. It hissed where it struck Reginald.",
+      "\"Acid,\" Karano said from behind her, very quietly.",
+      "The beast roared -- a bass note that resonated in the chest -- and three more of its kind came pounding out of the alley behind it. Bear-sized abominations with hides like boiled leather, each one bristling with bone spurs and horn, each one trailing a reek of corrupted bile that made her eyes water.",
+      "Reginald was already among them. His rapier opened the first beast's face from jaw to brow in a single rising cut. The blade reversed, stabbed deep into the shoulder of the second creature as it lunged, and something in the strike sent a shudder through the abomination's body that locked its muscles for a critical, frozen heartbeat. The knife in his off hand was already moving, finding gaps, punishing hesitation.",
+      "The second beast lunged with both foreclaws, and Reginald -- with the fluid, acrobatic grace that had earned him his reputation -- simply stepped aside, redirecting the creature's momentum so that its claws tore not into him but into its packmate. Corrupted blood sprayed. The disemboweled beast collapsed in a heap of acid.",
+      "Karano's arrow took the downed beast through the eye. The hallowed shaft punched clean through bone and brain, delivered with the cool accuracy of a man shooting targets at a festival.",
+      "Karava arrived at the fight like weather. Anthem sang -- there was no other word for it, the thundering enchantment on the axe's head producing a deep, resonant harmonic as it cut the air -- and the blade caught the third beast across the ribs with a force that bounced the creature off the cobblestones like a thrown ball. Bones cracked. Limbs snapped at angles that should not have existed."
+    ]
+  },
+  {
+    "id": "reginald-glass-and-morning-light",
+    "title": "Glass and Morning Light",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "Reginald opens an ancient chest to find four glass cylinders engraved with pre-Symbarian cuneiform -- and holds one to the morning light, already entering the trance of a scholar who has found something that changes everything.",
+    "images": [
+      "scene-reginald-glass-and-morning-light_v02_00001_.png"
+    ],
+    "source": "outputs/narrative/chapter_13_the_book_of_lies.md",
+    "narrativeSource": "Book Two, Chapter 13 — The Book of Lies",
+    "narrative": [
+      "The chest resisted. Then something clicked -- a sound like a mechanism releasing, ancient and precise -- and the lid flew open. Inside, resting in moulded crimson velvet, were four glass cylinders.",
+      "They were beautiful. Slender rods of clear glass, each the length of a man's forearm, engraved with cuneiform script so intricate and so precise that it seemed to have been etched by something finer than any human tool. The engravings caught the morning light and scattered it in patterns that danced across the velvet lining.",
+      "Reginald's breath left him in a sound that was not quite a word.",
+      "\"They are glass rods,\" Deceeba observed.",
+      "\"They are everything,\" Reginald whispered, and reached for one.",
+      "The glass was cool beneath his fingers. Smooth, impossibly smooth, with a faint tingling sensation -- the ghost of something that was not quite warmth and not quite vibration, as though the rod itself were alive at a frequency too low for human perception. He lifted it from the velvet cradle and held it to the light, turning it slowly, watching the cuneiform inscriptions scroll past like text on a prayer wheel.",
+      "\"The script flows in one direction down each rod,\" he said, his voice taking on the particular flatness of a scholar entering a state of total concentration. \"The opening symbols on each are similar -- a shared prefix, perhaps a classification system.\" He rotated a rod, comparing it against its neighbour. \"The style is reminiscent of early Symbalist ritual notation. Pre-Symbarian. From the era when Symbolism was used only for protection and preservation.\""
+    ]
+  },
+  {
+    "id": "reginald-the-invisible-strike",
+    "title": "The Invisible Strike",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "While Lamerra and Agathara create chaos at the front of Brighthaven's fortress, Reginald slips through invisible, opens three locks in silence, and reappears with his rapier wet and a guard already crumpled at his feet.",
+    "images": [
+      "scene-reginald-the-invisible-strike_v01_00001_.png"
+    ],
+    "source": "outputs/narrative/chapter_10_brighthaven.md",
+    "narrativeSource": "Book Two, Chapter 10 — Brighthaven",
+    "narrative": [
+      "The scholar had gone ahead, invisible, the Omalkin pendant's magic rendering him a ghost among ghosts. He had slipped through the gate behind the party, pressed against the wall, moving with the particular silence of a man who had been practising his entire life for exactly this kind of madness. His invisible hands found the first lock. Tumblers turned. The second lock. The third.",
+      "The door opened.",
+      "Lamerra sent the Dragouls forward as a distraction, then: \"Now.\"",
+      "They entered the tower. Five guards stood at the base of a spiral staircase. They turned at the sound of the door.",
+      "It was a terrible lie. The guards were not fooled. But Lamerra was already drawing his sword, and the black flames were already licking along its edge, and the first guard fell before the others understood that diplomacy had ended.",
+      "Agathara burst from the Kotkas like a chrysalis shattering, her hands already raised, the light of Prios erupting from her palms in a wave that filled the atrium.",
+      "Karano emerged from his Kotkas with considerably more composure, rolling free of the dead flesh and coming up with an arrow nocked before his feet touched the ground.",
+      "Reginald appeared from nowhere. The pendant's magic fell away and he was simply there, rapier wet, standing over a guard who had crumpled at the base of the stairs without anyone hearing him fall. He looked at the carnage, at the holy light, at Agathara's gore-streaked face and Karano's notched arrow and Lamerra's burning sword, and he said, \"I got the one on the left.\""
+    ]
   }
 ]
