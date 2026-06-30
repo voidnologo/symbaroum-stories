@@ -26,7 +26,7 @@ Pure static HTML/CSS/JS — no build tools. GitHub Pages compatible.
   "id": "characterSlug-scene-slug",
   "title": "Short Evocative Title",
   "character": "Full Character Name",
-  "characterSlug": "agathara|karano|reginald|aro|chikubi|coriol|igni|lamerra",
+  "characterSlug": "agathara|karano|reginald|aro|baldric|coriol|igni|lamerra",
   "description": "One paragraph, present tense.",
   "images": ["scene-slug_v01_00001_.png"],
   "source": "YYYY-MM-DD",

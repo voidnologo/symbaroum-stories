@@ -14,7 +14,7 @@
     "narrativeSource": "Book One, Chapter 19 — The Mother Tree",
     "narrative": [
       "She was the only one.",
-      "Chikubi Henkei froze. The warrior’s body locked in mid-motion, his warhammer arrested at the apex of a swing that would never fall, his eyes wide and glassy and seeing nothing. The keening had found the gap in his mental defenses and poured through it, and the man who could shatter armor with a single blow stood motionless as a statue while the things that had frozen him closed the distance.",
+      "Baldric froze. The warrior’s body locked in mid-motion, his warhammer arrested at the apex of a swing that would never fall, his eyes wide and glassy and seeing nothing. The keening had found the gap in his mental defenses and poured through it, and the man who could shatter armor with a single blow stood motionless as a statue while the things that had frozen him closed the distance.",
       "Reginald went rigid beside her. The scholar’s rapier hung in the air, suspended by a hand that had forgotten how to grip, and his face was blank — the sharp, animated intelligence that normally lit his features extinguished as thoroughly as a candle pinched between thumb and forefinger.",
       "Coriol swayed. The changeling’s eyes went wide, went unfocused, and a sound came from his throat that was not a word but a moan — the sound of a mind being invaded, this time by something that wanted nothing from him except his stillness.",
       "Three of four, paralyzed. Only Agathara standing.",
@@ -80,7 +80,7 @@
       "“Can we really let this happen?” she said.",
       "Coriol’s expression was carefully neutral. He would defer to her on this. He always deferred to her on this. Not because he lacked principles, but because his principles were practical and hers were absolute, and when those two frameworks collided, he trusted hers more than his own.",
       "“Whatever you decide,” he said.",
-      "“If it doesn’t compromise what we came here to do,” Chikubi Henkei said slowly, “I won’t stand in the way. But I need you to understand that this is a risk.”",
+      "“If it doesn’t compromise what we came here to do,” Baldric said slowly, “I won’t stand in the way. But I need you to understand that this is a risk.”",
       "“Some things are simply wrong,” Agathara said. “Watching them happen when you have the power to stop them — that is also wrong. These are our countrymen. They are going to be butchered for the entertainment of dead men who have no right to still be walking, and I will not sit in this room and listen to it happen.”",
       "The words settled into the silence like stones dropped into still water.",
       "“The medallion,” Coriol said after a moment. “We trade the medallion for the prisoners.”",
@@ -319,7 +319,7 @@
       "The feint was textbook. A ghost of motion to the left, the dagger flickering, and in the fractional instant of confusion the rapier punched home — through the neck, through whatever served the creature for a spine, and out the other side in a spray of dark ichor. The Mangonaal convulsed once and folded sideways across the rubble, its keening cut off mid-frequency with the abruptness of a snapped string.",
       "One down.",
       "The others turned. The keening intensified — deeper, shifting into registers that could not be blocked. Agathara felt it press against her and pushed back with everything she had.",
-      "Chikubi Henkei stood at the threshold of the tree's crack and raised his warhammer. The weapon had killed a pyromancer once — had caved in the man's skull and drunk something of his art in the process — and the spell still lived in the iron head like an ember that never went out. Chikubi felt the familiar heat travel up the haft as he invoked it.",
+      "Baldric stood at the threshold of the tree's crack and raised his warhammer. The weapon had killed a pyromancer once — had caved in the man's skull and drunk something of his art in the process — and the spell still lived in the iron head like an ember that never went out. Baldric felt the familiar heat travel up the haft as he invoked it.",
       "He swept the hammer forward, and Brimstone Cascade poured from the iron head like a river breaking through a dam.",
       "The fire hit four of the five remaining Mangonaals simultaneously — a rolling front of alchemical flame washing across the courtyard with the indiscriminate fury of a natural disaster. Their leathery wings caught fire. Two dropped where they stood, bodies curling inward like paper touched by a match. The other two staggered, burning, claws raking at their own bodies."
     ]
@@ -338,7 +338,7 @@
     "narrativeSource": "Book One, Chapter 19 — The Mother Tree",
     "narrative": [
       "The enthrallment shattered.",
-      "Chikubi Henkei’s eyes cleared. The glassiness left them, replaced by something that was not confusion but pure, concentrated fury — the rage of a warrior who had been held motionless while his companions were mauled, whose body had been stolen from him by a sound, and who now had it back.",
+      "Baldric’s eyes cleared. The glassiness left them, replaced by something that was not confusion but pure, concentrated fury — the rage of a warrior who had been held motionless while his companions were mauled, whose body had been stolen from him by a sound, and who now had it back.",
       "He swung.",
       "The warhammer came around in an arc that started at his hip and ended in the skull of the nearest Mangonaal. The blow was everything the weapon was designed to deliver — devastating, absolute, armor-ignoring. The Mangonaal’s head ceased to exist as a recognizable structure.",
       "Reginald came back to himself with a gasp. The first thing his cleared eyes saw was the Mangonaal that had been draining his blood — still attached, still feeding, its tongue embedded in his neck. He feinted left and drove the rapier home beneath the Mangonaal’s jaw. The parrying dagger followed, punching through the creature’s throat. It dropped without a sound.",
@@ -445,21 +445,21 @@
     "title": "The Gargoyle’s Prayer",
     "character": "Agathara Silvershade",
     "characterSlug": "agathara",
-    "description": "Agathara comes back to herself crouched over Chikubi Henkei's dying body, blood on her hands and fangs still visible, and stretches out trembling hands to pray over the man she has harmed -- the vampathera arc.",
+    "description": "Agathara comes back to herself crouched over Baldric's dying body, blood on her hands and fangs still visible, and stretches out trembling hands to pray over the man she has harmed -- the vampathera arc.",
     "images": [
       "scene-agathara-the-gargoyles-prayer_v03_00001_.png"
     ],
     "source": "outputs/narrative/book1_chapter_13_dawn_of_the_black_sun.md",
     "narrativeSource": "Book One, Chapter 13 — Dawn of the Black Sun",
     "narrative": [
-      "She was crouching over a body. There was blood in her mouth -- warm, salt-copper, still fresh -- and the body beneath her was Chikubi Henkei's, and he was not moving, and his face was the color of old wax, and his blood was everywhere, on her hands, on her chin, pooling on the flagstones in a spreading dark mirror that reflected the hellish red light of the spell building above the cathedral.",
+      "She was crouching over a body. There was blood in her mouth -- warm, salt-copper, still fresh -- and the body beneath her was Baldric's, and he was not moving, and his face was the color of old wax, and his blood was everywhere, on her hands, on her chin, pooling on the flagstones in a spreading dark mirror that reflected the hellish red light of the spell building above the cathedral.",
       "Her companion. Her friend. The man who had carried her through this nightmare, who had borne her weight and her violence and her hunger without complaint, who had positioned himself between her and a demon from the Yonder World because that was what he did, because that was who he was. He lay on the ground at her feet, and he was dying, and she had done this.",
       "The nightmare bane -- the deep-rooted, marrow-level fear that she carried like a splinter in her soul, the terror of watching a companion fall and being unable to stop it -- cracked through the blood-fog in her mind like sunlight through stained glass. For one impossible, crystalline moment, the hunger retreated entirely, and Agathara Silvershade was wholly, completely herself.",
       "She stretched out her hands.",
-      "They were shaking. They were covered in Chikubi Henkei's blood. And she did not know, in that moment, whether Prios would answer. She had been made into something with fangs. She had drunk the blood of the man she was trying to heal. She had been a monster. What god would answer the prayer of a monster?",
+      "They were shaking. They were covered in Baldric's blood. And she did not know, in that moment, whether Prios would answer. She had been made into something with fangs. She had drunk the blood of the man she was trying to heal. She had been a monster. What god would answer the prayer of a monster?",
       "Prios answered.",
       "The light came as it always came -- warm, golden, an absolute counter to the corruption-saturated darkness of the compound. It flowed through her shaking, blood-covered hands and into the body of the man beneath her, and she felt his wounds close, felt the color return to his flesh, felt his heart strengthen from a faltering stutter to a steady rhythm. Every drop of grace she had left, poured out in a single desperate act of faith and contrition.",
-      "Chikubi Henkei's eyes opened. He looked up at her -- at the blood on her face, at the fangs still visible behind her lips, at the luminous eyes that were, for this one moment, also Agathara's eyes -- and he reached for her hand.",
+      "Baldric's eyes opened. He looked up at her -- at the blood on her face, at the fangs still visible behind her lips, at the luminous eyes that were, for this one moment, also Agathara's eyes -- and he reached for her hand.",
       "\"Can you run?\" he asked.",
       "\"I don't know for how long.\"",
       "\"Then we run until you can't.\""
@@ -588,13 +588,13 @@
     "narrative": [
       "It was midafternoon when they heard the scream.",
       "A man's voice -- ragged, desperate, the kind of sound that came from the throat of someone in genuine extremity. It cut through the still winter air from somewhere ahead, perhaps two hundred yards, where the road curved through a grove of bare-branched oaks.",
-      "Chikubi Henkei was moving before the echo died. Gibraltar surged forward at a touch of his knees, the warhorse responding to urgency the way a blade responds to the hand that draws it. The rest of the party tightened formation instinctively -- Flare moving up from the rear, Coriol and Igni closing in on the priests, Agathara reaching for the sun medallion at her throat.",
-      "A horse lay sprawled across the road, its legs at wrong angles, a deep gash across its neck and shoulder crusted with dark blood. Beside it, crumpled face-down in the churned snow, a man. A courier, from the look of his riding clothes. Chikubi Henkei reined Gibraltar to a halt and scanned the treeline. Nothing moved. Nothing made a sound. The silence was total -- not the comfortable silence of a winter forest, but the held-breath silence of a place where something was watching.",
+      "Baldric was moving before the echo died. Gibraltar surged forward at a touch of his knees, the warhorse responding to urgency the way a blade responds to the hand that draws it. The rest of the party tightened formation instinctively -- Flare moving up from the rear, Coriol and Igni closing in on the priests, Agathara reaching for the sun medallion at her throat.",
+      "A horse lay sprawled across the road, its legs at wrong angles, a deep gash across its neck and shoulder crusted with dark blood. Beside it, crumpled face-down in the churned snow, a man. A courier, from the look of his riding clothes. Baldric reined Gibraltar to a halt and scanned the treeline. Nothing moved. Nothing made a sound. The silence was total -- not the comfortable silence of a winter forest, but the held-breath silence of a place where something was watching.",
       "Coriol said nothing. He was looking at the snow.",
       "The road here passed through a stretch of woodland, oaks and birches bare of leaves, the ground covered in a smooth white blanket broken only by the usual drifts and hollows. But some of the drifts were wrong. They sat in places where no natural drift would form -- on flat ground, in the lee of nothing, spaced at irregular intervals on both sides of the road in a rough ring around the dead courier and his horse.",
       "He counted them. Eight.",
       "\"We may be surrounded,\" Coriol said, very quietly. \"The snow. Those lumps that should not be there.\"",
-      "He made a hand signal -- danger, circle, many -- and saw understanding flash across Chikubi Henkei's face. The warrior rose from his crouch, slowly, his sword loose in his grip, his eyes tracking the perimeter.",
+      "He made a hand signal -- danger, circle, many -- and saw understanding flash across Baldric's face. The warrior rose from his crouch, slowly, his sword loose in his grip, his eyes tracking the perimeter.",
       "Behind them, Liturge Boreal gasped.",
       "One of the snow lumps was standing up."
     ]
