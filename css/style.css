@@ -472,6 +472,50 @@ body::before {
   object-position: center top;
 }
 
+/* Carousel — multiple images cross-fading in place */
+.scene-hero-carousel {
+  display: grid;
+}
+.scene-hero-carousel img {
+  grid-area: 1 / 1;          /* stack all slides in one cell */
+  display: block;
+  width: 100%;
+  max-height: 85vh;
+  object-fit: cover;
+  object-position: center top;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 1.2s ease;
+}
+.scene-hero-carousel img.is-active {
+  opacity: 1;
+  pointer-events: auto;      /* only the visible slide takes the zoom click */
+}
+
+/* Carousel position dots */
+.scene-hero-dots {
+  position: absolute;
+  bottom: 1.1rem;
+  right: 1.25rem;
+  display: flex;
+  gap: 0.5rem;
+  z-index: 3;
+}
+.scene-hero-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  border: 1px solid var(--gold-dim);
+  background: rgba(12, 10, 8, 0.5);
+  padding: 0;
+  cursor: pointer;
+  transition: background 0.3s ease, border-color 0.3s ease;
+}
+.scene-hero-dot.is-active {
+  background: var(--gold);
+  border-color: var(--gold);
+}
+
 /* Title overlay at bottom of hero */
 .scene-hero-overlay {
   position: absolute;

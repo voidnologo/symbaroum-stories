@@ -106,22 +106,38 @@ async function initScenePage() {
  */
 function renderScene(container, scene) {
   const images = scene.images || [];
-  const isDual = images.length >= 2;
+  // Opt-in carousel (scene.display === 'carousel'); otherwise keep dual side-by-side or single.
+  const isCarousel = scene.display === 'carousel' && images.length >= 2;
+  const isDual = !isCarousel && images.length >= 2;
 
   // Build image markup — use HD WebP for scene hero, with click-to-modal
-  const makeImg = (filename, altSuffix) => `
+  const makeImg = (filename, altSuffix, extraClass = '') => `
     <img
       src="${escapeHtml(imgPath(filename, true))}"
       alt="${escapeHtml(scene.title)}${altSuffix ? ' — ' + altSuffix : ''}"
       loading="eager"
-      class="scene-zoomable"
+      class="scene-zoomable${extraClass ? ' ' + extraClass : ''}"
       data-hd-src="${escapeHtml(imgPath(filename, true))}"
       title="Click to view full size"
       onerror="this.style.display='none'"
     />`;
 
   let imageHtml;
-  if (isDual) {
+  if (isCarousel) {
+    const slides = images
+      .map((f, i) => makeImg(f, 'view ' + (i + 1), i === 0 ? 'is-active' : ''))
+      .join('');
+    const dots = images
+      .map((_, i) =>
+        `<button class="scene-hero-dot${i === 0 ? ' is-active' : ''}" data-idx="${i}" type="button" aria-label="Show image ${i + 1}"></button>`
+      )
+      .join('');
+    imageHtml = `
+      <div class="scene-hero-carousel">
+        ${slides}
+      </div>
+      <div class="scene-hero-dots">${dots}</div>`;
+  } else if (isDual) {
     imageHtml = `
       <div class="scene-hero-dual">
         ${makeImg(images[0], 'variant 1')}
@@ -190,6 +206,49 @@ function renderScene(container, scene) {
 
   // Wire up zoom modal on rendered images
   initImageModal(container);
+
+  // Wire up hero carousel cycling (only present when scene.display === 'carousel')
+  initSceneCarousel(container);
+}
+
+/**
+ * Auto-cycle the scene hero carousel with a cross-fade, plus clickable dots.
+ * No-op if the scene isn't a carousel.
+ */
+function initSceneCarousel(container) {
+  const carousel = container.querySelector('.scene-hero-carousel');
+  if (!carousel) return;
+
+  const slides = Array.from(carousel.querySelectorAll('img'));
+  const dots = Array.from(container.querySelectorAll('.scene-hero-dot'));
+  if (slides.length < 2) return;
+
+  const HOLD_MS = 5000;
+  let current = 0;
+  let timer = null;
+
+  function show(idx) {
+    if (idx === current) return;
+    slides[current].classList.remove('is-active');
+    if (dots[current]) dots[current].classList.remove('is-active');
+    current = idx;
+    slides[current].classList.add('is-active');
+    if (dots[current]) dots[current].classList.add('is-active');
+  }
+
+  function next() { show((current + 1) % slides.length); }
+  function start() { stop(); timer = setInterval(next, HOLD_MS); }
+  function stop() { if (timer) { clearInterval(timer); timer = null; } }
+
+  dots.forEach((dot, i) => {
+    dot.addEventListener('click', e => {
+      e.stopPropagation();
+      show(i);
+      start(); // restart the timer after a manual pick
+    });
+  });
+
+  start();
 }
 
 /* ============================================================
