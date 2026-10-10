@@ -817,5 +817,1267 @@
       "“You looked ... shiny,” said Reginald.",
       "“Never. Again.”"
     ]
+  },
+  {
+    "id": "agathara-tears-of-brimstone",
+    "title": "Tears of Brimstone",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "Night ambush in the woods outside Thistle Hold. Bestials with parasites glowing in their throats come out of the dark, and Agathara casts Brimstone Cascade for the first time. It was Igni's spell. She casts it with tears running down her face, and none of the people fighting beside her ever knew him.",
+    "images": [
+      "scene-agathara-tears-of-brimstone_v01_00001_.png"
+    ],
+    "source": "2026-02-04",
+    "searchHint": "Brimstone Cascade first cast, Igni, bestials, parasites, night camp near Thistle Hold",
+    "narrativeSource": "Book Three — Glowing Throats (2026-02-04)",
+    "narrative": [
+      "They had camped less than a day's walk from Thistle Hold, close enough to watch the dead city on the skyline. At nightfall its lamps came on one by one, as if watchmen were still walking the walls. Nobody had an explanation for it, and nobody wanted to go and find one.",
+      "Two cat-folk staggered into camp out of the dark, a young woman named Sarah and her brother, bloodied and frightened, with bandanas pulled up over their faces. Bestials of the Ravens, said Reginald, who had read about them. They lived months to the south. Something had pushed them a very long way north.",
+      "Then a larger shape stepped out of the trees, speaking as though each word had to be forced past something. \"So you would protect these two? You flee from us, your family, to these? It's time to come back.\"",
+      "Karano saw it first: a dull orange-red glow behind the bestial's jaw, like a lamp held against the palm of a hand. Something inside its throat was lit up.",
+      "Arrows came out of the branches overhead. Bestials with black knives came out of the brush. Karava was singing, an arrow popping out of his chest as the hymn healed him, and Karano's bowstring hummed so fast it sounded like a struck wire. Reginald's sword chose that moment to fall apart in his hand.",
+      "Agathara had a new spell. She had learned it at her last rest and had not cast it yet, because she knew whose it was.",
+      "The fire did it, and the dead bodies and the smell. She lifted her hand and fire came out of it, one burning bolt and then another leaping from body to body the way Igni's always had. The second bestial it found burst apart. She did not stop. Tears were running down her face and she let them, because there was nobody in that clearing who could have understood why.",
+      "Igni had carried that fire through Ravenia's burning streets and died in one of them. His spell had outlived him, and now it was hers to carry.",
+      "When it was over, the parasites were still alive inside the dead. They were fist-sized and tick-shaped, black-plated, glowing from within, and they had to be smashed one at a time. Sarah's brother lay in the embers with three of his own clan's arrows in him. She pulled him out and held him, and later, before dawn, she took him away to bury him by herself."
+    ]
+  },
+  {
+    "id": "agathara-curljaws-embrace",
+    "title": "Curljaw's Embrace",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "The Hall of a Thousand Tears is closing and the Iron Pact is over, but in the refugee camp beneath its roots Agathara finds an old friend. Curljaw the ogre, who once kept a general store on Karvosti, sweeps her off her feet. A troop of orphan goblins lines up behind him for cookies.",
+    "images": [
+      "scene-agathara-curljaws-embrace_v02_00001_.png"
+    ],
+    "source": "2026-02-11",
+    "searchHint": "Curljaw ogre reunion, orphan goblins, squirts, cookies, Hall of a Thousand Tears refugee camp",
+    "narrativeSource": "Book Three — The Hall of a Thousand Tears (2026-02-11)",
+    "narrative": [
+      "The Hall had been a sanctuary for longer than Ambria had existed, and it was closing. The winter elf said so plainly. The Iron Pact was over, the portals were coming down, and the darkness of Davokar had just opened its eyes. Mayor Nightpitch was dead beside the Well of Tears with his last book in Reginald's hands.",
+      "Past the halls of the elves, in a great cavern under the roots, there was a camp: forty or fifty people, humans and goblins and a few elves, cookfires and bedding, the refugees of a world that was ending somewhere above them.",
+      "Something enormous stood up from one of the fires.",
+      "Curljaw had run a general store on Karvosti. When the Blood Daughter took the plateau he had run, and he had not run alone; there were goblins everywhere around his feet, small ones, orphans, in scraps of armor they had found or been given. He called them his little squirts.",
+      "He saw Agathara and crossed the camp in four strides and picked her up off the ground. It was the kind of hug that tested the ribs and her battle robes swung loose around them. She laughed in a way none of her companions had heard in a long while.",
+      "Then the cookies came out.",
+      "Agathara always had cookies. Nobody knew where she kept them. Curljaw's hand went into the bundle and came out empty, the cookies gone so fast they seemed to have teleported into his mouth. The squirts noticed. A line formed without anybody organizing it, small hands held up in front of small faces.",
+      "There was no cliffhanger that night, no ambush and no message from the dark. The party ate, rested and resupplied. For one evening the end of the world was somewhere else."
+    ]
+  },
+  {
+    "id": "agathara-moonlight-staircase",
+    "title": "The Moonlight Staircase",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "Two armies are closing on the Colonnade Temple and the only way out is up. Agathara channels the ritual from the thirteenth pillar while Reginald guides her from the text. The carved circle in the ceiling ignites and a staircase of moonlight comes down to meet them as crossbow bolts start to hit the temple.",
+    "images": [
+      "scene-agathara-moonlight-staircase_v02_00001_.png"
+    ],
+    "source": "2026-04-09",
+    "searchHint": "13th pillar ritual, Colonnade Temple, moonlight staircase, troll guardian, Korinthia Esmeralda armies, crossbow bolts",
+    "narrativeSource": "Book Three — The Colonnade Temple (2026-04-09)",
+    "narrative": [
+      "Thirteen of the fourteen pillars told the history of humankind: the three moons over Enon Aroh, the stone ships, the landing at Asbarast, the exodus, the fifty bands. The thirteenth was pristine. Magic protected it, and the ritual carved into it could not be copied. Every attempt to put it on paper came out wrong.",
+      "It promised a way into the unsullied cradle of arch magic.",
+      "Outside, the giant had gone quiet and nobody knew where. In his place there were trumpets and drums. Queen Korinthia had come into the valley with her real army, and her sister had regrouped hers out of the corrupted and the dead, and the two of them were parleying in the mud. The Queen's Rangers had come to the temple door demanding that the party present themselves. The trolls had refused them, for now.",
+      "So Agathara stood in the circle under the ceiling and took hold of the ritual, and Reginald read it to her a line at a time.",
+      "It had to run unbroken. If it collapsed partway, it would come back on whoever held it. Her first Blessed Shield failed, which she hated, and the second held. She put it on Karano and then, because it seemed only polite, on the ancient lead troll who had agreed to let them be here. The magic felt strange in her. It brushed her corruption without sinking into it the way her own power did.",
+      "Then the circle in the ceiling caught light.",
+      "It did not burn. It woke up, line by line, and from its center something pale began to unfold downward, step after step, until a staircase made of moonlight stood in the middle of the temple with its foot an arm's length from her.",
+      "The first crossbow bolt struck the doorway behind them. Then a dozen more. They had promised the trolls they would defend this place if it was attacked, and it was being attacked, and they were leaving anyway.",
+      "They climbed. The stair held under their boots the way stone holds. Agathara went up last but one, with the light around her and the noise of the war below, and stepped out through the ceiling into a different sky."
+    ]
+  },
+  {
+    "id": "agathara-thorns-pushed-out",
+    "title": "Thorns Pushed Out",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "The amnesiac wizard they rescued has split open into a Ravenous Willow, and it has Reginald in its branches with a thorn through his lung. Agathara gets her hands on him in time. Her Lay on Hands comes up as strong as it can, and the thorns slide back out as his ribs knit closed.",
+    "images": [
+      "scene-agathara-thorns-pushed-out_v03_00001_.png"
+    ],
+    "source": "2026-05-14",
+    "searchHint": "Ravenous Willow, Crushing Embrace, Reginald punctured lung, maxed Lay on Hands 13, amnesiac wizard",
+    "narrativeSource": "Book Three — The Ravenous Willow (2026-05-14)",
+    "narrative": [
+      "Looking back, the signs had been there. Predators had gone around the man. His shadow had been too large and had moved when he did not. He had told them, plainly, that he thought they were afraid of what was inside him. They had taken him along anyway, as predator repellent, and planned to deal with his thing later.",
+      "Later came at night, in the middle of the camp, with Aro on watch at its edge.",
+      "The willow was three meters of thorn-covered limb with the wizard's face still in the bark, mouth wide open in a silent howl. Ordinary blows barely scratched it. It grew bark back over every cut and threw up walls of root to block Karano's arrows. Reginald got to it first because Reginald always got to things first, and it caught him.",
+      "Crushing Embrace, the books call it. The branches closed around him and pulled tight, and one long black thorn went in under his ribs and kept going. There was a wet, gurgling sound the party had come to know well. It was the sound of a punctured lung, and he went limp in the tree's grip.",
+      "Agathara was not close. Then she was.",
+      "She put both hands flat on his chest. The healing came up out of her stronger than she had ever drawn it, every bit she had, and she felt it go into him like water into dry ground. His ribs moved under her palms as they set. The thorns slid back out of the wounds they had made, pushed by flesh closing behind them, and dropped into the dirt.",
+      "Reginald gasped, the gasp turned into a cough, and he was alive.",
+      "Behind them Karano had worked his way around the root wall. A fire-essence arrow went into the willow and flame ran up its side as if it had been soaked in oil. The face in the bark screamed then, a deep and almost human sound, and the fight was not over, but Reginald had his breath back.",
+      "\"When the predators are avoiding him,\" somebody said afterwards, \"that should have been a sign.\""
+    ]
+  },
+  {
+    "id": "agathara-bowled-over",
+    "title": "Bowled Over",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "On the cliffs above reborn Symbar, something huge comes crashing out of the brush. Little Bear is a cub no longer. He is four hundred pounds of scarred sabretooth cat-bear, delighted to see her, and he bowls Agathara flat onto the stones.",
+    "images": [
+      "scene-agathara-bowled-over_v01_00001_.png"
+    ],
+    "source": "2026-06-04",
+    "searchHint": "Little Bear reunion, 400 lb cat-bear, Aluin, cliff above Symbar, Agathara knocked over",
+    "narrativeSource": "Book Three — Reborn Symbar (2026-06-04)",
+    "narrative": [
+      "From the ridge they had seen the dark sun: a circle of forest kilometers across being crushed flat by a horde so thick with corruption that it smudged the air. It was moving south toward Ambria at a pace that would bring it there in about three weeks.",
+      "From the cliff they saw Symbar. A thousand-year-dead capital lay in a bowl of stone around a still black lake. Most of it was drowned under the black root cover, but a third of it was white and whole and new, as if someone patient and dead had been rebuilding it a stone at a time. At its center the crowned stone ship lay beached and polished. Two armies were camped on either side, and above them a winged thing and a giant eagle circled each other.",
+      "Agathara was not watching her footing. She was watching all of that.",
+      "Something came out of the brush beside the path at a speed nothing that size should manage. It was grey-tawny and scarred and enormous, with fangs hanging past its lip. It hit her square in the chest and she went over backward onto the stones with it on top of her.",
+      "Then it licked her face.",
+      "Little Bear had been the size of a large dog the last time she saw him. He was four hundred pounds now, with the scars of a predator that had been earning its living in Davokar, and he was trying to climb into her lap like a kitten. She got her arms around his neck and laughed until she couldn't breathe, though that might have been the weight.",
+      "A young man was standing on the rocks above them with a greatsword on his back and wild blond hair, watching. He looked older than he should. Aluin was ten years old by the calendar and about eighteen by the look of him, and very tired.",
+      "\"You're real,\" he said. \"Good. Most things aren't anymore.\""
+    ]
+  },
+  {
+    "id": "agathara-hand-of-kral",
+    "title": "The Hand of Kral",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "Beneath the Temple of Aryan, one door stands between the party and the way to Aeon Iroh. It is marked with the symbol of Kral and will open only to a living hand full of corruption. Agathara presses her palm to the black slab, and the marble melts away into stairs.",
+    "images": [
+      "scene-agathara-hand-of-kral_v03_00001_.png"
+    ],
+    "source": "2026-06-18",
+    "searchHint": "Temple of Aryan, symbol of Kral, corrupted hand opens door, Prince Elori, marble liquefies",
+    "narrativeSource": "Book Three — The Mother Tree (2026-06-18)",
+    "narrative": [
+      "Prince Elori led them through Symbar in secrecy to a bone-coloured dome tower at the city's southwestern edge. Under it the catacombs of the Temple of Aryan had been cleared, generation by generation, by the last of the elves.",
+      "At the bottom there was one door.",
+      "It was black stone, and cut into it was a sigil none of them had to ask about: the symbol of Kral, the power of the gods, which was the ancient name for corruption. The monks of Landfall had told them what it needed. It would open to a warm, living hand that was full of the thing it honored.",
+      "Reginald had been meant to do it. That had been the whole plan since Landfall: he was the one carrying enough corruption to qualify. But two days before, in the witches' grove, they had grown a tree through his body and pulled most of it out of him, and his Blight Mark was gone.",
+      "So it was Agathara.",
+      "She did not like it. A priest of Prios offering her corruption as a key was not something any of her teachers had prepared her for. She put her bare hand flat against the slab anyway. The black tendrils on her forearm stirred under her skin as if something had called them by name.",
+      "The marble went soft under her palm.",
+      "It sagged like wax near a flame, then ran. It poured down and away from her hand in slow black ribbons, and where it had been there were stairs going down into the dark. The air that came up them was old and dry and smelled faintly of incense.",
+      "She took her hand back and looked at it for a moment. Then she took the lantern and went first."
+    ]
+  },
+  {
+    "id": "agathara-light-behind-glass",
+    "title": "Light Behind Glass",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "In the dead city of Aeon Iroh, a many-faced abomination has tracked them to the Broken Butterfly sanctuary and is waiting outside. Agathara casts Holy Aura from inside the shrine so its light stays behind the walls. The stalker is caught in the doorway and comes apart into ash.",
+    "images": [
+      "scene-agathara-light-behind-glass_v02_00001_.png"
+    ],
+    "source": "2026-06-25",
+    "searchHint": "Broken Butterfly sanctuary, many-faced stalker, Holy Aura from inside the shrine, Kale of the Third Walk",
+    "narrativeSource": "Book Three — Aeon Iroh (2026-06-25)",
+    "narrative": [
+      "The first law of Aeon Iroh was that it unmade you. It started the moment you arrived and came back every half hour, and it soaked deeper with every hour you stayed. Only moving slowed it. Karano's ring kept it off him, and Aro was already dead. Agathara could thin it for the others but not for herself, and she felt it worst of all of them.",
+      "The second law was that you did not use magic. Reginald learned that one when he touched his pendant to cross a boulevard unseen. Every mystic act left a well of corruption behind it, and a scent.",
+      "The thing that followed the scent was tall and wrong-jointed, with many faces, all of them weeping, and the tears ran up their cheeks instead of down. It hunted by corruption first and smell second. It found them in a garden of statues.",
+      "They ran for the broken butterfly. The dead elves who had walked this city before them had scratched that instruction into the walls, and behind the statue was the reason: a clean shrine on a stepped ziggurat, untouched by the dust, where the city's pressure simply stopped. Inside sat the mummified gatherer Kale of the Third Walk with his tools beside him and his last words carved deep. You've come as far as I. That's enough. Go on.",
+      "The stalker would not come in. It would not go away either. It stood at the edge of the garden with all its faces turned toward the door.",
+      "Agathara thought about light and noise and what both would bring in this place. Then she stepped into the doorway, inside the walls, and let Holy Aura go.",
+      "The shrine held it like a lantern holds a flame. Gold-white light filled the stone room and spilled out of the door in a single shaft, and the stalker was standing in it.",
+      "Most of it went at once. Flesh peeled off the frame of it like burnt paper. What was left screamed, tried to regrow, and caught the second pulse. When the light faded there was a smear of ash at the garden's edge and its corruption was blowing away on a wind that had not been there before."
+    ]
+  },
+  {
+    "id": "agathara-it-wont-be-her",
+    "title": "It Won't Be Her",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "Esmerelda's red pavilion stands among ranks of motionless dead. Behind her, under cloth-of-gold, lies the body of the Queen Mother between four burned-down candles. Told the Throne is broken, she screams that they are lying. Then she tells them why she wanted it. Agathara answers her as gently as she can: whatever she raises, it won't be her mother.",
+    "images": [
+      "scene-agathara-it-wont-be-her_v02_00001_.png"
+    ],
+    "source": "2026-07-30",
+    "searchHint": "Esmerelda's camp, bier under cloth-of-gold, four candles, Queen Mother, resurrection, Get out",
+    "narrativeSource": "Book Three — The Grand Meeting (2026-07-30)",
+    "narrative": [
+      "The camp didn't smell like an army. It smelled like a charnel house that someone had made a great effort with.",
+      "Two hundred undead stood in ranks that did not shift or scratch. Between them were living Beast Clan warriors with red flower brands, cultists in very good clothes, and slaves with their eyes on the ground. There were also about a hundred and twenty demonic troopers, each worth a squad, and every one of them turned its head to follow the party with slow, entirely unnecessary theatre.",
+      "Esmerelda Coronar received them in red silk. Cesario stood at her shoulder in a coat of demon fur that moved slightly when he did not. Behind her, under cloth-of-gold, a body lay on a bier between four candles burned very low.",
+      "\"You guys are just unkillable, aren't you?\" she said. \"You'd be great in my army. I wouldn't even have to raise you again.\"",
+      "Reginald told her the node was broken and the Throne would not be the Throne again. She was on her feet before he finished. \"Lies! You are lies!\"",
+      "Then she told them the truth, and it was worse than anything they had guessed.",
+      "\"I have given everything these last years to save my mother. And you're telling me that the power that could bring her back is gone?\" She turned toward the bier. \"Korinthia didn't help when Mom got sick. When Mom died. She had the throne. She had everything. What did I have? I didn't even have a sister anymore. And when I found there was power to have a mother again, to have a family again, you're going to take that away from me?\"",
+      "Agathara had seen what came back. She had spent years putting it down again.",
+      "\"Whatever you raise,\" she said, \"it won't be your mom.\" She said it gently. Bringing her back wouldn't fix the family. Helping her sister protect what was left of the people might. \"Losing someone close to you does tragic things to your relationships. What you can do is stick together and choose to move forward instead of holding on to the bitterness.\"",
+      "\"Get out,\" said Esmerelda. \"Get out. Get out.\"",
+      "They went. At the tent flap Agathara looked back once and saw the princess sink into her chair beside the candles with her face in her hands, sobbing."
+    ]
+  },
+  {
+    "id": "agathara-heretics-challenge",
+    "title": "The Heretic's Challenge",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "Sister Losadra has brought a present to Saroklaw Square: Ervano Vearra, the Templar the party killed in Ravenia two years ago. He has been dug up and set on a dead horse, and his sword burns with Agathara's own stolen light. He turns to her and recites the formal Templar challenge to a heretic, word for word, then waits the three heartbeats the rite requires.",
+    "images": [
+      "scene-agathara-heretics-challenge_v03_00001_.png"
+    ],
+    "source": "2026-08-06",
+    "searchHint": "Ervano Vearra raised, undead horse, Agathara's stolen light on his blade, formal Templar challenge, three heartbeats",
+    "narrativeSource": "Book Three — The Last Battle (2026-08-06)",
+    "narrative": [
+      "The iron standards had gone into the flagstones with a sound like bells struck in a cellar, and the light had gone out. The daylight was still there. It was the other light that had gone, the one that had hummed under her ribs since she was a girl. It guttered like a lamp in a draught and was gone. Aro, at her side, went translucent and looked at his own hands.",
+      "\"I did bring you a present,\" said Sister Losadra. \"The one you took off me in the road to Ravenia and left lying there. You put him down in the street for me. I only had to go back and pick him up.\"",
+      "Ervano Vearra came forward on a horse that took a moment to understand and that nobody wanted to look at for long.",
+      "He wore the plate they had last seen him in, and it had been in the ground for two years and the ground had got into it. Dirt packed the joints. Earth filled the sun-and-tower on his breastplate. One side of his gorget was still crushed inward where a warhammer had gone through it in a burning street, and nobody had repaired any of it.",
+      "His face was a dead man's face and it was not doing anything. It was the face of an officer riding down a line to see whether it was dressed.",
+      "His sword was burning. It burned with exactly the clean white light Agathara had carried all her life, the light the standards had just taken from her.",
+      "He put the horse into the shield line at a canter, and eleven men went down. He spoke while he did it, and every priest in the square knew the words. He was giving each of them the last rites as he killed them.",
+      "Then he turned to her.",
+      "He said what a Templar says to a heretic before an execution, all of it, evenly and correctly: the offer of the rite, the name of his order, the charge. Nobody had told him to. He had begun it two years ago and he had never stopped.",
+      "He finished and waited three heartbeats, as the rite requires, for her answer.",
+      "Then he killed the man standing next to her."
+    ]
+  },
+  {
+    "id": "reginald-sword-fell-apart",
+    "title": "The Sword That Fell Apart",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "An infected bestial comes at the camp, and Reginald lunges to meet it. Halfway through the swing his ornamental sword comes apart. The pommel pops loose, the blade slides out of the handle and goes spinning away, and he is left holding a very expensive hilt.",
+    "images": [
+      "scene-reginald-sword-fell-apart_v03_00001_.png"
+    ],
+    "source": "2026-02-04",
+    "searchHint": "Reginald sword breaks, pommel loose, blade slides out, Looney Tunes fumble, bestial night camp",
+    "narrativeSource": "Book Three — Glowing Throats (2026-02-04)",
+    "narrative": [
+      "The bestials came out of the dark with black knives while archers in the trees put arrows into Karava. Karano's bowstring sang. Agathara's shield turned the front line nearly untouchable. It was, for a few seconds, going well.",
+      "Reginald picked a flanker and lunged.",
+      "His sword was a beautiful thing. It had been made to look at, the kind of blade a nobleman hangs on the wall above a fireplace, all chasing and gilt. Partway through the swing he felt the pommel shift under his palm. The pommel came loose, the tang slid free, and the blade simply left. It went spinning away into the firelit dark in a long, silver, unhurried arc.",
+      "Reginald looked at the hilt in his hand. The bestial looked at the hilt in his hand. For one perfect moment neither of them had any idea what to do next.",
+      "It was, everyone agreed later, the most Looney Tunes thing that had ever happened to the party.",
+      "He dropped the hilt, drew his knife, put poison on it, and carved the flanker apart in three cuts. Nobody watching could say he was rattled. Still, he went back for the hilt after the fight and spent a good ten minutes fixing it while the others smashed parasites, and he did not invite comment."
+    ]
+  },
+  {
+    "id": "reginald-nightpitchs-red-book",
+    "title": "Nightpitch's Red Book",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "At the Well of a Thousand Tears, Mayor Nightpitch lies dying of wounds so thick with corruption that no healing will hold. He sees the crystal cylinders and his eyes light up. With his last strength he presses a small red-leather book into Reginald's stained hands. It is the key to the script on the cylinders.",
+    "images": [
+      "scene-reginald-nightpitchs-red-book_v01_00001_.png"
+    ],
+    "source": "2026-02-11",
+    "searchHint": "Mayor Nightpitch dying, Well of Tears, red leather book, Ambleseva cipher key, cylinders",
+    "narrativeSource": "Book Three — The Hall of a Thousand Tears (2026-02-11)",
+    "narrative": [
+      "A blood trail led them deep into the caverns, and at the end of it four hooded elves were weeping into an overflowing masonry well. Beside the well lay Mayor Nightpitch.",
+      "His thigh was torn open and there were claw marks across him, and the wounds had gone grey at the edges with corruption. Agathara tried. Nothing she put into him would stay.",
+      "He knew it. He spent the time he had giving them what he knew. The Duchess Esmeralda had fallen into darkness and was marching an army toward the Throne of Thorns. If she reached it, all was lost, and the Queen had to be warned.",
+      "Then he saw the cylinders, and the old scholar lit up even while he was dying.",
+      "\"Ambleseva.\" A lost city of pure magic, magic that fought corruption instead of feeding it. He had always believed it lay drowned under Deepwater Lake. The flood that had carried those cylinders downriver into the party's hands proved him right, and he had lived just long enough to see the proof.",
+      "He fumbled at his coat and brought out a small book bound in red leather. It keyed the script of Ambleseva to Symbarian. It was meant for the Ordo Magica, he said, or in the hands of some worthy historian.",
+      "He put it into Reginald's hands. Reginald's fingers were black to the wrist with stigmata, and the old man's were grey, and the book lay between them for a moment like something passed across a deathbed.",
+      "\"Tell the Queen goodbye from me,\" Nightpitch said to Agathara. \"Her servant. Last of her knights.\"",
+      "Then he died, and a winter elf came and carried his body away, and Reginald stood by the well holding the red book while the elves kept weeping into the water."
+    ]
+  },
+  {
+    "id": "reginald-down-is-up",
+    "title": "Down Is Up",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "A well in the floor of a buried crystal dome is filled with a flat plane of perfect darkness. Reginald tests it with mud, rope and light. Then he ties himself off and goes through. He walks down a hidden stair and comes up into the same room turned inside out, where it is night and the dome is full of stars.",
+    "images": [
+      "scene-reginald-down-is-up_v02_00001_.png"
+    ],
+    "source": "2026-03-26",
+    "searchHint": "crystal dome shrine, darkness well, plane of difference, mirror room, down becomes up, starry night twin",
+    "narrativeSource": "Book Three — The Crystal Dome (2026-03-26)",
+    "narrative": [
+      "The sigils ringing the bench said a plane of difference. Witch Sight said the whole shrine was faintly magical and that there was no corruption anywhere in it. The well itself said nothing at all.",
+      "It was a flat disc of black so complete that the eye kept sliding off it. Reginald dropped a ball of mud into it. The ball passed through without a sound and without slowing, and for an instant a clean line showed exactly how far in it had gone. He lowered a rope. Two feet down it went slack. He held his orb over the black and turned it up to full. The light did not go in and nothing came back out.",
+      "So he tied the rope around his waist. Three pulls meant haul me out.",
+      "There were stairs under the darkness. He could feel them with his boots. He went down one step, then another, and the black closed over his head like water. Then something turned over, and it was not him.",
+      "He was walking down and he was coming up.",
+      "He stepped out of the floor of the same room. It had the same bench, the same murals and the same fallen shelving, but where the room above had been full of daylight through its quartz facets, this one was night. Above him the dome was full of stars, as if the shrine were a sphere with day on one half and night on the other and the dark plane was the line between them.",
+      "The door on this side was a fake carved into the stone. The stair was the only way in or out. Later they tried to balance on the line and found they could not straddle it. You always came out fully on one side or the other.",
+      "Reginald stood in the night room for a while, looking up at the stars of a sky that did not exist, before he gave three pulls on the rope."
+    ]
+  },
+  {
+    "id": "reginald-fourteen-pillars",
+    "title": "The Fourteen Pillars",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "An ancient troll guardian, so huge he dwarfs even Karava, has given them leave to study his temple, and nothing more. Reginald works through its fourteen pillars by lantern light with Nightpitch's codex in hand. They tell where humanity came from: a dying world under three moons, and stone ships that crossed the stars.",
+    "images": [
+      "scene-reginald-fourteen-pillars_v03_00001_.png"
+    ],
+    "source": "2026-04-09",
+    "searchHint": "fourteen Remember pillars, Enon Aroh three moons, stone ships, Asbarast, troll guardian, Reginald translates",
+    "narrativeSource": "Book Three — The Colonnade Temple (2026-04-09)",
+    "narrative": [
+      "The guardian filled the doorway. He was to Karava what Karava had been to them, mossed and grey and old enough to remember when the city stood. \"Fresh faces, go away,\" he said. \"This place is not for you.\" He called them liars when they said they had spoken with Sidriana. They proved it with things only she could have shown them, and the bargain he made was absolute. They could study the temple and defend it if it was attacked, and then they would leave. He would not help them read it.",
+      "So Reginald read it himself.",
+      "There were fourteen pillars of mottled marble, each headed with a single word in embossed gold. Each heading said Remember.",
+      "Remember Enon Aroh: an ancient capital rotten with corruption, in the shadow of three moons. Reginald read it twice. Humanity's first sky had had three moons in it.",
+      "Remember the Paradise. Remember Asbarast. Stone ships had come down out of the stars east of the Ravens, and the land had been green then. The ship had a name, Sorokla, written with the same symbol the Symbarians had used. Remember the Cataclysm. Remember the Exodus, in which one of every three refugees died. Remember the Division into fifty bands, and the Lord of the Cliff who butchered settlements, and Sidriana who made peace with him.",
+      "He worked by lantern light, the codex open in one hand and the other tracing the letters. He was entirely gone into it, the way he only ever was in a library. The guardian stood behind him with his arms folded and watched every move he made.",
+      "The thirteenth pillar was untouched by time and protected by magic. It held a ritual that could not be copied. The fifteenth was headed Remember the Future, and the stone under the heading had been left blank.",
+      "Outside, armies were arriving. Reginald finished the line he was on first."
+    ]
+  },
+  {
+    "id": "reginald-paid-in-steady-hands",
+    "title": "Paid in Steady Hands",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "At the top of a dull-gold ziggurat beneath the Temple of Aryan, Reginald casts Dimension Walk with Arch Magic. Arch Magic charges the caster's body instead of corruption. He pays with the steadiness of his hands. He smashes the urn of dust the elves died carrying home, and the air tears open onto Aeon Iroh.",
+    "images": [
+      "scene-reginald-paid-in-steady-hands_v03_00001_.png"
+    ],
+    "source": "2026-06-18",
+    "searchHint": "Dimension Walk via Arch Magic, gold ziggurat, urn of yonder-world dust, Accurate permanently ruined, into Aeon Iroh",
+    "narrativeSource": "Book Three — The Mother Tree (2026-06-18)",
+    "narrative": [
+      "Under the door that Agathara's hand had melted lay a long vault, and in the vault stood a ziggurat of dull gold. A ritual circle was worn into its summit. Someone had cast from that spot before, a very long time ago.",
+      "Reginald sketched the murals first, because he could not help it: the homeworld city, the glowing node, the Throne. Then he took out the scroll.",
+      "Arch Magic did not charge corruption. That was the whole gift of Landfall. Instead it charged the body of the caster, and it collected. Every ritual took a piece of you, and past a certain point the pieces did not grow back.",
+      "He spoke the Dimension Walk and felt the price come due. It came out of his hands. The steadiness went out of them like water draining from a basin, and he knew while it was happening that it was not coming back. His fencer's precision was gone, and so was his penmanship.",
+      "The ritual needed an anchor, a piece of the place you meant to walk to. Prince Elori had given them one: a clay urn of grey dust from the dead world. The last three elves who had gathered it had died bringing it home. Every grain of it was an elf who was not buried here, because there had been nothing left to bury.",
+      "Reginald raised the urn over his head with trembling hands and smashed it on the gold.",
+      "The dust went up in a cloud. The air above the circle tore along a seam that had not been there a moment before, and violet light came through the tear.",
+      "They stepped through onto a black-stone podium under a dead violet sky that was not a sky. Behind them the door folded shut. Ahead, Aeon Iroh stretched to the horizon, a corpse-city the size of a kingdom choked in grey dust, and far off between two giant golden statues something glowed.",
+      "The only way home now was the dust on their packs."
+    ]
+  },
+  {
+    "id": "reginald-pro-tip",
+    "title": "Pro Tip!",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "Two Awakened Root Horrors have come for the brightest thing on the wall, and one has Agathara crushed inside a ball of its roots. Reginald dives under one tree, catches a whipping root, and lets it sling him under the other. He comes up out of the roll beside her shouting \"Pro tip!\" and cuts her free.",
+    "images": [
+      "scene-reginald-pro-tip_v02_00001_.png"
+    ],
+    "source": "2026-08-06",
+    "searchHint": "Root Horrors, Agathara root-balled and crushed, Reginald dive-roll, pro tip, shears roots, tree shatters like lightning",
+    "narrativeSource": "Book Three — The Last Battle (2026-08-06)",
+    "narrative": [
+      "They had chosen the green sector, where the witches and the last of the barbarians held the wall. These were the people who had lost the most in this war and had the least training. When the first wave broke against them, Agathara lit Holy Aura. The whole front row of the dead bowed back from it, cuts closed on the witches around her, and the line surged forward with a roar.",
+      "It also made her the brightest thing on the field.",
+      "Two of the walking trees turned toward her. They had been trees an hour ago. Now they walked on their own roots and dragged the rest of them behind like torn skirts. They had no corruption in them at all, so nothing in her arsenal could touch them. Small cuts did nothing. They grew bark back over the big ones.",
+      "One of them got its root-ball around her and pulled her down into it and squeezed.",
+      "Reginald was twenty feet away with two skulls on his sword. He had just threaded the blade through one undead's eye socket and into the next and flicked both heads off. He saw her go down and stopped thinking about the skulls.",
+      "He ducked under the first tree's sweep and kept going. A root whipped past him, he caught it, and it slung him across the flagstones under the second tree's legs. He came out of the roll on one knee right beside her.",
+      "\"Pro tip!\"",
+      "Then he went to work. He took the roots off her one at a time, every cut placed exactly, and when she was clear he spun and hacked into the trunk in a flurry until the tree was nearly cut in half. It toppled, thrashing. He stepped up and drove his blade straight through the middle of it, and it burst apart as if lightning had struck it.",
+      "Wherever the pieces landed, saplings started coming up out of the ground. Barbarians ran in every direction stamping on them. \"Don't let them grow!\"",
+      "Somewhere in all of that Reginald had found time to carve a heart into the bark of the other tree with an R inside it. By the end of the day someone had added an F, an A, another A and a K. It was a very crowded heart."
+    ]
+  },
+  {
+    "id": "reginald-unhorsing-the-dead-templar",
+    "title": "Unhorsing the Dead Templar",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "Ervano Vearra comes down the shield line on his dead horse, giving the last rites to every man he kills. Reginald goes out to meet him and cuts the horse out from under him. Then he duels the dead Templar almost single-handed and is never touched once.",
+    "images": [
+      "scene-reginald-unhorsing-the-dead-templar_v01_00001_.png"
+    ],
+    "source": "2026-08-06",
+    "searchHint": "Ervano Vearra duel, horse cut out from under him, Reginald never hit, Terrify, last rites, Karano arrow through helmet",
+    "narrativeSource": "Book Three — The Last Battle (2026-08-06)",
+    "narrative": [
+      "The dead Templar was riding down the line at a canter, killing as he went and giving every man he killed the last rites. Agathara's stolen light burned on his sword.",
+      "Reginald ran out to meet him.",
+      "His first cut took the horse. It went down under its rider all at once, the way dead things do. Ervano stepped off it as it fell without breaking the rhythm of the rites he was saying. On the same step he put his sword backhanded through the face of an Ambrian soldier standing nearby.",
+      "He looked at Reginald without any interest. \"You're a new one. But nonetheless, heretics will die.\"",
+      "There was a terror that came off him. It was a cold pressure that made the body want to drop its weapon and kneel, and soldiers had folded under it all morning. Reginald felt it hit and pushed back against it. What he felt for this thing was blazing hatred, and the hatred held.",
+      "Then it was a duel.",
+      "Ervano wore nine points of Templar plate and had the strength of a dead man who did not tire. Every swing he made could have opened Reginald from shoulder to hip. None of them landed. Reginald was never where the sword went. He slid in under the guard and needled through the gaps in the plate, and every time the Templar cut at him he answered with a riposte of his own. Ervano went past half his strength and into a berserk fury, and still he hit nothing but air.",
+      "Reginald wore him down to almost nothing. Across the square Karano was circling for an angle. When it came he put an arrow straight through the back of the Templar's helmet.",
+      "Ervano sagged to his knees. The light on his armor flickered. He began the absolution over himself and got four words into it, and did not get to the fifth."
+    ]
+  },
+  {
+    "id": "reginald-sun-thrown-backward",
+    "title": "A Sun Thrown Backward",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "Aeon Iroh is coming apart around them and something fast is closing in behind. Aluin's portal is shrinking. Reginald shouts \"Shield your eyes!\" and throws the glowing orb from Karava's lost pack high over his shoulder. It goes off like a small sun.",
+    "images": [
+      "scene-reginald-sun-thrown-backward_v02_00001_.png"
+    ],
+    "source": "2026-07-09",
+    "searchHint": "yonder-world flashbang, Reginald throws the orb, mini-sun, pursuer blinded, Aluin's portal, Aeon Iroh unmaking",
+    "narrativeSource": "Book Three — The Unmaking (2026-07-09)",
+    "narrative": [
+      "The link was broken, and the dead city did not survive it.",
+      "Streets were folding up at angles that hurt to follow. Stone was running like slow water. A plaza had tipped onto its side, and its fountain still poured, sideways, into the dark. Everywhere ragged holes were opening in the world, leaking light of the wrong colors, and long-jointed things were pulling themselves through to see what had died.",
+      "Ahead of them a small figure stood with his arms flung wide, holding a portal open by will alone, and it was getting smaller.",
+      "Reginald tripped. Karano gave up his lead to grab him, and Aro hauled him up by the collar, and they ran. Behind them something fast was gaining. It might have been a Sister the dragons had brought down, or one of the things from the tears. Nobody looked long enough to know.",
+      "The orb had been Karava's. They had pulled it out of his pack after the river took him, and Reginald had bonded to it in the mud city. It had no magic in it that Witch Sight could find, just light. Used gently, it lit a room like a chandelier. Turned all the way up, it was something else.",
+      "\"Shield your eyes!\"",
+      "He twisted as he ran and threw it high back over his shoulder, and at the top of its arc he turned it all the way up.",
+      "For a moment there were two suns over Aeon Iroh, and one of them was very close. The pursuer ran straight into it. It shrieked, a sound that went up and up, and its eyes were cooked in its head.",
+      "Then the party's shadows were stretched out long in front of them, pointing straight at the shrinking door. They ran down their own shadows and through it, into the cold."
+    ]
+  },
+  {
+    "id": "karano-glowing-throat",
+    "title": "The Glowing Throat",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "After the night fight, Karano kneels over one of the dead bestials and opens its glowing throat with his knife. Lodged inside is a fist-sized parasite, tick-shaped, black-plated and lit from within. It is still alive, and it snaps at his blade.",
+    "images": [
+      "scene-karano-glowing-throat_v02_00001_.png"
+    ],
+    "source": "2026-02-04",
+    "searchHint": "Karano field autopsy, throat parasite, tick-like glowing bug, infected bestials, Beast Lore",
+    "narrativeSource": "Book Three — Glowing Throats (2026-02-04)",
+    "narrative": [
+      "He had seen the glow first, in the dark before the fight: a dull orange-red behind the bestial's jaw, like a lantern cupped in a hand. Now the fight was over and the glow was still there in the throats of the dead.",
+      "Karano knelt beside the nearest body and drew his knife.",
+      "He worked the way he would dress a deer. He was careful and unhurried, and his face showed nothing. He peeled the throat open along the line of the light.",
+      "Something was lodged inside, as big as his fist. It was shaped like a tick and armored in overlapping black plates like a roly-poly, and between the plates its insides glowed. Its host had been dead for some time. It had not.",
+      "It moved. The mandibles at its front end opened and snapped at the point of his knife, and his blade skittered off its shell. He drew back his hand. It snapped again at the air where his fingers had been.",
+      "Karava's axe came down and the thing burst flat.",
+      "Karano wiped his blade and sat back on his heels and told them what he knew. He had heard of these. They burrowed into a host, took hold of the body, and steered it toward caves where more hosts could be found. They could survive their host's death. Every one of the dead bestials probably had one.",
+      "They went through the bodies one at a time and smashed every parasite they found. It took a long while, and nobody slept well afterward."
+    ]
+  },
+  {
+    "id": "karano-under-the-weeds",
+    "title": "Under the Weeds",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "Halfway across a cold, weed-choked river, the raft jolts and Karano goes under. Water-weeds wrap his arms and legs and throat and pull tight. He can't tell which way is up. The light is somewhere above, but he can't reach it.",
+    "images": [
+      "scene-karano-under-the-weeds_v01_00001_.png"
+    ],
+    "source": "2026-03-04",
+    "searchHint": "river crossing, raft, Karava slips, Karano dragged under, constricting water-weeds, cliffhanger",
+    "narrativeSource": "Book Three — The River (2026-03-04)",
+    "narrative": [
+      "The raft was meant for their packs and armor. A raft big enough for people would have taken all day to build, and they did not have the day. Karava cut the timber and Reginald designed a basket and handholds from half-remembered books on buoyancy. Karano tied it all together, and the rope tangled itself into a knot a cat would have been proud of.",
+      "It floated. That was what mattered.",
+      "They went in through shin-deep mud into water so cold it hurt. The best place to launch was shallow and choked with marsh grass that snarled around their ankles and did not want to let go.",
+      "Karava shoved the snagged raft. His feet went out from under him, the raft lurched sideways into Karano, and Karano went under.",
+      "The cold closed over his head and the weeds found him.",
+      "They were everywhere at once: around his wrists and his knees and his throat, long ribbons of green that tightened when he pulled against them. His bow was still in his hand. He did not let go of it. Bubbles poured out of his mouth and he could not tell which way they went. Up was a smear of pale light that might have been anywhere.",
+      "The weeds squeezed. On the bank the reeds were wrapping around the others' legs and starting to cut.",
+      "He made himself stop thrashing. He was a hunter, and hunters kept still. He held what breath he had left and looked for the light."
+    ]
+  },
+  {
+    "id": "karano-out-you-go",
+    "title": "Out You Go",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "On Landfall, monks who believe all action is sin creep into the party's hut at night carrying sharpened rocks. Karano wakes first and shouts the alarm. Reginald's orb blinds the whole room, and Karano picks up the attackers one at a time and throws them out the door.",
+    "images": [
+      "scene-karano-out-you-go_v03_00001_.png"
+    ],
+    "source": "2026-04-30",
+    "searchHint": "Landfall non-action zealots night attack, sharp rocks, flashbang orb, Karano throws attackers out of the hut",
+    "narrativeSource": "Book Three — Landfall (2026-04-30)",
+    "narrative": [
+      "The monks of Landfall believed the purest life was one in which you did nothing at all, because every act risked corruption. Their leader was starving himself to death on beet juice as the highest expression of the faith. His acolytes ran themselves ragged keeping his inaction comfortable.",
+      "They did not like the party, who did things.",
+      "Karano woke because something in the hut had changed. He did not know what yet. His eyes opened in the dark and found shapes bending over the bedrolls with their arms raised, sharp stones in their fists.",
+      "He shouted.",
+      "Aro flared up gold and drew his sword. Reginald did not get out of bed. He reached out from under his blanket with the orb in his hand and turned it all the way up.",
+      "The hut went white. It was a light that left no shadows anywhere, as if the sun had come in through the roof. The ascetics screamed and clutched at their eyes. So did Agathara, who had not looked away in time.",
+      "Karano had shut his eyes. He stood up into the glare and took hold of the nearest man by his robe and his belt and threw him out of the door into the night. Then he went back for the next one.",
+      "\"Hitting,\" somebody pointed out as the third zealot sailed past, \"is still an action, you dingus.\"",
+      "Nobody was hurt badly. The attackers fled in the dark, blind and in disgrace, and their rocks stayed behind on the floor of the hut. In the morning the elders told the party to leave Landfall and never come back."
+    ]
+  },
+  {
+    "id": "karano-the-willow-burns",
+    "title": "The Willow Burns",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "The willow abomination hides behind walls of its own roots and grows bark back over every wound. Karano works his way around the root wall and looses a fire-essence arrow. Flame races up the tree as if it were soaked in oil, and the face in the bark screams.",
+    "images": [
+      "scene-karano-the-willow-burns_v02_00001_.png"
+    ],
+    "source": "2026-05-14",
+    "searchHint": "Karano fire-essence arrow, Ravenous Willow ablaze, root wall, screaming face in the bark",
+    "narrativeSource": "Book Three — The Ravenous Willow (2026-05-14)",
+    "narrative": [
+      "Arrows did not do much to it. Karano's armor-piercing heads drew sap, and the sap bled, and then bark crawled back over the hole while he watched. When he found a line, it raised a wall of roots across the line. When he moved, it raised another.",
+      "It was not corrupted. Witch Sight had shown them that. Everything the party had been gathering for months to fight corruption was useless against it. It was simply very large, very old and very hungry, and it had a man's face screaming in its bark.",
+      "It had Reginald. Then Agathara was on her knees beside Reginald with her hands on his chest and the thorns sliding out of him.",
+      "Karano circled.",
+      "He went around the edge of the torn-up camp, low and quiet, out past the second root wall, while the tree's attention was on the people closer to it. He knelt and took an arrow from the small bundle he kept apart from the rest and unstoppered the essence. The arrowhead began to smoke.",
+      "He drew, and waited for the branches to shift, and loosed.",
+      "Fire went up the willow as if it had been soaked in oil. One whole side of it was burning in the time it took to breathe in. The branches on that side writhed. The face in the bark opened its mouth wider than it had any right to, and the sound that came out of it was deep and terrible and almost human.",
+      "It was not dead. It had a death struggle in it yet, and it was already reaching for Aro. But it was burning now."
+    ]
+  },
+  {
+    "id": "karano-pinning-the-worm",
+    "title": "Pinning the Worm",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "On a corrupted ledge halfway down the cliff, a burrowing worm with acid for blood has Reginald half down its throat. Karano can't kill it fast enough to save him. So he puts arrow after arrow into the hinge of its jaw and pins it open, while Aro reaches in after Reginald.",
+    "images": [
+      "scene-karano-pinning-the-worm_v03_00001_.png"
+    ],
+    "source": "2026-06-11",
+    "searchHint": "Root Gorger, acid worm, Reginald half-swallowed at 1 HP, Karano pins the mandible, Marksman trick archery",
+    "narrativeSource": "Book Three — The Cliff (2026-06-11)",
+    "narrative": [
+      "The stairs down to Symbar had been washed out. Agathara and Reginald had both slid thirty feet onto a ledge furred with black fungus, and Agathara's leg had broken under her. Then beetles came out of the fungus. Then something larger came up through the rock.",
+      "It was a worm eight or nine feet long, with acid where its blood should be. It sprayed the ledge and then lunged, and when it pulled back Reginald was in its mouth.",
+      "He had almost nothing left in him. Being swallowed would finish him. The worm's throat was working.",
+      "Karano could not kill it in time. He knew that at once, the way he knew wind and distance. There was too much worm and too little time. Instead he looked for the hinge of the jaw.",
+      "He found it. His first arrow went into the joint where the mandible met the head, and the jaw locked for an instant with Reginald half in it.",
+      "Then a second arrow, and a third. Every time the worm worked its jaw free, another shaft went into the same place and pinned it again. He did not look at anything else. Agathara was down behind him, poisoned and unconscious. He did not look.",
+      "Aro reached into the worm's mouth with both golden hands and pulled. Reginald came out slick and limp and alive.",
+      "They poured healing elixirs down the throats of both their fallen friends and ran, scrambling down the crack and the roots. The worm, half dead and very territorial, burrowed back into its ledge and did not follow."
+    ]
+  },
+  {
+    "id": "karano-the-stoop-that-broke",
+    "title": "The Stoop That Broke",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "Descending the ziggurat in Aeon Iroh under the Blessed Defense aura, Karano is the first target for a winged daemon that folds its wings and stoops like a hawk. Thirty feet away its head snaps aside as if it has been slapped. It veers and smashes into the ziggurat wall.",
+    "images": [
+      "scene-karano-the-stoop-that-broke_v02_00001_.png"
+    ],
+    "source": "2026-07-02",
+    "searchHint": "Vindictive daemon dives, repelled by Blessed Defense aura and Iron Pact ring, crashes into ziggurat, Karano's pack spilling",
+    "narrativeSource": "Book Three — The Node (2026-07-02)",
+    "narrative": [
+      "They had spent the Blessed Defense cylinder at the top of the shrine. It was a holy aura that fouled the senses of anything corrupted, so that the things of the city found them hard to look at and harder to approach. Then they started down the giant exterior steps of the ziggurat.",
+      "Karano's leg was hurting. Halfway down, his pack tore open and began spilling his gear down the two-foot-wide steps. Agathara helped him cram it back in while they both tried not to fall.",
+      "Something had noticed them.",
+      "It came out of the violet sky trailing a smear of inky shadow behind it. It folded its wings and dropped like a stooping hawk, screaming, straight at the hunter with his pack half open.",
+      "Karano looked up and did not move.",
+      "Thirty feet from him the daemon's head snapped sideways as though it had been struck. Its eyes were burning. Whatever the aura did to corrupted senses, and whatever the iron ring on Karano's arm did to them, the combination was like pepper thrown in its face. It shrieked, swerved, lost its line completely and hit the side of the ziggurat with a crack of stone and bone.",
+      "It lay where it had fallen, stunned and broken.",
+      "Karano finished stuffing the essentials back into his pack. Then he went through it and threw away everything that was not arrows, essences or healing. A few arrows went with it on a bad fumble. He shouldered the much lighter pack and kept going down."
+    ]
+  },
+  {
+    "id": "karano-pinned-by-little-bear",
+    "title": "Pinned by Little Bear",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "After the escape from Aeon Iroh, Karano wakes under the Mother Tree to find that Little Bear has slept across his legs for ten hours. He tries to get out from under. The bear responds by climbing onto his chest and settling there with its nose an inch from his face.",
+    "images": [
+      "scene-karano-pinned-by-little-bear_v01_00001_.png"
+    ],
+    "source": "2026-07-30",
+    "searchHint": "Karano pinned under Little Bear, legs numb, bear on his chest, elf coaxes the bear off",
+    "narrativeSource": "Book Three — The Grand Meeting (2026-07-30)",
+    "narrative": [
+      "They had been asleep for ten hours, and so had Little Bear. Little Bear had chosen Karano's legs.",
+      "Karano woke slowly in the moss and understood several things in order. He was home. He was alive. The woods were very quiet. And he could not feel anything below his knees.",
+      "He tried to slide out from under. It was four hundred pounds of sabretooth cat-bear, and it did not slide.",
+      "He tried harder. Little Bear woke, considered the situation, and helped by moving up. The bear shifted his whole weight forward onto Karano's chest and put his nose an inch from Karano's face. He breathed, contentedly, directly into it.",
+      "Karano lay very still. He had faced worse things than this and had faced them better.",
+      "Three elves had been standing at a respectful distance for some time. Karano turned his head as far as it would go and, with as much dignity as the situation allowed, asked for help.",
+      "One of them came over. He was visibly trying not to smile and not managing it. He scratched the bear's head, said something soft in Elvish and snapped his fingers until Little Bear sighed and climbed off.",
+      "Karano spent the next hour limping. When Agathara came back, Little Bear headbutted her, licked her face, and then leaned on her so hard that Karano, who had been holding her arm for support, was pulled sideways off his feet."
+    ]
+  },
+  {
+    "id": "aro-rising-from-the-ash",
+    "title": "Rising from the Ash",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "Their flight from five flame elementals has collapsed into a burning heap of fallen companions in the ash. Mundane steel barely touches spirits of fire. Then Aro rises up out of the scorched ground, and his saint's sword is something they can feel.",
+    "images": [
+      "scene-aro-rising-from-the-ash_v01_00001_.png"
+    ],
+    "source": "2026-02-25",
+    "searchHint": "flame elementals, scorched forest, Aro phases up out of the dirt, patron-saint sword counts as magical",
+    "narrativeSource": "Book Three — The Burned Forest (2026-02-25)",
+    "narrative": [
+      "The forest past the witches' gate had burned, and it had burned hotter than any natural fire. The ground was still oven-hot under their boots and the smoke hung perfectly still. There was no wind at all.",
+      "Karava saw the embers drifting toward them in pairs, like eyes.",
+      "They ran, and the running went worse than any fight could have. Reginald stumbled and Karava scooped him up over one shoulder. Fireballs came down around them. Another stumble and another, and in moments most of the party lay in a burning tangle of limbs in the ash, Karano knocked senseless, an elbow in somebody's eye. Only Agathara stayed on her feet.",
+      "The elementals were spirits made of flame and they hardly noticed steel. Reginald's dagger went through one as if through smoke.",
+      "Then the ground beside the pile began to glow.",
+      "Aro came up out of it. He was not climbing out. He rose through the scorched earth as if it were water, plate armor assembling itself out of golden light as he came, and his sword was already in his hands.",
+      "A spirit can be hurt by a saint, it turned out. When his blade went into the nearest elemental it did not pass through. It bit, and the fire-thing came apart around it in a spray of sparks and ash.",
+      "The party picked themselves up out of the heap and turned to fight, which they should have done in the first place."
+    ]
+  },
+  {
+    "id": "aro-wards-push-back",
+    "title": "The Wards Push Back",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "In the drained valley stands a walled circle ringed with stone pillars and covered in huge binding sigils, built to keep spirits in. When Aro walks toward it, the light pouring off him bends backward, away from the walls. Beyond the door they pry open, things are moving in the cages.",
+    "images": [
+      "scene-aro-wards-push-back_v02_00001_.png"
+    ],
+    "source": "2026-03-19",
+    "searchHint": "warded Colosseum prison, binding sigils, Aro physically repelled, light streams away, undead abominations in cages",
+    "narrativeSource": "Book Three — The Drowned Valley (2026-03-19)",
+    "narrative": [
+      "Twenty-seven stone pillars stood in a ring around a taller one. Inside the ring was a walled circle several stories high, its stone carved with sigils as tall as a man.",
+      "Reginald read them with Nightpitch's codex open on his knee. They were bindings. They had been made to stop spirits and powers from passing through walls, floors or ceilings. Whatever had been put in there had been meant to stay there.",
+      "Aro walked toward it.",
+      "His light always trailed off him a little when he moved, the way warmth comes off a fire. Now it streamed backward, away from the walls, as if he were walking into a strong wind that only he could feel. The closer he came, the harder it pulled. He stopped. He did not need to be told what that meant.",
+      "Karano pried one of the doors open about two feet.",
+      "Inside were rows of cells set into the stone, ringing a massive central cage of welded steel, and something was moving in them. Witch Sight showed pools of dark corruption everywhere, so dense it was hard to look at. Undead abominations, Reginald said quietly. It had been a prison where corrupted things were studied.",
+      "Agathara suggested, not entirely as a joke, that they open the whole place up and let it loose on the giant.",
+      "They closed the door. Aro walked back to the others with his light settling around him again, and he did not look back at the walls."
+    ]
+  },
+  {
+    "id": "aro-a-box-in-the-dark",
+    "title": "A Box in the Dark",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "While Reginald is busy with the well of darkness, Aro searches the collapsed shelving of the crystal dome. He comes back with a lacquered box painted with flowers, swollen with water, the kind of treasure a scholar would trade his supper for.",
+    "images": [
+      "scene-aro-a-box-in-the-dark_v03_00001_.png"
+    ],
+    "source": "2026-03-26",
+    "searchHint": "Aro finds lacquered box, crystal dome, waterlogged documents, price of magic, it's really dark inside this box",
+    "narrativeSource": "Book Three — The Crystal Dome (2026-03-26)",
+    "narrative": [
+      "Under the dome the light came in through hexagonal facets of quartz and laid patterns across the floor. The patterns had been put there on purpose. The whole shrine was a meditation, a place built to think in.",
+      "Reginald was busy with the darkness in the well. Aro was busy with the mess.",
+      "There was a great deal of it: shelving that had collapsed under a thousand years of water and mud, and broken pottery. Aro knelt among it and moved things aside with the patience of the dead. Under the heaviest of the fallen shelves he found a box.",
+      "It was lacquered wood painted with flowers, perhaps forty by fifty centimeters, swollen with water so badly that the lid had sealed itself shut. He lifted it into his own light and turned it over carefully.",
+      "\"It's really dark inside this box,\" he said, which was true, because it was full of paper.",
+      "Reginald was across the room before anyone else had moved. It took an hour to get the lid off without destroying what was inside. Some of the pages had blurred past reading at the edges. The rest was philosophy: nature as the eternal foundation, humanity as an anomaly within it, and a price for pure magic that was not corruption.",
+      "Reginald said he would sooner leave the food behind than leave those papers. Nobody doubted him. Aro carried the box anyway, in case it was worth something to someone, if there was anyone left in Ambria to buy it."
+    ]
+  },
+  {
+    "id": "aro-where-the-light-dies",
+    "title": "Where the Light Dies",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "Beyond the Fire Mountain portal, deep Davokar is dead: bone-white trees, black rain falling upward, no animal anywhere, a forest that only listens. Where the corruption is too thick to walk through, Aro is how they find the border. When he steps toward it his light drains and gutters like a candle.",
+    "images": [
+      "scene-aro-where-the-light-dies_v02_00001_.png"
+    ],
+    "source": "2026-05-07",
+    "searchHint": "Fire Mountain portal, dead white forest, black rain falling upward, severely corrupted nature, Aro's light as border detector",
+    "narrativeSource": "Book Three — Dark Davokar (2026-05-07)",
+    "narrative": [
+      "They came out of the volcano into a forest none of them had seen before, though all of them had heard of it.",
+      "The trees were dead and still standing, white as bone, their bark warm to the touch as if with fever. There was ash on everything that had not come from the mountain. Mushrooms with faces grew from the trunks. Nothing moved, no bird and no insect. The forest made no sound at all. It only listened.",
+      "On the third day the rain came, and it fell upward. Black drops lifted off the ground and the branches and rose into the sky.",
+      "Some ground was worse than other ground. A day's march through the worst of it would have filled them with more corruption than any of them could carry. They had to go around, and to go around they had to know where the edge was.",
+      "Aro walked ahead.",
+      "He did not have to say anything. When he walked parallel to the edge his light was steady. When he took one step toward the inside, it began to fade. The gold drained out of his outline from that side first, the way warmth drains out of a hand held in cold water, and the flame of him guttered.",
+      "So they followed the dimming of a dead saint around the rotten heart of the forest, one careful step at a time, and Aro kept walking into the place that was draining him so the living would not have to."
+    ]
+  },
+  {
+    "id": "aro-holding-the-drop",
+    "title": "Holding the Drop",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "A pack is coming fast across the plaza toward a ten-foot drop. The party is lowering each other down it by the hand. Aro plants himself at the top as a wall of gold and takes the first one full in the chest. A trail of cookies behind them does the rest.",
+    "images": [
+      "scene-aro-holding-the-drop_v03_00001_.png"
+    ],
+    "source": "2026-07-02",
+    "searchHint": "cookie decoy, pack of clawed abominations, ten-foot drop, Aro blocks the path, superhero landing, they're going for the cookies",
+    "narrativeSource": "Book Three — The Node (2026-07-02)",
+    "narrative": [
+      "At the bottom of the ziggurat a pack howled from the far side of the building, and it was coming their way.",
+      "The temple of the node was a couple of hundred yards off across open ground. They did not want to fight in the open, so they ran. As they ran they scattered cookies behind them, because Agathara always had cookies and nobody had a better idea.",
+      "The ground ended in a ten-foot drop.",
+      "There was no time to find a way around. They lowered each other over the edge by the hand, so that one person hanging from another's grip turned a ten-foot fall into five. The pack was close enough now that they could hear claws on the stone.",
+      "Aro turned around.",
+      "He planted himself at the top of the drop, between the edge and everything coming across the plaza, and made himself as solid as he could. The first of the pack, a thing all spines and claws, hit him at full speed and crunched against his golden plate like a cart against a wall.",
+      "He held. Behind him the last pair of hands let go, and the last of the living dropped safely to the stones below.",
+      "Then Aro jumped. He landed at the bottom on one knee with a fist planted on the ground, exactly like the heroes in the stories, and stood up scratched and pleased with himself.",
+      "He looked back up at the ledge. Half the pack had stopped in the open and turned around.",
+      "\"They're going for the cookies,\" he said."
+    ]
+  },
+  {
+    "id": "aro-no-going-back",
+    "title": "No Going Back",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "Inside the temple of the node, a gemstone the size of a house bleeds sick red light into the dark. This is what the Throne of Thorns has been drinking from for a thousand years. Agathara takes out the Break-Link stick and holds it out to Aro. He looks at her before he takes it.",
+    "images": [
+      "scene-aro-no-going-back_v01_00001_.png"
+    ],
+    "source": "2026-07-02",
+    "searchHint": "the node, house-sized blood-red gemstone, Break Link stick, Agathara hands it to Aro, Are you sure, no going back",
+    "narrativeSource": "Book Three — The Node (2026-07-02)",
+    "narrative": [
+      "They passed between the ancient doors and the pressure of the city stopped, the way it had stopped at the refuge and in the grove. But this was not a refuge. This was the source.",
+      "The hall had no roof. It climbed into the violet dark, and rising out of the floor, or perhaps it was the floor, was the node.",
+      "It was a raw gemstone with no facets, the dull translucent red of old blood held up to a candle, and it was the size of a house standing on end. It bled light the way a wound seeps, in slow pulses of sick radiance that every one of them felt in their teeth and in every old scar their corruption had worked into them.",
+      "This was what the Throne of Thorns reached across worlds to drink from. The Weaver's fetters hung from it. A thousand elves had died one walk at a time to bring someone close enough to cut it off.",
+      "The ritual was not complicated. Draw a closed circle around what you want unlinked. Shatter the stick in the center. Whoever drew it would be bound to the task until it was done. A spirit could not be corrupted, so a spirit should do it.",
+      "Agathara took the stick out of her pack and held it out to him.",
+      "Aro did not take it right away. He looked at her.",
+      "\"Are you sure? There's no going back from this.\"",
+      "\"Of course we're sure,\" she said. \"All this way. Let's do it.\"",
+      "He took it and touched it to the stone. It sparked like flint and eroded like chalk as he dragged it, and a thin curling line of smoke rose up behind him. In the mist around the walls, shapes that had been waiting there a thousand years began to stir."
+    ]
+  },
+  {
+    "id": "aro-the-link-breaks",
+    "title": "The Link Breaks",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "Five bull-headed guardian daemons close in while Reginald holds them off. Aro drags the last of the circle closed around the node. Then he snaps the stick. For one heartbeat the gemstone goes dark. A thousand years of bleeding have stopped.",
+    "images": [
+      "scene-aro-the-link-breaks_v02_00001_.png"
+    ],
+    "source": "2026-07-09",
+    "searchHint": "Break Link accomplished, Aro shatters the stick, node goes dark, thousand years of bleeding stopped, shockwave across every world",
+    "narrativeSource": "Book Three — The Unmaking (2026-07-09)",
+    "narrative": [
+      "The guardians stood around the crystal in a pentagram. They were squat and impossibly heavy, black as cooling tar, bull-headed and neckless, with reaping-hook claws longer than a man. They had been made to stand in a doorway and let nothing through. At first they only threatened, giving the intruders a chance to stop. They did not stop.",
+      "Reginald danced in front of them so that they would look at him and not at the ghost on his knees dragging a stick through the dust. Karano's arrows punched into tar hide. Agathara's shield blazed over all of them at the full strength the node gave every spell cast beside it.",
+      "Aro kept drawing.",
+      "Every stretch of the circle was harder than the one before. The stick dragged as if through wet clay. The node pushed back against him. He had nothing to rely on except his will, and he leaned on it all the way around the house-sized stone. At the end the line met itself.",
+      "He stood in the center with the stick in both hands and broke it.",
+      "It made a sound like a string pulled past its breaking point, finally and mercifully snapping. Shards sprayed across the room.",
+      "The node's pulse stopped.",
+      "For one heartbeat the great gemstone went dark. The sick red light guttered out of it, and a thousand years of bleeding stopped at last.",
+      "Somewhere across the world, a black obsidian throne lost the thing that had made it a god. Somewhere else, very quietly, a weaver's fetters began to fail.",
+      "Aro was on his knees, wrung out, with the pieces of the stick in his hands. Then the node began to scream."
+    ]
+  },
+  {
+    "id": "aro-the-light-goes-out",
+    "title": "The Light Goes Out",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "Three iron standards are driven into the flagstones of Saroklaw Square with a sound like bells struck in a cellar, and the light goes out. Every connection to Prios dies. Aro Sunspear, a saint held to this world by that light, goes almost entirely transparent and looks down at his own hands.",
+    "images": [
+      "scene-aro-the-light-goes-out_v02_00001_.png"
+    ],
+    "source": "2026-08-06",
+    "searchHint": "iron standards, corrupted sanctifying rite, Aro goes translucent, looks at his hands, sun tokens go cold",
+    "narrativeSource": "Book Three — The Last Battle (2026-08-06)",
+    "narrative": [
+      "The crows had come back, and this time they did not pass over. They stopped and hung above the northern half of the city in a rolling ceiling, and under it the daylight turned the color of an old bruise.",
+      "Out of the northern road came an army that marched in step under standards. Three runners broke from the column, each carrying an iron standard longer than a man. They drove them into the flagstones with a sound like bells struck in a cellar.",
+      "And the light went out.",
+      "The daylight was still there. It was the other light that went. In every cleric on the square it guttered like a lamp in a draught, and then it was gone. Every soldier wearing a sun token felt it go cold against his chest.",
+      "Aro Sunspear stood beside Agathara, as he always did.",
+      "He went translucent. His golden plate thinned until the flagstones showed through it. His sword was a faint outline in his hand. He raised his hands and looked at them, and through them, and said something in Old Ambrian that she did not catch.",
+      "He could not strike a blow in that state. That was the point of the standards. They had been made to strip away exactly the power Agathara and her saint had spent the campaign learning to wield.",
+      "He stepped in front of her anyway, a guttering outline with nothing left in it but the habit of standing there, and he stayed there."
+    ]
+  },
+  {
+    "id": "group-garavax-takes-the-army",
+    "title": "Garavax Takes the Army",
+    "character": "The Company",
+    "characterSlug": "group",
+    "description": "Two thousand soldiers come down into the drowned valley with drums and trumpets. Garavax, the ancient giant who ruled this land before humankind, charges straight into them. Under cover of the slaughter, four mud-caked figures slip across the flats toward the colonnade temple.",
+    "images": [
+      "scene-group-garavax-takes-the-army_v02_00001_.png"
+    ],
+    "source": "2026-04-09",
+    "searchHint": "Garavax charges 2000 troops, Esmeralda's camp, abomination prison, party crosses to the Colonnade Temple",
+    "narrativeSource": "Book Three — The Colonnade Temple (2026-04-09)",
+    "narrative": [
+      "Garavax had ruled the valley before humanity came. He had butchered whole settlements of the first arrivals, extracted tribute from the rest, and been bound in the end inside a mountain the Symbarians built around him. When the fetters weakened he broke out, and his footsteps had cut a swath through Davokar wide enough that the party had mistaken it for something flying.",
+      "Now he walked the drained bottom of his old valley looking for something. Days before, they had watched him pulp a fleeing ranger with a thrown boulder and then turn the body over to read its badge.",
+      "On the morning the drums came, the party was in the palace.",
+      "There were more than two thousand soldiers, coming down through the pass in good order with trumpets and banners, aiming for Esmeralda's camp by the old prison. They never reached it, because the giant reached them first.",
+      "He went into the army like a man walking into tall grass. Ranks folded in front of him. Boulders the size of carts went up out of his hands and came down in the formations, and the noise that rolled across the mudflats was a battle the party could feel through the soles of their boots.",
+      "Nobody was looking at the flats. That was the point.",
+      "They went in mud disguises, low and fast, across the stinking orange flats toward the half-sunk colonnade temple to the northwest. Somebody had recently dug out its north entrance. From inside came voices speaking an ancient dialect of troll.",
+      "Behind them, the giant's roaring went on for a long time, and then it stopped."
+    ]
+  },
+  {
+    "id": "group-the-god-war",
+    "title": "The God-War",
+    "character": "The Company",
+    "characterSlug": "group",
+    "description": "The node dies screaming, and every power for worlds around comes for what spills out. The Five Sisters dive on it, dragons dive on the Sisters, and Spider Lords the size of whales climb out of torn air to feed. Underneath them, four figures run for their lives. They survive because they are too small to be worth noticing.",
+    "images": [
+      "scene-group-the-god-war_v03_00001_.png"
+    ],
+    "source": "2026-07-09",
+    "searchHint": "node death scream, dragons, Five Sisters, Spider Lords tear dimensional gates, god-war, party flees, too small to notice",
+    "narrativeSource": "Book Three — The Unmaking (2026-07-09)",
+    "narrative": [
+      "The node screamed as it died. It was worse than a sound. It was a shockwave with no air to carry it, rolling out in every direction and through every dimension at once, a tide of unbound power washing across the yonder world and across worlds that had no names. It passed through the party like cold through a held breath.",
+      "The temple's binding runes went dead, and the building peeled away from around them and broke apart, leaving them standing under the violet sky.",
+      "The power that had spilled out was a beacon, and everything came to it.",
+      "The five guardian daemons fled. They were the small things now.",
+      "The Five Sisters folded their great wounded-butterfly wings and dived on the dead gem. Out of the dark came dragons, drawn to the largest unmaking in an age, and they dived on the Sisters. The air itself tore open in ragged gates, and through the gates climbed Spider Lords with bodies like barges and legs twenty feet long, coming to feed.",
+      "A god-war broke out over the corpse of the thing they had killed.",
+      "The party ran.",
+      "They ran across the battlefield as a Sister's violet beam seared something huge, and a golden giant's hand the size of a wagon sheared off its wrist and came down beside them in an explosion of rock. They ran as whale-sized spiders stamped past close enough to shake their teeth. Smaller abominations fled alongside them and were crushed or eaten.",
+      "Nothing came after them. That was the only reason they lived. Among those things they were too small to be worth the trouble."
+    ]
+  },
+  {
+    "id": "group-the-boy-who-held-the-door",
+    "title": "The Boy Who Held the Door",
+    "character": "The Company",
+    "characterSlug": "group",
+    "description": "Aeon Iroh is unmaking itself, and a thin voice is calling them to run toward it. Aluin felt the node die from across the world and could not stop himself from coming. Now he stands with his arms flung wide, burning, and holds a door open that wants to close.",
+    "images": [
+      "scene-group-the-boy-who-held-the-door_v01_00001_.png"
+    ],
+    "source": "2026-07-09",
+    "searchHint": "Aluin's rescue portal, held open by will, creation-light boiling out of him, Little Bear guides them, tumble home to the Mother Tree",
+    "narrativeSource": "Book Three — The Unmaking (2026-07-09)",
+    "narrative": [
+      "Past the avenue, the god-war thinned out. The city did not. It was coming apart under their feet.",
+      "Then a voice came from the side, thin and strained. \"Something here, I can't hold it long, the whole thing wants to close, you have to run, run towards me!\"",
+      "Little Bear came barreling out of the ruins to show them the way, and ahead of him stood a small figure.",
+      "Aluin stood with his arms flung wide, shaking, and between his hands a door hung open in the air. It was shrinking. He was holding it open with nothing but will.",
+      "Light was coming out of him. It was the same restless light as the shockwave, as if creation itself were trying to boil up out of him toward the unmaking. His face was full of terror and joy and grief all at once.",
+      "He had felt the node die from across the world. The unbound power had called him the way it called the dragons, and he had wanted to go to it. He had not been able to stop himself. So he had come, knowing what that meant about him, and chosen to use it to save them.",
+      "They ran down the last of the street toward him. Little Bear turned to fight the thing behind them and Agathara threw herself at him and talked him around. Reginald's thrown sun went off behind them. Then they were through, into a cold, falling tunnel with no bottom.",
+      "They came out onto wet grass among the roots of the Mother Tree. It was ordinary, cold, real grass, and it was home.",
+      "Aluin fell down beside them, pale and smoking, his skin sizzling, and the door snapped shut behind him."
+    ]
+  },
+  {
+    "id": "group-names",
+    "title": "Names",
+    "character": "The Company",
+    "characterSlug": "group",
+    "description": "The left flank doesn't break so much as dissolve, one man and then a hundred. Out of the rout comes a woman's voice, hoarse and enormous. The Queen of Ambria stands alone on a slab of fallen masonry with no mask, no crown and no bodyguard. She is shouting soldiers' names, and some of them turn around.",
+    "images": [
+      "scene-group-names_v01_00001_.png"
+    ],
+    "source": "2026-08-10",
+    "searchHint": "left flank dissolves, Korinthia unmasked on fallen masonry, naming soldiers, Dacia the Third, Knife Company, hold with me",
+    "narrativeSource": "Book Three — I Am the Bill (2026-08-10)",
+    "narrative": [
+      "Everyone says the line breaks. It doesn't. It dissolves.",
+      "Three hundred people at the far end of the square were still fighting. Somewhere in the middle of them a man decided it was just arithmetic. There was no version of the next few minutes in which he was alive. He stepped back one pace to think about it, the man beside him saw the step, and it went down the line at the speed of a walking horse. Three hundred became two hundred and eighty, then forty were running, and then there was no line, only nine hundred meters of open flagstone with things coming across it toward the field hospital.",
+      "Out of the smoke at the back of the rout came a woman's voice. It wasn't a horn or a captain. It was hoarse and cracked past music and enormous, the voice of someone who had learned to be heard across a playground forty years ago and had never needed to use it since.",
+      "She stood on a slab of fallen masonry in the exact center of the collapsing army. She wore no mask and no crown and had no bodyguard. Ravenia Caliphas was thirty meters away fighting to reach her and would not make it in time. The Queen of Ambria stood alone above the heads of the rout, holding a sword she had not cleaned in six hours.",
+      "She was not shouting commands. She was shouting names.",
+      "\"Caliphas, left, take the left! Dacia. Dacia the Third, I know your name. I saw you at Castor with a broken arm. You did not go to the rear then either. Get up! Knife Company! Serrano's company, Serrano's dead, that makes it yours, so take it! You told me to my face three days ago that you were not my subjects. Prove it. Prove it here and prove it now. Hold with me!\"",
+      "\"For nine years I've been wrong. You can spend the last minutes of the world proving I was right about you, or you can spend them running. I don't care much which. But you will not do it where I can see you.\"",
+      "Here and there, in ones and twos across a hundred meters of collapsing ground, people stopped.",
+      "The party added their own names to hers: the witches and clan folk who had held the green sector, the two rangers they had pulled out of the drowned valley, anyone they had ever stood beside. Then the ones and twos became tens, and the line started to exist again where seconds before there had only been a crowd."
+    ]
+  },
+  {
+    "id": "group-the-deep-trolls",
+    "title": "The Deep Trolls",
+    "character": "The Company",
+    "characterSlug": "group",
+    "description": "Agathara's returning light has just cleared the eastern approach when the flagstones jump. A section of paving forty feet across stands up on one edge like a lid coming off. The trolls who climb out from the deep dark under Symbar are not forest trolls. They are the old kind, grey and slab-bodied, and they come up in total silence.",
+    "images": [
+      "scene-group-the-deep-trolls_v03_00001_.png"
+    ],
+    "source": "2026-08-10",
+    "searchHint": "flagstones stand up like a lid, deep trolls rise from under Symbar, thirty, complete silence, sapper laughing",
+    "narrativeSource": "Book Three — I Am the Bill (2026-08-10)",
+    "narrative": [
+      "Where the gap had been there was a sudden silence. The flagstones in the middle of the eastern approach jumped about a foot in the air. Then they did it again.",
+      "Then a section of paving forty feet across stood up on one edge like a lid coming off a pot. Something reached out from underneath and pushed it the rest of the way over onto the things standing beyond it.",
+      "They came up out of the deep dark under Symbar the way water comes up a well shaft.",
+      "They were trolls, but not the ragged forest kind. They were the old kind, the deep kind: grey, slab-bodied, mossed over with a thousand years underground. The first one had to turn sideways to get a shoulder out of the hole. Then it stood up, to a height that made the Ambrians nearest it simply sit down.",
+      "There were thirty of them, and they did not shout.",
+      "That was what everyone remembered afterward. The whole square was screaming, and the trolls came up in complete silence and looked around and worked out which way was which. Then they walked into the back of the host that had just broken through, without ever breaking into a run, and it came apart in front of them like wet paper.",
+      "One of them picked up something the size of a horse and threw it two hundred feet.",
+      "Somewhere on the wall an Ambrian sapper who had been fighting for eleven hours started laughing and could not stop, and had to be sat down."
+    ]
+  },
+  {
+    "id": "group-apple-blossoms",
+    "title": "Apple Blossoms",
+    "character": "The Company",
+    "characterSlug": "group",
+    "description": "Aluin looks up at the World Serpent without any fear at all. \"Oh,\" he says, \"that's what it is.\" Then he says goodbye to his family and throws himself into the sky. For a while nothing changes. Then beams of green and white light begin to spear out through the serpent, and apple blossoms come down.",
+    "images": [
+      "scene-group-apple-blossoms_v01_00001_.png",
+      "scene-group-apple-blossoms_v03_00001_.png"
+    ],
+    "source": "2026-08-12",
+    "searchHint": "Aluin dives into Uron, green and white beams of light, apple blossoms, the serpent dissolves into a blizzard of blossoms",
+    "narrativeSource": "Book Three — Uron (2026-08-12)",
+    "narrative": [
+      "They found each other again in the smoke, winded and scattered. Agathara had screamed until she had no air left to scream with. Out of the fog came Little Bear, and beside him was Aluin, looking up at the thing in the sky.",
+      "He was not even slightly afraid.",
+      "\"Oh,\" he said. \"That's what it is.\"",
+      "He looked at it for a while longer, and they watched him work it out. There was nothing else on that square big enough for it. Nothing else in the world, maybe.",
+      "\"Well,\" said Aluin, \"I guess I have something that I'm big enough for.\"",
+      "He turned to them. \"You've been my friends and my family. And you saved me. And now I guess it's my turn to try to save you.\"",
+      "He squared his shoulders and drew the great sword, and he launched himself into the sky. A five-and-a-half-foot boy with a five-foot sword flew at a serpent two hundred feet across. Then he was gone into it.",
+      "Agathara had her hand up, reaching after him. Don't go. Aro had to pull her back into motion.",
+      "For a solid minute nothing changed. The serpent did what it was doing. The fighting went on and the running went on.",
+      "Then a beam of light speared out through its side, green and white, solid at the core and fraying at the edges. Then another, and another, all over the vast body, as if a tree made of light were growing inside the thing and coming out through its skin. At the ends of the beams the light came apart into apple blossoms, and they began to fall across the square.",
+      "Everyone stopped and looked up. The whole mountain of the creature came apart into blossoms: a tower of pink and white petals the height of the sky, collapsing and blowing outward across Symbar like a blizzard. Nobody could see anything. The whole square smelled of apple blossom."
+    ]
+  },
+  {
+    "id": "reginald-sidriana-rises",
+    "title": "Sidriana Rises",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "Two terrified Queen's Rangers left a talking urn in the Azure Palace and would not go near it again. Reginald translates the gold inlay: Sidriana. They pour out a sample. The black tar inside will not stop coming, and it rises into the shape of a woman who has been dead for a thousand years.",
+    "images": [
+      "scene-reginald-sidriana-rises_v04_00001_.png"
+    ],
+    "source": "2026-04-02",
+    "searchHint": "urn of Sidriana, black tar spills, spirit rises, Azure Palace, Queen's Rangers Edvid Almin",
+    "narrativeSource": "Book Three — Sidriana (2026-04-02)",
+    "narrative": [
+      "The Rangers, Edvid and Almin, had found the urn in a tower bedroom and carried it down before they realized what it was doing, and since then they had refused to touch it. It talked, they said. Not out loud.",
+      "It was black ceramic, about a meter tall, with gold inlay that Reginald could almost read. One name was clear: Sidriana. That was the name on the tablecloth in the records room, the founder who had led her people to this valley. The rest were words for holding, binding and keeping.",
+      "Inside was a swirling black substance like tar. A small sample seemed reasonable. Karano tipped the urn.",
+      "It did not stop.",
+      "The black poured out in a thick, gleaming flood that would not be stoppered, with no end to it, like the sorcerer's apprentice's buckets. It spread across the polished floor of the blue palace. Reginald backed away from it with his hands up. Then it stopped spreading and started to rise.",
+      "It drew itself up into a figure: a tall woman made of oil and shadow, long hair falling down her back, every fold of an old-fashioned robe picked out in gleaming black. She turned her head and looked at them, and they heard her inside their minds without any sound.",
+      "Aro's sense for danger, which had never once failed them, stayed completely quiet.",
+      "She was not angry. She was grieving. She had been sealed in a jar while her city drowned, and the mud had dried, and now strangers were standing in her palace. The Rangers were pressed against the doorway in pure terror.",
+      "\"She's a very sad old spirit,\" Agathara told them kindly, \"not a demon lady.\""
+    ]
+  },
+  {
+    "id": "reginald-tree-grown-through-him",
+    "title": "A Tree Grown Through Him",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "In the witches' grove, where corruption stops at the edge of the spring grass, they offer Reginald a way out. They bite a leather stick between his teeth and open him with a knife. Then they grow a tree up through his body to drink the corruption out of him.",
+    "images": [
+      "scene-reginald-tree-grown-through-him_v04_00001_.png"
+    ],
+    "source": "2026-06-18",
+    "searchHint": "witches cleanse Reginald, tree grown through organs, Blight Mark removed, leather stick, Amnar",
+    "narrativeSource": "Book Three — The Mother Tree (2026-06-18)",
+    "narrative": [
+      "The grove was a perfect circle of spring in a dead forest. There was green grass and there were flowers, and for the first time in seventeen days they heard a bird. Crossing the boundary was like stepping out of smoke. The corruption stopped at the edge of the grass.",
+      "The witches gave them everything they had left: healing potions, arrows, antidotes, spores, elixirs. It was the last resupply any of them would get before the end, and everyone knew it.",
+      "Then the witch Amnar looked at Reginald's hands.",
+      "He had lived at the edge of his own corruption for months. He was Blight Marked, the stigmata black to the wrist, one bad day from becoming something that would have to be put down. There was a way, she said. It would hurt.",
+      "They laid him on a table of living wood. They put a leather stick between his teeth and he bit down on it. Amnar opened him with a knife.",
+      "She pressed a seed into the wound, and it grew. A pale sapling came up out of his chest, its roots threading through him, and its branches went black as they rose. The tree was drinking the corruption out of him, and he felt every inch of it. He arched off the table and screamed into the leather, and the witches in their bark masks held him down and kept singing.",
+      "When the tree had nothing left to take, it withered, and they pulled it out of him root by root.",
+      "He lay there afterward looking at his hands. The black was fading off them. His Blight Mark was gone. He felt cleaner than he had in months, younger, and he could not stop turning his clean hands over in front of his face."
+    ]
+  },
+  {
+    "id": "karano-the-ring-bearer",
+    "title": "The Ring-Bearer",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "A towering winter elf declares the Iron Pact over. The covenant is broken, she says, and the darkness of Davokar has opened its eyes. Karano asks her for the Iron Pact ring anyway, and she gives it to him.",
+    "images": [
+      "scene-karano-the-ring-bearer_v05_00001_.png"
+    ],
+    "source": "2026-02-11",
+    "searchHint": "winter elf grants Iron Pact ring, Karano ring-bearer, the Iron Pact is over, darkness of Davokar opened its eyes",
+    "narrativeSource": "Book Three — The Hall of a Thousand Tears (2026-02-11)",
+    "narrative": [
+      "She was taller than any of them, taller even than Karava. She had feline features, pale armor, and two slender artifact swords at her hips. Karava, who did not get nervous, got quiet.",
+      "She was not hostile. She was resigned, which was worse.",
+      "\"The time of the Iron Pact is over,\" she said. The darkness of Davokar had just opened its eyes. The elves were closing the Hall and taking down its portals so its power could not fall to what was coming. They would keep three gates open in the south for human refugees. The Prince had gone to Symbar, stubborn as a fool, to defend the one who sang under the tree.",
+      "Karano was of the Pact. He had walked these halls before. He spoke Elvish, and hearing it from the eternity elf at the door had moved him more than he had let anyone see.",
+      "He asked her for the ring.",
+      "She looked at him a long time. The covenant was broken, she said. There was nothing left for a ring to mean.",
+      "He asked anyway.",
+      "\"We forged these,\" she said at last. \"Do as you wish.\" She took the iron band and put it on his arm herself, and the oldest order in Davokar had one more sworn member on the day it ended.",
+      "\"I'll fight the darkness,\" Karano said, \"to my dying breath.\" She had heard many oaths in her life, and from her face she believed this one.",
+      "Then she lifted the body of Mayor Nightpitch from beside the well, carried it away into the dark, and did not come back."
+    ]
+  },
+  {
+    "id": "karano-across-the-black-water",
+    "title": "Across the Black Water",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "A fifteen-meter stream of liquid corruption cuts across the dead forest, and swimming it would kill Reginald. They spend a whole day felling a tree to bridge it. When Reginald slips on the log, Karano has him by the wrist.",
+    "images": [
+      "scene-karano-across-the-black-water_v04_00001_.png"
+    ],
+    "source": "2026-05-07",
+    "searchHint": "Blackwater stream of liquid corruption, felling a tree to bridge it, Karano anchors rope, hauls Reginald back",
+    "narrativeSource": "Book Three — Dark Davokar (2026-05-07)",
+    "narrative": [
+      "The stream was the color of wet slate and moved like oil. It came up from somewhere underneath the world. Its banks had withered back for yards on either side, and corrupted beetles fed at its edges and grew fat. Moths with screaming faces on their wings drifted over it.",
+      "Swimming it would cost more corruption than Reginald had room for. A raft would cost less. A bridge would cost least of all.",
+      "There was a dead tree that would reach. Felling it was harder than it looked. Reginald and Agathara swung at it and failed, comically, and cracked an axe handle doing it. Karano did the rest. When it came down it splashed black corruption over all of them.",
+      "He crossed first, light on his feet, and tied off a rope on the far bank so the others would have a line to hold.",
+      "Agathara went over like a dancer and did not seem to notice the drop.",
+      "Reginald was halfway across when his boot slid. One moment he was walking the log and the next he was going over sideways toward the black water with nothing in reach.",
+      "Karano already had him. He had come back out onto the log without anyone seeing him move, and his hand was locked around Reginald's wrist. He had one foot braced and the other hand on the rope, and the scholar hung over the stream from his grip.",
+      "He pulled Reginald up as if lifting a pack. Neither of them said anything. On the far bank they cut the rope and left it there."
+    ]
+  },
+  {
+    "id": "karano-first-standard-falls",
+    "title": "The First Standard Falls",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "Losadra's three iron standards have killed every connection to Prios in Saroklaw Square. Karano has worked out that they are what has to fall. He puts armor-piercing shot after shot into one of them until it bends and splits, and for Agathara it feels like a break in the clouds.",
+    "images": [
+      "scene-karano-first-standard-falls_v05_00001_.png"
+    ],
+    "source": "2026-08-06",
+    "searchHint": "iron standards, corrupted sanctifying rite, Karano armor-piercing arrows breaks a standard, Agathara feels the cloud cover break",
+    "narrativeSource": "Book Three — The Last Battle (2026-08-06)",
+    "narrative": [
+      "The standards were longer than a man and solid iron, driven into the flagstones by runners from Losadra's column. While they stood, nothing holy worked properly in the square. Agathara fought on crippled. Aro was a guttering outline that could not land a blow. Every sun token on every soldier's chest had gone cold.",
+      "Karano shot Ervano Vearra's sword hand first and set it on fire, because he could. Then he looked at the standards again and understood that they were the real target.",
+      "Arrows did not like them. Most of his shots pinged off and shattered against the iron. The things were ringed with flesh-reaper imps, small hook-boned creatures that had once been people.",
+      "He switched to armor-piercing heads and worked one standard the way he would work a stubborn lock, putting every shot in the same place. On the fourth one the iron took a visible bend. He put the next shot into the bend.",
+      "The standard split. A chunk of it went spinning away across the flagstones, ringing.",
+      "Across the square Agathara felt it like clouds breaking in the rain, a flash of sunlight through the overcast. Her power did not come back all the way, but some of it came back. The shield around each of her companions brightened visibly, all at once.",
+      "Everybody understood what that meant. The standards were how this would be won.",
+      "Karano nocked another arrow and looked for the next one."
+    ]
+  },
+  {
+    "id": "aro-over-her-broken-body",
+    "title": "Over Her Broken Body",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "Agathara has fallen thirty feet onto a corrupted ledge and her leg is broken. Armored beetles the size of dogs crawl out of the black fungus to swarm her. Aro stands over her and none of them gets past him.",
+    "images": [
+      "scene-aro-over-her-broken-body_v04_00001_.png"
+    ],
+    "source": "2026-06-11",
+    "searchHint": "Agathara shattered leg 2 HP, Chasm Stag beetles, Aro Master Bodyguard, screaming beetle siren, cliff ledge",
+    "narrativeSource": "Book Three — The Cliff (2026-06-11)",
+    "narrative": [
+      "She had not been able to slow her fall. She came down the washed-out cliff stair onto the ledge and her leg folded the wrong way beneath her. The sound it made was enough. She lay where she had landed, white-faced and bleeding, with almost nothing left in her.",
+      "The ledge was crusted with black fungus, fat and bubbling with sludge, and out of it came beetles.",
+      "They were the size of foxes and armored, and they spread out to flank like wolves. They had acid in their bites. Their shells, when cracked, released poison. They went for the woman who could not get up.",
+      "Aro came down the cliff in one controlled drop and landed over her.",
+      "He did not leave her side for the rest of the fight. He stood astride her with his sword moving, and every beetle that came for her met the blade first. One bite still got past him and burned acid into her broken leg. That was the only one.",
+      "Then one of the beetles stopped fighting, threw back its head, and began to scream.",
+      "It was not a sound of pain. It was a call, a siren meant to tear the air open and summon something worse through it. Karano's arrow went down its open throat and it burst. Reginald kicked another one off the ledge before it could burst on top of them.",
+      "Aro fumbled once. The poison found him through the gaps in his light, his focus slipped, and for two terrible breaths he was barely there at all. Then he was solid again, still standing over her, and the beetles were dead or gone.",
+      "Below the ledge, something larger was stirring."
+    ]
+  },
+  {
+    "id": "aro-dead-elves-road",
+    "title": "The Dead Elves' Road",
+    "character": "Aro Sunspear",
+    "characterSlug": "aro",
+    "description": "Aeon Iroh unmakes the living and has a monster for everyone who makes a noise. The elves who walked it before them left a trail scratched into its walls. Aro, who does not need to fear the dust, finds the first mark.",
+    "images": [
+      "scene-aro-dead-elves-road_v05_00001_.png"
+    ],
+    "source": "2026-06-25",
+    "searchHint": "dead elf gatherers' glyphs, not the open ways, go down by the embalmers, find the broken butterfly, Aro spots the first marker",
+    "narrativeSource": "Book Three — Aeon Iroh (2026-06-25)",
+    "narrative": [
+      "The city ran to every horizon, grey with dust under a violet sky that was not a sky. Something the size of a building passed overhead now and then, blotting out the light, and smashed into some distant part of the ruins with a sound like a landslide.",
+      "Every half hour the city took a little more from the living. Aro was already dead, and it did not trouble him.",
+      "He walked ahead of the others along the edges of the alleys, looking at the walls. The elves had spent a thousand years mapping this place one gatherer at a time, each walking as far as they could and scratching what they had learned for the next. Someone had to have left a sign.",
+      "He found it low on a wall where the dust had banked up against it. He knelt and brushed the grit away with his golden fingers, and the scratches came up in his light.",
+      "Not the open ways. The open ways are watched. Go down by the embalmers, under-streets where the dust lies still.",
+      "There were more marks after that, in alley after alley, each one scratched by a different hand. Don't make light. Don't make sound. Don't climb too high. And at last, in a hand that looked very tired: Find the broken butterfly.",
+      "They went down by the embalmers, where the dust lay still. They did not talk. When they had to signal one another, they tossed a little dust."
+    ]
+  },
+  {
+    "id": "group-the-valley-drowned",
+    "title": "The Valley Drowned",
+    "character": "The Company",
+    "characterSlug": "group",
+    "description": "Sidriana takes them into her memory. They see the founding of her city and her people's cheering, and her kneeling before the giant with six wagons of tribute. Then they see its end. Symbar drags the crown ship over the mountains, and from the Throne of Thorns he breaks the peaks and drowns the valley.",
+    "images": [
+      "scene-group-the-valley-drowned_v04_00001_.png"
+    ],
+    "source": "2026-04-02",
+    "searchHint": "Sidriana's vision, Emba Silba founding, Garavax pact, Simbar drags the crown ship, Throne of Thorns shatters the peaks, flood",
+    "narrativeSource": "Book Three — Sidriana (2026-04-02)",
+    "narrative": [
+      "She did not tell them. She showed them. The vision was complete in every sense: they smelled it and heard it and felt the cold of the mountain air.",
+      "Refugees came over the mountains into a green valley. A woman with silvery-grey hair, in a fur-lined azure cloak, climbed a boulder above them and spread her arms. \"Welcome home,\" said Sidriana, \"to the cradle of enlightenment, to Emba Silba.\" The cheering went on and on. The city rose in what felt like an afternoon, built to keep out the darkness and the corruption.",
+      "They saw her kneel before the Lord of the Cliff with six wagons of slaughtered game behind her. It was tribute for peace. The giant would be feared and appeased and never defeated, and for a long time that was enough.",
+      "Then they saw the end.",
+      "A king rose from an overgrown throne on a dais carried by motionless warriors. Behind him, dragged over the mountains by more people than they could count, came the stone ship with the crown, the same ship they had seen beached in Symbar.",
+      "That was the first time they saw the Throne of Thorns in action.",
+      "The peaks at both mouths of the valley broke off and fell, and the people were trapped. The rivers rose at his command, the water came down on the city, and his army in double ranks cut down everyone who ran.",
+      "The vision ended in a blinding flash from the colonnade temple. Several of them were bleeding when they came back to themselves, from the skin, from wounds no weapon had made. Sidriana was weeping."
+    ]
+  },
+  {
+    "id": "group-the-queen-unmasked",
+    "title": "The Queen Unmasked",
+    "character": "The Company",
+    "characterSlug": "group",
+    "description": "Two sisters who have not spoken in years face each other across Saroklaw Square, and nobody will speak first. Frank, in immaculate linen, walks out alone and opens the parley. Then the Queen of Ambria does something nobody has seen in thirty years. She takes off her mask.",
+    "images": [
+      "scene-group-the-queen-unmasked_v04_00001_.png"
+    ],
+    "source": "2026-07-30",
+    "searchHint": "parlay at Saroklaw Square, Frank opens the parley, manual of etiquette, Korinthia removes her mask, Stand with me then judge me after",
+    "narrativeSource": "Book Three — The Grand Meeting (2026-07-30)",
+    "narrative": [
+      "They came into the square by different roads and arranged themselves with enormous care. Ambrian infantry stood to the south in ordered blocks. The undead stood to the north, and they did not shift. The witches stood in a loose crescent to the west, and the last twenty-four of the Thorn Pack in a line across the east. A bier under cloth-of-gold was carried in by six slaves and set down at the edge of the square, and both armies pretended not to look at it.",
+      "Nobody would speak first. The silence stretched and went sour.",
+      "Agathara leaned over to Frank. He had crossed Davokar alone in clean linen to bring Reginald lunch at the end of the world. She asked if he would get things started.",
+      "\"Pardon?\" It was explained to him. \"I see. We do seem to be at a bit of an impasse. Perhaps let us now consult the manual of etiquette in this situation.\" He visibly turned the pages of a book in his head. \"Yes. That will do, I believe.\"",
+      "He walked alone into the middle of Saroklaw Square. \"Ladies and gentlemen, we have been gathered here today for a parlay. Korinthia, my lady, you are the head of the largest state left in existence, and therefore you hold the floor.\"",
+      "The Queen looked at him for a long moment. \"Franklin, you have been a joy and a delight the whole time I've known you. Carry on, good sir.\"",
+      "Then she reached up and took off her mask.",
+      "Nobody had seen her do it in thirty-odd years. She was older than anyone expected, and a scar ran across her face from the war and her captivity. She never spoke in public. She spoke now.",
+      "\"I came here for a chair. I spent nine years, forty thousand lives, and my sister, and my mother's rest, on that chair. And it is broken. I'm not going to stand here and ask you to trust me. You would be fools to do so. I ask you to stand with me for the next couple of days. Stand with me, and then judge me after.\""
+    ]
+  },
+  {
+    "id": "group-the-forest-stands-up",
+    "title": "The Forest Stands Up",
+    "character": "The Company",
+    "characterSlug": "group",
+    "description": "For a thousand years the black root cover over Symbar lay perfectly still. At dawn on the last day it is moving the way a lake moves in the wind. Then, with no signal, it opens across two-thirds of the city at once, like skin peeling back, and everything that was buried under it walks out.",
+    "images": [
+      "scene-group-the-forest-stands-up_v04_00001_.png"
+    ],
+    "source": "2026-08-06",
+    "searchHint": "dawn, root cover opens like skin peeling back, thousand years of buried things, walking thorn-trees, the dead, ninety seconds to the wall",
+    "narrativeSource": "Book Three — The Last Battle (2026-08-06)",
+    "narrative": [
+      "Nobody slept, and everybody pretended to. Fires burned every twenty yards along the wall, because whatever came would come up in the dark.",
+      "At dawn they saw it plainly: four miles of Davokar, and none of it was acting like a forest anymore.",
+      "The root cover had lain over Symbar like a black skin for a thousand years, and through all of those years it had been still. That was the thing about it that made the hair stand up the first time anyone saw it. Now it moved the way a lake moves in a light wind, a slow restlessness miles wide. Every few seconds a patch of it bulged, held, and sank back. They had watched enough by now to know that the ones that did not sink back were the ones that opened.",
+      "A smell came off it that nobody could name. The oldest barbarian on the wall, a woman of seventy with red flower dye still on her face, said her grandmother had a word for it. The word meant the air in a grave when you first break it open. She would not say it aloud. You did not talk about such things where they could hear you.",
+      "There was no signal and no horn.",
+      "Across two-thirds of Symbar, in the same second, the root cover opened. It did not open like a door. It peeled back like skin.",
+      "Out of it came things that had been under it since before Ambria existed: pale and jointed, with limbs bent wrong, blinking at a light they had not needed in a thousand years. Thorn-things four meters high, which had been trees an hour before, walked and dragged their own roots behind them like torn skirts. Behind them, in a slow grey tide that did not hurry, came the dead: a thousand years of Symbar's dead, and every corpse the roots had taken since.",
+      "It was ninety seconds to the wall. From the deck of the Crown Ship a woman's voice carried across the whole square.",
+      "\"All sectors, nobody chase them. Hold!\""
+    ]
+  },
+  {
+    "id": "group-i-am-the-bill",
+    "title": "I Am the Bill",
+    "character": "The Company",
+    "characterSlug": "group",
+    "description": "Sister Losadra has stood for nine hours in the middle of her army, raising every coalition soldier who falls near her. When the party comes for her she makes a single gesture. Two thousand flesh-crafted step back and open a ring of empty flagstones sixty feet across. She plants her black sword and waits for them.",
+    "images": [
+      "scene-group-i-am-the-bill_v07_00001_.png"
+    ],
+    "source": "2026-08-10",
+    "searchHint": "Losadra opens a sixty-foot circle, plants her black sword, you unmade the world with clean hands, I am the bill",
+    "narrativeSource": "Book Three — I Am the Bill (2026-08-10)",
+    "narrative": [
+      "She had spent the whole fight on the north side. For nine hours she had stood in the middle of her own army, and every time one of the coalition's soldiers fell anywhere near her she reached out with one gauntleted hand in an unhurried little gesture and they got back up. There were Ambrians in her ranks now. There were witches. A Beast Clan warrior with red flower dye on his face stood at her shoulder with his own axe still in his back.",
+      "She was not fighting the battle. She was harvesting it.",
+      "Agathara's beam of light washed over her and split and peeled away, and she paused. She turned her head and looked at them.",
+      "Then she did the last thing they expected. She sent everyone away.",
+      "It took one gesture. Two thousand flesh-crafted things stepped back and opened a circle of empty flagstones sixty feet across in the middle of the worst battle in the history of the world. She stood in the center of it, planted the black sword point-down in the stone, leaned on it and waited. The noise of the apocalypse went on all around a perfect ring of silence.",
+      "\"Now it's just us,\" said Sister Losadra. \"Do you know how long I've been dead? Do you know what it's like to be dead and awake for it? Two years, every hour of it, and every hour I spent thinking about the three of you, and about a street in Ravenia, and about the fact that I was right.\"",
+      "\"I said you were a rot. I said it when it was unfashionable, when the Curia was going soft and the Duke was making pets of heretics and everyone wanted to be kind. I said they'll pull it all down. And here we are. There's no Ravenia. There's no Thistle Hold. There's no Ambria. There's no church. The throne of a thousand years is broken. You did all of that, not me. All I ever did was burn villages.\"",
+      "\"You unmade the world, and you did it with clean hands, and you've never once been made to look at the bill.\"",
+      "She lifted her sword and came across the ring toward them.",
+      "\"I am the bill. And it's time to be paid.\""
+    ]
+  },
+  {
+    "id": "agathara-who-youd-leave-the-world-for",
+    "title": "Who You'd Leave the World For",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "They wake among the roots of the Mother Tree after the escape from Aeon Iroh. Aluin is sitting by himself with his greatsword across his knees, trying to work out what he has become. Agathara sits down beside him and waits for him to speak, and by the end of it the two of them are family.",
+    "images": [
+      "scene-agathara-who-youd-leave-the-world-for_v09_00001_.png"
+    ],
+    "source": "2026-07-30",
+    "searchHint": "Aluin what am I now, family, sister, Mother Tree roots, greatsword across his knees",
+    "narrativeSource": "Book Three — The Grand Meeting (2026-07-30)",
+    "narrative": [
+      "They woke between two roots, each wider than a city street, in a nest of moss that someone had laid around them with care. Ten hours had passed. The woods were silent: no birds, no insects, nothing in the branches of the greatest tree in the world. The only sound was something very large shifting in its sleep far below them, felt more in the teeth than heard.",
+      "Aluin was outside, leaning against a root with his greatsword across his knees and his fingers tapping on the blade. He was staring at nothing.",
+      "Agathara sat down next to him and didn't say anything. He started to speak twice and stopped.",
+      "\"I've known you since I was little,\" he said finally. \"I was little and you were so big, and then I got big, and then you got little, and now I just feel so little again.\"",
+      "It came out of him in pieces. He had spent his whole life being part of creation, and the biggest thing that had ever happened to him was watching a world come apart. \"And I loved it. And I had to go to it. And I wanted to go to it.\" He looked at her. \"What am I now?\"",
+      "\"You get to choose,\" she said.",
+      "He asked how she had chosen. She thought about it honestly. \"I think I knew more what I didn't want to be. And I knew what I wanted to fix. And I figured out how to become the person who could fix the things that were wrong.\"",
+      "There was more under it, and it came out too. He missed his father. His mother was not herself; the forest was eating at her. He did not know who he had left. \"That's why when I saw you guys there, I had to save you instead of go to the world.\"",
+      "Agathara bumped his shoulder with hers. \"Isn't that what family is? Who you would leave the whole world behind to save?\"",
+      "He thought about that for a while. Then he said he had always wanted a sister, and she said she had always wanted a punk little brother. He smiled for the first time since they had come home."
+    ]
+  },
+  {
+    "id": "agathara-the-mirror",
+    "title": "The Mirror",
+    "character": "Agathara Silvershade",
+    "characterSlug": "agathara",
+    "description": "Losadra has hunted them for two years. Now she has run Reginald through and stands over him. Agathara has had enough. She takes out the little silver hand mirror with roses on its back, and a single line of Prios's light cuts the Whip of Prios in half from crown to heel.",
+    "images": [
+      "scene-agathara-the-mirror_v10_00001_.png"
+    ],
+    "source": "2026-08-10",
+    "searchHint": "Sister Losadra killed, rose-inlaid hand mirror, Prios Burning Glass, cut in half, Reginald down with a sword through him",
+    "narrativeSource": "Book Three — I Am the Bill (2026-08-10)",
+    "narrative": [
+      "The second iron standard had gone down in a spray of steel, and Agathara's power had come back so bright that it was like a stadium's lamps all coming on at once with her at the center. That had been an hour and a lifetime ago.",
+      "Then Losadra had sent her army back and opened a ring of empty flagstones sixty feet across in the middle of the worst battle in the history of the world, and planted her black sword, and waited.",
+      "Nobody in that ring had come out of the fight clean. Aro had taken a stroke meant for Agathara, and in the shock of it he had cut his own leg off with his backswing. Karano had rolled his ankle, gone down on his back, and kept shooting from the ground. Reginald had needled through her plate from behind until her armor's retribution threw him across the stones, bleeding and black with corruption. Agathara had healed him, and he had gotten up and gone back in.",
+      "The whole time, Agathara had kept talking at her. Did you think I was just going to lie down and die while you hunted me? You made it all this way and you can't even hit me. How pathetic. She had kept Losadra's attention on her, and kept her away from the others.",
+      "Losadra's last swing went into Reginald instead. He fell in front of Agathara with the black sword through him, and the dead woman looked straight at her.",
+      "\"That's one more for the record books.\"",
+      "Agathara knelt and brushed Reginald's hair back from his forehead, and the healing went into him. Then she stood up.",
+      "She was done. Losadra had tried to ruin her life. She had tried to make Agathara afraid and to make her run. She had dug up her own dead and walked them across half of Davokar to make Agathara look at them.",
+      "From the pocket of her robe Agathara took a small silver hand mirror with roses inlaid in its back. She tilted the glass toward Losadra.",
+      "The light that came out of it was a single line. It started at the crown of Losadra's head and went down to her heels, and it did not stop on the way.",
+      "Losadra went to her knees in two pieces that hadn't yet understood they were apart. \"Prios,\" she was saying. \"Prios dictates my faith, and it condemns you. It always did. It always— It's so very cold. Why is it so—\"",
+      "Every crow in Symbar left at once. It was the loudest single sound of the whole day: thousands of them rising off the ruins and the standards and the dead in one enormous dry roar, a black smear going north and growing smaller. The light came back to Saroklaw Square the way it comes back into a room when someone opens the shutters."
+    ]
+  },
+  {
+    "id": "reginald-through-a-drawn-sword",
+    "title": "Through a Drawn Sword",
+    "character": "Reginald",
+    "characterSlug": "reginald",
+    "description": "In the Queen's pavilion, Reginald tells Korinthia that the power node is gone. She orders that no one who knows it leaves the tent alive, and her Field Marshal draws and comes at them. Reginald doesn't step back. He tells her that it wasn't the worst news he had.",
+    "images": [
+      "scene-reginald-through-a-drawn-sword_v11_00001_.png"
+    ],
+    "source": "2026-07-30",
+    "searchHint": "Korinthia's pavilion, no one leaves this tent, Ravenia Caliphas draws sword, Reginald keeps talking, root cover stood up",
+    "narrativeSource": "Book Three — The Grand Meeting (2026-07-30)",
+    "narrative": [
+      "The Ambrian camp was everything a camp should be. The latrines were downwind and the horses properly picketed, and the sentries challenged correctly and apologized when they asked for weapons. The party handed theirs over. Past the wizard tents and the panzer alchemists dicing on their sapper kits, past a field hospital much too large and very full, stood the command pavilion.",
+      "Field Marshal Ravenia Caliphas never took her hand off her sword. The general looked them over the way a man looks at timber. Adelia Erobel of the Ordo Magica stood a little apart from both of them. Seated at the center, in a blood-red dress and a blank porcelain mask, the Queen of Ambria did not greet them, did not offer a seat, and did not move for a long time.",
+      "\"There are two kinds of people in Davokar,\" she said at last. \"Those who serve the light, and those who serve the dark. And the second kind lie about it. Which are you?\"",
+      "They swore to the light. She thanked them and dismissed them to the ranks.",
+      "\"We have big news,\" said Reginald. \"It's kind of pressing.\"",
+      "He told her the cleanest true version he could. They had gone to the yonder world and seen the power node destroyed. Shock read straight through a blank mask. Ravenia's knuckles whitened on her hilt.",
+      "\"What we say here must never be repeated outside this tent,\" said Korinthia. \"General. No one leaves this tent that knows this.\"",
+      "The general moved. Ravenia's sword came out of its scabbard, and she came across the carpet at them with the point leading.",
+      "Reginald did not step back. He did not raise a hand. He kept talking, in the same reasonable voice, to the masked woman behind the blade.",
+      "\"See, the trouble with that is that you're going to need all the fighters you can get. Because that wasn't the worst news I had to share.\"",
+      "There was a pause. \"Wait,\" said the Queen. \"Just a second. Continue.\"",
+      "He continued. He was halfway through explaining what the Throne's power had been holding asleep under Davokar when the ground rolled under the camp. A horse screamed somewhere and a tent pole snapped. A scout came through the flap white-faced.",
+      "\"A mile of the northern root cover just stood up.\""
+    ]
+  },
+  {
+    "id": "karano-every-language-he-knows",
+    "title": "Every Language He Knows",
+    "character": "Karano",
+    "characterSlug": "karano",
+    "description": "The square is coming apart in slabs, and worms the size of river barges are bursting up under the formations to swallow whole squads. The Ambrian trumpets sound the retreat, but only the Ambrians know what the call means. Karano climbs the highest masonry he can find and roars it in every language he knows: get to the ship.",
+    "images": [
+      "scene-karano-every-language-he-knows_v10_00001_.png"
+    ],
+    "source": "2026-08-12",
+    "searchHint": "sinkholes, spawn of Uron worms, fall back to the Crown Ship, Karano shouts in every language, fighting retreat",
+    "narrativeSource": "Book Three — Uron (2026-08-12)",
+    "narrative": [
+      "Losadra was dead and it had changed nothing. Then the ground started taking people.",
+      "The flagstones of Saroklaw Square came up in slabs, tilting like ice on a thawing river. Sinkholes opened fifteen and twenty feet across and swallowed whatever was standing on them. Something the size of a river barge burst up through the middle of a Beast Clan reserve, opened, took a hundred people into itself whole, and went back down. The flagstones settled over the hole. Someone counted nine of the things on the square, and from the sound of the rest of Symbar there were hundreds.",
+      "The plan was the ship. If everyone could get off the ground and onto the Crown Ship's deck, the worms couldn't come up under them. Korinthia had already given the order. Ambrian trumpets were sounding the retreat across the whole field.",
+      "Only the Ambrians knew what the trumpets meant. Karano watched the blocks of trained infantry fall back toward the center. Everyone else, the barbarians and the witches and the clan folk and the elves, kept fighting where they stood.",
+      "He found the highest slab of fallen masonry he could reach and climbed it.",
+      "Then he started shouting. He shouted in Ambrian, in Elvish, in the clan tongues, in every language he had ever learned a word of. To the ship. Get to the ship. If we're on board, we won't have to worry about the things beneath our feet.",
+      "When a worm came up under a knot of fleeing soldiers, he did not try to kill it. He shot it in the face to make it flinch, again and again, buying them the seconds to run. Then he went back to shouting."
+    ]
   }
 ]

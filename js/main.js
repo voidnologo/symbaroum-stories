@@ -413,6 +413,7 @@ async function initGallery() {
     { slug: 'aro',      label: 'Aro Sunspear' },
     { slug: 'karano',   label: 'Karano' },
     { slug: 'reginald', label: 'Reginald' },
+    { slug: 'group',    label: 'The Company' },
   ];
 
   // Group scenes by characterSlug
